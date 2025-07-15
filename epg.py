@@ -25,7 +25,7 @@ for ch in chans:
         start_times = []
         for pg in programs:
             start_dt = datetime.combine(date_obj, datetime.strptime(pg['time'], '%H:%M:%S').time())
-            start_str = start_dt.strftime('%Y%m%d%H%M%S +0000')
+            start_str = start_dt.strftime('%Y%m%d%H%M%S +0545')
             start_times.append(start_str)
             
         start_times.append(datetime.combine(date_obj, datetime.max.time()))
@@ -33,7 +33,7 @@ for ch in chans:
         for i, pg in enumerate(programs):
             if pg['programme_name']=="TBA": continue
             txt+=f"""
-    <programme start="{start_times[i]}" stop="{start_times[i+1]}" channel="{ch['id']}" catchup-id="{pg['id']}">
+    <programme start="{start_times[i]}" stop="{start_times[i+1]}" channel="nettv-{ch['id']}" catchup-id="{pg['id']}">
                 <title>{html.escape(pg['programme_name'])}</title>
     </programme>"""
 
