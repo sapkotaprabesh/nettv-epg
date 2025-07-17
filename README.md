@@ -13,7 +13,7 @@
 ### usage
 - epg.py requires channels details json file. 
 - to get it, login to https://webtv.nettv.com.np/livetv while checking network tab
-- save the response to the request made to this url as `in/resp.json`:
-https://ott-livetv-resources.geniustv.geniussystems.com.np/subscriber/livetv/v1/namespaces/<xyz>/subscribers/<pqr>/serial/<abc>-<xyz>
+- save the response to the request made to this url as `in/resp.json`:<br>
+`https://ott-livetv-resources.geniustv.geniussystems.com.np/subscriber/livetv/v1/namespaces/<xyz>/subscribers/<pqr>/serial/<abc>-<xyz>`
 - run: `python epg.py`
 - get epg files in `out/` directory
