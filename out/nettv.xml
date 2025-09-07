@@ -556,9 +556,6 @@
     <display-name>GTV</display-name>
     <icon src="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-11-153111-68495063a55fd"></icon>
 </channel>
-    <programme start="20250830020000 +0545" stop="2025-08-30 23:59:59.999999" channel="nettv-49" catchup-id="189900049">
-                <title>Miscellaneous</title>
-    </programme>
     <programme start="20250831013000 +0545" stop="2025-08-31 23:59:59.999999" channel="nettv-49" catchup-id="201380122">
                 <title>Miscellaneous</title>
     </programme>
@@ -569,6 +566,9 @@
                 <title>Miscellaneous</title>
     </programme>
     <programme start="20250913020000 +0545" stop="2025-09-13 23:59:59.999999" channel="nettv-49" catchup-id="190341196">
+                <title>Miscellaneous</title>
+    </programme>
+    <programme start="20250914013000 +0545" stop="2025-09-14 23:59:59.999999" channel="nettv-49" catchup-id="201830042">
                 <title>Miscellaneous</title>
     </programme>
 </tv>
