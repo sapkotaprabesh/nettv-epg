@@ -565,4 +565,7 @@
     <programme start="20251018020000 +0545" stop="2025-10-18 23:59:59.999999" channel="nettv-49" catchup-id="191401696">
                 <title>Miscellaneous</title>
     </programme>
+    <programme start="20251025020000 +0545" stop="2025-10-25 23:59:59.999999" channel="nettv-49" catchup-id="191655232">
+                <title>Miscellaneous</title>
+    </programme>
 </tv>
