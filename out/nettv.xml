@@ -562,500 +562,8 @@
     <programme start="20251115020000 +0545" stop="2025-11-15 23:59:59.999999" channel="nettv-49" catchup-id="192506092">
                 <title>Miscellaneous</title>
     </programme>
-    <programme start="20251103054500 +0545" stop="20251103055500 +0545" channel="nettv-212" catchup-id="10837913">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103055500 +0545" stop="20251103055500 +0545" channel="nettv-212" catchup-id="10756352">
-                <title>Chatroom Japan</title>
-    </programme>
-    <programme start="20251103055500 +0545" stop="20251103060000 +0545" channel="nettv-212" catchup-id="10837916">
-                <title>Chatroom Japan</title>
-    </programme>
-    <programme start="20251103060000 +0545" stop="20251103060000 +0545" channel="nettv-212" catchup-id="10756355">
-                <title>Direct Talk</title>
-    </programme>
-    <programme start="20251103060000 +0545" stop="20251103061000 +0545" channel="nettv-212" catchup-id="10837919">
-                <title>IMPACTS:Climates Change the World</title>
-    </programme>
-    <programme start="20251103061000 +0545" stop="20251103061500 +0545" channel="nettv-212" catchup-id="10837922">
-                <title>Design Museum Japan</title>
-    </programme>
-    <programme start="20251103061500 +0545" stop="20251103064500 +0545" channel="nettv-212" catchup-id="10837925">
-                <title>Where We Call Home</title>
-    </programme>
-    <programme start="20251103064500 +0545" stop="20251103065500 +0545" channel="nettv-212" catchup-id="10837928">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103065500 +0545" stop="20251103065500 +0545" channel="nettv-212" catchup-id="10837931">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20251103065500 +0545" stop="20251103070000 +0545" channel="nettv-212" catchup-id="10756364">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20251103070000 +0545" stop="20251103070000 +0545" channel="nettv-212" catchup-id="10837934">
-                <title>BOSAI: Science That Can Save Your Life</title>
-    </programme>
-    <programme start="20251103070000 +0545" stop="20251103071500 +0545" channel="nettv-212" catchup-id="10756367">
-                <title>BOSAI: Science That Can Save Your Life</title>
-    </programme>
-    <programme start="20251103071500 +0545" stop="20251103071500 +0545" channel="nettv-212" catchup-id="10837937">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251103071500 +0545" stop="20251103072500 +0545" channel="nettv-212" catchup-id="10756370">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251103072500 +0545" stop="20251103072500 +0545" channel="nettv-212" catchup-id="10837940">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251103072500 +0545" stop="20251103073000 +0545" channel="nettv-212" catchup-id="10756373">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251103073000 +0545" stop="20251103073000 +0545" channel="nettv-212" catchup-id="10837943">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251103073000 +0545" stop="20251103074000 +0545" channel="nettv-212" catchup-id="10756376">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251103074000 +0545" stop="20251103074500 +0545" channel="nettv-212" catchup-id="10837946">
-                <title>Hello! NHK WORLD-JAPAN</title>
-    </programme>
-    <programme start="20251103074500 +0545" stop="20251103075500 +0545" channel="nettv-212" catchup-id="10837949">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103075500 +0545" stop="20251103081000 +0545" channel="nettv-212" catchup-id="10837952">
-                <title>Cinematic Journey</title>
-    </programme>
-    <programme start="20251103081000 +0545" stop="20251103081500 +0545" channel="nettv-212" catchup-id="10837955">
-                <title>The Masterpieces of Ukiyo-E Producer Tsutaju</title>
-    </programme>
-    <programme start="20251103081500 +0545" stop="20251103081500 +0545" channel="nettv-212" catchup-id="10837958">
-                <title>Seasoning the Seasons</title>
-    </programme>
-    <programme start="20251103081500 +0545" stop="20251103084500 +0545" channel="nettv-212" catchup-id="10756385">
-                <title>Seasoning the Seasons</title>
-    </programme>
-    <programme start="20251103084500 +0545" stop="20251103085500 +0545" channel="nettv-212" catchup-id="10837961">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103085500 +0545" stop="20251103091000 +0545" channel="nettv-212" catchup-id="10837964">
-                <title>The World Heritage Sites in Japan</title>
-    </programme>
-    <programme start="20251103091000 +0545" stop="20251103091500 +0545" channel="nettv-212" catchup-id="10837967">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20251103091500 +0545" stop="20251103091500 +0545" channel="nettv-212" catchup-id="10756391">
-                <title>Darwin&#x27;s Amazing Animals</title>
-    </programme>
-    <programme start="20251103091500 +0545" stop="20251103094000 +0545" channel="nettv-212" catchup-id="10837970">
-                <title>Biz Stream</title>
-    </programme>
-    <programme start="20251103094000 +0545" stop="20251103094500 +0545" channel="nettv-212" catchup-id="10756394">
-                <title>Timelapse</title>
-    </programme>
-    <programme start="20251103094500 +0545" stop="20251103095500 +0545" channel="nettv-212" catchup-id="10837973">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103095500 +0545" stop="20251103100500 +0545" channel="nettv-212" catchup-id="10837976">
-                <title>MATSURI: The Heartbeat of Japan</title>
-    </programme>
-    <programme start="20251103100500 +0545" stop="20251103101000 +0545" channel="nettv-212" catchup-id="10837979">
-                <title>Japan Delish</title>
-    </programme>
-    <programme start="20251103101000 +0545" stop="20251103101500 +0545" channel="nettv-212" catchup-id="10837982">
-                <title>Nun&#x27;s Cookbook</title>
-    </programme>
-    <programme start="20251103101500 +0545" stop="20251103104200 +0545" channel="nettv-212" catchup-id="10837985">
-                <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20251103104200 +0545" stop="20251103104500 +0545" channel="nettv-212" catchup-id="10837988">
-                <title>Sumopedia</title>
-    </programme>
-    <programme start="20251103104500 +0545" stop="20251103105500 +0545" channel="nettv-212" catchup-id="10837991">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103105500 +0545" stop="20251103110500 +0545" channel="nettv-212" catchup-id="10837994">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20251103110500 +0545" stop="20251103111000 +0545" channel="nettv-212" catchup-id="10837997">
-                <title>The Beauty of Japanese Swords: Famous Masterpieces</title>
-    </programme>
-    <programme start="20251103111000 +0545" stop="20251103111500 +0545" channel="nettv-212" catchup-id="10838000">
-                <title>Time-Lapse Journey</title>
-    </programme>
-    <programme start="20251103111500 +0545" stop="20251103114500 +0545" channel="nettv-212" catchup-id="10838003">
-                <title>Where We Call Home</title>
-    </programme>
-    <programme start="20251103114500 +0545" stop="20251103114500 +0545" channel="nettv-212" catchup-id="10756412">
-                <title>Newsline Asia 24</title>
-    </programme>
-    <programme start="20251103114500 +0545" stop="20251103115500 +0545" channel="nettv-212" catchup-id="10838006">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103115500 +0545" stop="20251103121000 +0545" channel="nettv-212" catchup-id="10838009">
-                <title>Cinematic Journey</title>
-    </programme>
-    <programme start="20251103121000 +0545" stop="20251103121500 +0545" channel="nettv-212" catchup-id="10838012">
-                <title>The Masterpieces of Ukiyo-E Producer Tsutaju</title>
-    </programme>
-    <programme start="20251103121500 +0545" stop="20251103121500 +0545" channel="nettv-212" catchup-id="10838015">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251103121500 +0545" stop="20251103122500 +0545" channel="nettv-212" catchup-id="10756415">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251103122500 +0545" stop="20251103122500 +0545" channel="nettv-212" catchup-id="10838018">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251103122500 +0545" stop="20251103123000 +0545" channel="nettv-212" catchup-id="10756418">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251103123000 +0545" stop="20251103123000 +0545" channel="nettv-212" catchup-id="10756421">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251103123000 +0545" stop="20251103124000 +0545" channel="nettv-212" catchup-id="10838021">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251103124000 +0545" stop="20251103124500 +0545" channel="nettv-212" catchup-id="10838024">
-                <title>Hello! NHK WORLD-JAPAN</title>
-    </programme>
-    <programme start="20251103124500 +0545" stop="20251103124500 +0545" channel="nettv-212" catchup-id="10756427">
-                <title>Newsline Asia 24</title>
-    </programme>
-    <programme start="20251103124500 +0545" stop="20251103125500 +0545" channel="nettv-212" catchup-id="10838027">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103125500 +0545" stop="20251103131000 +0545" channel="nettv-212" catchup-id="10838030">
-                <title>The World Heritage Sites in Japan</title>
-    </programme>
-    <programme start="20251103131000 +0545" stop="20251103131500 +0545" channel="nettv-212" catchup-id="10838033">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20251103131500 +0545" stop="20251103131500 +0545" channel="nettv-212" catchup-id="10838036">
-                <title>Seasoning the Seasons</title>
-    </programme>
-    <programme start="20251103131500 +0545" stop="20251103134500 +0545" channel="nettv-212" catchup-id="10756430">
-                <title>Seasoning the Seasons</title>
-    </programme>
-    <programme start="20251103134500 +0545" stop="20251103135500 +0545" channel="nettv-212" catchup-id="10838039">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103135500 +0545" stop="20251103140500 +0545" channel="nettv-212" catchup-id="10838042">
-                <title>MATSURI: The Heartbeat of Japan</title>
-    </programme>
-    <programme start="20251103140500 +0545" stop="20251103141000 +0545" channel="nettv-212" catchup-id="10838045">
-                <title>Japan Delish</title>
-    </programme>
-    <programme start="20251103141000 +0545" stop="20251103141500 +0545" channel="nettv-212" catchup-id="10838048">
-                <title>Nun&#x27;s Cookbook</title>
-    </programme>
-    <programme start="20251103141500 +0545" stop="20251103144200 +0545" channel="nettv-212" catchup-id="10838051">
-                <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20251103144200 +0545" stop="20251103144500 +0545" channel="nettv-212" catchup-id="10838054">
-                <title>Sumopedia</title>
-    </programme>
-    <programme start="20251103144500 +0545" stop="20251103145500 +0545" channel="nettv-212" catchup-id="10838057">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103145500 +0545" stop="20251103150500 +0545" channel="nettv-212" catchup-id="10838060">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20251103150500 +0545" stop="20251103151000 +0545" channel="nettv-212" catchup-id="10838063">
-                <title>The Beauty of Japanese Swords: Famous Masterpieces</title>
-    </programme>
-    <programme start="20251103151000 +0545" stop="20251103151500 +0545" channel="nettv-212" catchup-id="10838066">
-                <title>Time-Lapse Journey</title>
-    </programme>
-    <programme start="20251103151500 +0545" stop="20251103151500 +0545" channel="nettv-212" catchup-id="10838069">
-                <title>Biz Stream</title>
-    </programme>
-    <programme start="20251103151500 +0545" stop="20251103154000 +0545" channel="nettv-212" catchup-id="10756445">
-                <title>Darwin&#x27;s Amazing Animals</title>
-    </programme>
-    <programme start="20251103154000 +0545" stop="20251103154500 +0545" channel="nettv-212" catchup-id="10756448">
-                <title>Timelapse</title>
-    </programme>
-    <programme start="20251103154500 +0545" stop="20251103154500 +0545" channel="nettv-212" catchup-id="10756451">
-                <title>NHK News 7</title>
-    </programme>
-    <programme start="20251103154500 +0545" stop="20251103160000 +0545" channel="nettv-212" catchup-id="10838072">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103160000 +0545" stop="20251103161500 +0545" channel="nettv-212" catchup-id="10838075">
-                <title>Cinematic Journey</title>
-    </programme>
-    <programme start="20251103161500 +0545" stop="20251103164500 +0545" channel="nettv-212" catchup-id="10838078">
-                <title>Where We Call Home</title>
-    </programme>
-    <programme start="20251103164500 +0545" stop="20251103170000 +0545" channel="nettv-212" catchup-id="10838081">
-                <title>Newsroom Tokyo</title>
-    </programme>
-    <programme start="20251103170000 +0545" stop="20251103171000 +0545" channel="nettv-212" catchup-id="10838084">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20251103171000 +0545" stop="20251103171300 +0545" channel="nettv-212" catchup-id="10838087">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20251103171300 +0545" stop="20251103171300 +0545" channel="nettv-212" catchup-id="10838090">
-                <title>Direct Talk</title>
-    </programme>
-    <programme start="20251103171300 +0545" stop="20251103172800 +0545" channel="nettv-212" catchup-id="10756460">
-                <title>Direct Talk</title>
-    </programme>
-    <programme start="20251103172800 +0545" stop="20251103172800 +0545" channel="nettv-212" catchup-id="10838093">
-                <title>DOSUKOI Sumo Salon</title>
-    </programme>
-    <programme start="20251103172800 +0545" stop="20251103173300 +0545" channel="nettv-212" catchup-id="10756463">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20251103173300 +0545" stop="20251103174000 +0545" channel="nettv-212" catchup-id="10838096">
-                <title>The Beauty of Japanese Swords: Famous Masterpieces</title>
-    </programme>
-    <programme start="20251103174000 +0545" stop="20251103174000 +0545" channel="nettv-212" catchup-id="10838099">
-                <title>Ukiyoe Edo-Life</title>
-    </programme>
-    <programme start="20251103174000 +0545" stop="20251103174500 +0545" channel="nettv-212" catchup-id="10756466">
-                <title>Ukiyoe Edo-Life</title>
-    </programme>
-    <programme start="20251103174500 +0545" stop="20251103180000 +0545" channel="nettv-212" catchup-id="10838102">
-                <title>Newsroom Tokyo</title>
-    </programme>
-    <programme start="20251103180000 +0545" stop="20251103181000 +0545" channel="nettv-212" catchup-id="10838105">
-                <title>MATSURI: The Heartbeat of Japan</title>
-    </programme>
-    <programme start="20251103181000 +0545" stop="20251103181500 +0545" channel="nettv-212" catchup-id="10838108">
-                <title>Nun&#x27;s Cookbook</title>
-    </programme>
-    <programme start="20251103181500 +0545" stop="20251103181500 +0545" channel="nettv-212" catchup-id="10756472">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251103181500 +0545" stop="20251103182500 +0545" channel="nettv-212" catchup-id="10838111">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251103182500 +0545" stop="20251103182500 +0545" channel="nettv-212" catchup-id="10756475">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251103182500 +0545" stop="20251103183000 +0545" channel="nettv-212" catchup-id="10838114">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251103183000 +0545" stop="20251103183000 +0545" channel="nettv-212" catchup-id="10838117">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251103183000 +0545" stop="20251103184000 +0545" channel="nettv-212" catchup-id="10756478">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251103184000 +0545" stop="20251103184500 +0545" channel="nettv-212" catchup-id="10838120">
-                <title>Hello! NHK WORLD-JAPAN</title>
-    </programme>
-    <programme start="20251103184500 +0545" stop="20251103185500 +0545" channel="nettv-212" catchup-id="10838123">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103185500 +0545" stop="20251103190500 +0545" channel="nettv-212" catchup-id="10838126">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20251103190500 +0545" stop="20251103191000 +0545" channel="nettv-212" catchup-id="10838129">
-                <title>The Beauty of Japanese Swords: Famous Masterpieces</title>
-    </programme>
-    <programme start="20251103191000 +0545" stop="20251103191500 +0545" channel="nettv-212" catchup-id="10838132">
-                <title>Time-Lapse Journey</title>
-    </programme>
-    <programme start="20251103191500 +0545" stop="20251103191500 +0545" channel="nettv-212" catchup-id="10756487">
-                <title>Seasoning the Seasons</title>
-    </programme>
-    <programme start="20251103191500 +0545" stop="20251103194500 +0545" channel="nettv-212" catchup-id="10838135">
-                <title>Seasoning the Seasons</title>
-    </programme>
-    <programme start="20251103194500 +0545" stop="20251103195500 +0545" channel="nettv-212" catchup-id="10838138">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103195500 +0545" stop="20251103201000 +0545" channel="nettv-212" catchup-id="10838141">
-                <title>Cinematic Journey</title>
-    </programme>
-    <programme start="20251103201000 +0545" stop="20251103201500 +0545" channel="nettv-212" catchup-id="10838144">
-                <title>The Masterpieces of Ukiyo-E Producer Tsutaju</title>
-    </programme>
-    <programme start="20251103201500 +0545" stop="20251103201500 +0545" channel="nettv-212" catchup-id="10838147">
-                <title>Medical Frontiers</title>
-    </programme>
-    <programme start="20251103201500 +0545" stop="20251103204500 +0545" channel="nettv-212" catchup-id="10756493">
-                <title>Medical Frontiers</title>
-    </programme>
-    <programme start="20251103204500 +0545" stop="20251103205500 +0545" channel="nettv-212" catchup-id="10838150">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103205500 +0545" stop="20251103211000 +0545" channel="nettv-212" catchup-id="10838153">
-                <title>The World Heritage Sites in Japan</title>
-    </programme>
-    <programme start="20251103211000 +0545" stop="20251103211500 +0545" channel="nettv-212" catchup-id="10838156">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20251103211500 +0545" stop="20251103214500 +0545" channel="nettv-212" catchup-id="10838159">
-                <title>Where We Call Home</title>
-    </programme>
-    <programme start="20251103214500 +0545" stop="20251103215500 +0545" channel="nettv-212" catchup-id="10838162">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103215500 +0545" stop="20251103220500 +0545" channel="nettv-212" catchup-id="10838165">
-                <title>MATSURI: The Heartbeat of Japan</title>
-    </programme>
-    <programme start="20251103220500 +0545" stop="20251103221000 +0545" channel="nettv-212" catchup-id="10838168">
-                <title>Japan Delish</title>
-    </programme>
-    <programme start="20251103221000 +0545" stop="20251103221500 +0545" channel="nettv-212" catchup-id="10838171">
-                <title>Nun&#x27;s Cookbook</title>
-    </programme>
-    <programme start="20251103221500 +0545" stop="20251103224200 +0545" channel="nettv-212" catchup-id="10838174">
-                <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20251103224200 +0545" stop="20251103224500 +0545" channel="nettv-212" catchup-id="10838177">
-                <title>Sumopedia</title>
-    </programme>
-    <programme start="20251103224500 +0545" stop="20251103225500 +0545" channel="nettv-212" catchup-id="10838180">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251103225500 +0545" stop="20251103230500 +0545" channel="nettv-212" catchup-id="10838183">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20251103230500 +0545" stop="20251103231000 +0545" channel="nettv-212" catchup-id="10838186">
-                <title>The Beauty of Japanese Swords: Famous Masterpieces</title>
-    </programme>
-    <programme start="20251103231000 +0545" stop="20251103231500 +0545" channel="nettv-212" catchup-id="10838189">
-                <title>Time-Lapse Journey</title>
-    </programme>
-    <programme start="20251103231500 +0545" stop="20251103231500 +0545" channel="nettv-212" catchup-id="10796111">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251103231500 +0545" stop="20251103232500 +0545" channel="nettv-212" catchup-id="10838192">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251103232500 +0545" stop="20251103232500 +0545" channel="nettv-212" catchup-id="10796114">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251103232500 +0545" stop="20251103233000 +0545" channel="nettv-212" catchup-id="10838195">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251103233000 +0545" stop="20251103233000 +0545" channel="nettv-212" catchup-id="10796117">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251103233000 +0545" stop="20251103234000 +0545" channel="nettv-212" catchup-id="10838198">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251103234000 +0545" stop="20251103234500 +0545" channel="nettv-212" catchup-id="10838201">
-                <title>Hello! NHK WORLD-JAPAN</title>
-    </programme>
-    <programme start="20251103234500 +0545" stop="20251103235500 +0545" channel="nettv-212" catchup-id="10838204">
-                <title>Newsroom Tokyo</title>
-    </programme>
-    <programme start="20251103235500 +0545" stop="2025-11-03 23:59:59.999999" channel="nettv-212" catchup-id="10838207">
-                <title>Cinematic Journey</title>
-    </programme>
-    <programme start="20251104001000 +0545" stop="20251104001300 +0545" channel="nettv-212" catchup-id="10838210">
-                <title>The Masterpieces of Ukiyo-E Producer Tsutaju</title>
-    </programme>
-    <programme start="20251104001300 +0545" stop="20251104001300 +0545" channel="nettv-212" catchup-id="10796126">
-                <title>Direct Talk</title>
-    </programme>
-    <programme start="20251104001300 +0545" stop="20251104002800 +0545" channel="nettv-212" catchup-id="10838213">
-                <title>Direct Talk</title>
-    </programme>
-    <programme start="20251104002800 +0545" stop="20251104002800 +0545" channel="nettv-212" catchup-id="10796129">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20251104002800 +0545" stop="20251104003300 +0545" channel="nettv-212" catchup-id="10838216">
-                <title>DOSUKOI Sumo Salon</title>
-    </programme>
-    <programme start="20251104003300 +0545" stop="20251104004000 +0545" channel="nettv-212" catchup-id="10838219">
-                <title>The Beauty of Japanese Swords: Famous Masterpieces</title>
-    </programme>
-    <programme start="20251104004000 +0545" stop="20251104004000 +0545" channel="nettv-212" catchup-id="10796132">
-                <title>Ukiyoe Edo-Life</title>
-    </programme>
-    <programme start="20251104004000 +0545" stop="20251104004500 +0545" channel="nettv-212" catchup-id="10838222">
-                <title>Ukiyoe Edo-Life</title>
-    </programme>
-    <programme start="20251104004500 +0545" stop="20251104004500 +0545" channel="nettv-212" catchup-id="10796135">
-                <title>Today&#x27;s Close-Up</title>
-    </programme>
-    <programme start="20251104004500 +0545" stop="20251104011500 +0545" channel="nettv-212" catchup-id="10838225">
-                <title>The Musical Diplomat</title>
-    </programme>
-    <programme start="20251104011500 +0545" stop="20251104011500 +0545" channel="nettv-212" catchup-id="10796138">
-                <title>Seasoning the Seasons</title>
-    </programme>
-    <programme start="20251104011500 +0545" stop="20251104014500 +0545" channel="nettv-212" catchup-id="10838228">
-                <title>Seasoning the Seasons</title>
-    </programme>
-    <programme start="20251104014500 +0545" stop="20251104020000 +0545" channel="nettv-212" catchup-id="10838231">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251104020000 +0545" stop="20251104021000 +0545" channel="nettv-212" catchup-id="10838234">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20251104021000 +0545" stop="20251104021500 +0545" channel="nettv-212" catchup-id="10838237">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20251104021500 +0545" stop="20251104021500 +0545" channel="nettv-212" catchup-id="10796144">
-                <title>Medical Frontiers</title>
-    </programme>
-    <programme start="20251104021500 +0545" stop="20251104024500 +0545" channel="nettv-212" catchup-id="10838240">
-                <title>Medical Frontiers</title>
-    </programme>
-    <programme start="20251104024500 +0545" stop="20251104030000 +0545" channel="nettv-212" catchup-id="10838243">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251104030000 +0545" stop="20251104031000 +0545" channel="nettv-212" catchup-id="10838246">
-                <title>MATSURI: The Heartbeat of Japan</title>
-    </programme>
-    <programme start="20251104031000 +0545" stop="20251104031500 +0545" channel="nettv-212" catchup-id="10838249">
-                <title>Nun&#x27;s Cookbook</title>
-    </programme>
-    <programme start="20251104031500 +0545" stop="20251104034500 +0545" channel="nettv-212" catchup-id="10838252">
-                <title>Where We Call Home</title>
-    </programme>
-    <programme start="20251104034500 +0545" stop="20251104040000 +0545" channel="nettv-212" catchup-id="10838255">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251104040000 +0545" stop="20251104041000 +0545" channel="nettv-212" catchup-id="10838258">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20251104041000 +0545" stop="20251104041500 +0545" channel="nettv-212" catchup-id="10838261">
-                <title>Time-Lapse Journey</title>
-    </programme>
-    <programme start="20251104041500 +0545" stop="20251104041500 +0545" channel="nettv-212" catchup-id="10838264">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251104041500 +0545" stop="20251104042500 +0545" channel="nettv-212" catchup-id="10796156">
-                <title>Magical Japanese</title>
-    </programme>
-    <programme start="20251104042500 +0545" stop="20251104042500 +0545" channel="nettv-212" catchup-id="10838267">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251104042500 +0545" stop="20251104043000 +0545" channel="nettv-212" catchup-id="10796159">
-                <title>Easy Japanese</title>
-    </programme>
-    <programme start="20251104043000 +0545" stop="20251104043000 +0545" channel="nettv-212" catchup-id="10796162">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251104043000 +0545" stop="20251104044000 +0545" channel="nettv-212" catchup-id="10838270">
-                <title>Culture Crossroads</title>
-    </programme>
-    <programme start="20251104044000 +0545" stop="20251104044500 +0545" channel="nettv-212" catchup-id="10838273">
-                <title>Hello! NHK WORLD-JAPAN</title>
-    </programme>
-    <programme start="20251104044500 +0545" stop="20251104050000 +0545" channel="nettv-212" catchup-id="10838276">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20251104050000 +0545" stop="20251104051000 +0545" channel="nettv-212" catchup-id="10838279">
-                <title>MATSURI: The Heartbeat of Japan</title>
-    </programme>
-    <programme start="20251104051000 +0545" stop="20251104051500 +0545" channel="nettv-212" catchup-id="10838282">
-                <title>The Masterpieces of Ukiyo-E Producer Tsutaju</title>
-    </programme>
-    <programme start="20251104051500 +0545" stop="20251104054200 +0545" channel="nettv-212" catchup-id="10838285">
-                <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20251104054200 +0545" stop="20251104054500 +0545" channel="nettv-212" catchup-id="10838288">
-                <title>Sumopedia</title>
+    <programme start="20251118010000 +0545" stop="2025-11-18 23:59:59.999999" channel="nettv-49" catchup-id="214117393">
+                <title>Miscellaneous</title>
     </programme>
     <programme start="20251104054500 +0545" stop="20251104060000 +0545" channel="nettv-212" catchup-id="10840526">
                 <title>NHK Newsline</title>
@@ -1081,19 +589,19 @@
     <programme start="20251104071000 +0545" stop="20251104071500 +0545" channel="nettv-212" catchup-id="10840544">
                 <title>Nun&#x27;s Cookbook</title>
     </programme>
-    <programme start="20251104071500 +0545" stop="20251104071500 +0545" channel="nettv-212" catchup-id="10840547">
+    <programme start="20251104071500 +0545" stop="20251104071500 +0545" channel="nettv-212" catchup-id="10795676">
                 <title>Dining with the Chef</title>
     </programme>
-    <programme start="20251104071500 +0545" stop="20251104074500 +0545" channel="nettv-212" catchup-id="10795676">
+    <programme start="20251104071500 +0545" stop="20251104074500 +0545" channel="nettv-212" catchup-id="10840547">
                 <title>Dining with the Chef</title>
     </programme>
     <programme start="20251104074500 +0545" stop="20251104081500 +0545" channel="nettv-212" catchup-id="10840550">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20251104081500 +0545" stop="20251104081500 +0545" channel="nettv-212" catchup-id="10795682">
+    <programme start="20251104081500 +0545" stop="20251104081500 +0545" channel="nettv-212" catchup-id="10840553">
                 <title>Document 72 Hours</title>
     </programme>
-    <programme start="20251104081500 +0545" stop="20251104084500 +0545" channel="nettv-212" catchup-id="10840553">
+    <programme start="20251104081500 +0545" stop="20251104084500 +0545" channel="nettv-212" catchup-id="10795682">
                 <title>Document 72 Hours</title>
     </programme>
     <programme start="20251104084500 +0545" stop="20251104091500 +0545" channel="nettv-212" catchup-id="10840556">
@@ -1114,10 +622,10 @@
     <programme start="20251104103000 +0545" stop="20251104104000 +0545" channel="nettv-212" catchup-id="10840568">
                 <title>Dig More Japan!</title>
     </programme>
-    <programme start="20251104104000 +0545" stop="20251104104000 +0545" channel="nettv-212" catchup-id="10795700">
+    <programme start="20251104104000 +0545" stop="20251104104000 +0545" channel="nettv-212" catchup-id="10840571">
                 <title>Dining with the Chef Mini</title>
     </programme>
-    <programme start="20251104104000 +0545" stop="20251104104200 +0545" channel="nettv-212" catchup-id="10840571">
+    <programme start="20251104104000 +0545" stop="20251104104200 +0545" channel="nettv-212" catchup-id="10795700">
                 <title>Dining with the Chef Mini</title>
     </programme>
     <programme start="20251104104200 +0545" stop="20251104104500 +0545" channel="nettv-212" catchup-id="10840574">
@@ -1126,28 +634,28 @@
     <programme start="20251104104500 +0545" stop="20251104111500 +0545" channel="nettv-212" catchup-id="10840577">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20251104111500 +0545" stop="20251104111500 +0545" channel="nettv-212" catchup-id="10795709">
+    <programme start="20251104111500 +0545" stop="20251104111500 +0545" channel="nettv-212" catchup-id="10840580">
                 <title>Journeys in Japan</title>
     </programme>
-    <programme start="20251104111500 +0545" stop="20251104114500 +0545" channel="nettv-212" catchup-id="10840580">
+    <programme start="20251104111500 +0545" stop="20251104114500 +0545" channel="nettv-212" catchup-id="10795709">
                 <title>Journeys in Japan</title>
     </programme>
     <programme start="20251104114500 +0545" stop="20251104121500 +0545" channel="nettv-212" catchup-id="10840583">
                 <title>Newsline Asia 24</title>
     </programme>
-    <programme start="20251104121500 +0545" stop="20251104121500 +0545" channel="nettv-212" catchup-id="10795715">
+    <programme start="20251104121500 +0545" stop="20251104121500 +0545" channel="nettv-212" catchup-id="10840586">
                 <title>Dining with the Chef</title>
     </programme>
-    <programme start="20251104121500 +0545" stop="20251104124500 +0545" channel="nettv-212" catchup-id="10840586">
+    <programme start="20251104121500 +0545" stop="20251104124500 +0545" channel="nettv-212" catchup-id="10795715">
                 <title>Dining with the Chef</title>
     </programme>
     <programme start="20251104124500 +0545" stop="20251104131500 +0545" channel="nettv-212" catchup-id="10840589">
                 <title>Newsline Asia 24</title>
     </programme>
-    <programme start="20251104131500 +0545" stop="20251104131500 +0545" channel="nettv-212" catchup-id="10840592">
+    <programme start="20251104131500 +0545" stop="20251104131500 +0545" channel="nettv-212" catchup-id="10795721">
                 <title>Document 72 Hours</title>
     </programme>
-    <programme start="20251104131500 +0545" stop="20251104134500 +0545" channel="nettv-212" catchup-id="10795721">
+    <programme start="20251104131500 +0545" stop="20251104134500 +0545" channel="nettv-212" catchup-id="10840592">
                 <title>Document 72 Hours</title>
     </programme>
     <programme start="20251104134500 +0545" stop="20251104141500 +0545" channel="nettv-212" catchup-id="10840595">
@@ -1156,10 +664,10 @@
     <programme start="20251104141500 +0545" stop="20251104143000 +0545" channel="nettv-212" catchup-id="10840598">
                 <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20251104143000 +0545" stop="20251104143000 +0545" channel="nettv-212" catchup-id="10795730">
+    <programme start="20251104143000 +0545" stop="20251104143000 +0545" channel="nettv-212" catchup-id="10840601">
                 <title>BOSAI: Science That Can Save Your Life</title>
     </programme>
-    <programme start="20251104143000 +0545" stop="20251104144200 +0545" channel="nettv-212" catchup-id="10840601">
+    <programme start="20251104143000 +0545" stop="20251104144200 +0545" channel="nettv-212" catchup-id="10795730">
                 <title>BOSAI: Science That Can Save Your Life</title>
     </programme>
     <programme start="20251104144200 +0545" stop="20251104144500 +0545" channel="nettv-212" catchup-id="10840604">
@@ -1168,10 +676,10 @@
     <programme start="20251104144500 +0545" stop="20251104151500 +0545" channel="nettv-212" catchup-id="10840607">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20251104151500 +0545" stop="20251104151500 +0545" channel="nettv-212" catchup-id="10795739">
+    <programme start="20251104151500 +0545" stop="20251104151500 +0545" channel="nettv-212" catchup-id="10840610">
                 <title>Medical Frontiers</title>
     </programme>
-    <programme start="20251104151500 +0545" stop="20251104154500 +0545" channel="nettv-212" catchup-id="10840610">
+    <programme start="20251104151500 +0545" stop="20251104154500 +0545" channel="nettv-212" catchup-id="10795739">
                 <title>Medical Frontiers</title>
     </programme>
     <programme start="20251104154500 +0545" stop="20251104161500 +0545" channel="nettv-212" catchup-id="10840613">
@@ -1186,43 +694,43 @@
     <programme start="20251104164500 +0545" stop="20251104171300 +0545" channel="nettv-212" catchup-id="10840619">
                 <title>Newsroom Tokyo</title>
     </programme>
-    <programme start="20251104171300 +0545" stop="20251104171300 +0545" channel="nettv-212" catchup-id="10840622">
+    <programme start="20251104171300 +0545" stop="20251104171300 +0545" channel="nettv-212" catchup-id="10795751">
                 <title>Direct Talk</title>
     </programme>
-    <programme start="20251104171300 +0545" stop="20251104172800 +0545" channel="nettv-212" catchup-id="10795751">
+    <programme start="20251104171300 +0545" stop="20251104172800 +0545" channel="nettv-212" catchup-id="10840622">
                 <title>Direct Talk</title>
     </programme>
-    <programme start="20251104172800 +0545" stop="20251104172800 +0545" channel="nettv-212" catchup-id="10840625">
-                <title>DOSUKOI Sumo Salon</title>
-    </programme>
-    <programme start="20251104172800 +0545" stop="20251104173300 +0545" channel="nettv-212" catchup-id="10795754">
+    <programme start="20251104172800 +0545" stop="20251104172800 +0545" channel="nettv-212" catchup-id="10795754">
                 <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20251104172800 +0545" stop="20251104173300 +0545" channel="nettv-212" catchup-id="10840625">
+                <title>DOSUKOI Sumo Salon</title>
     </programme>
     <programme start="20251104173300 +0545" stop="20251104174000 +0545" channel="nettv-212" catchup-id="10840628">
                 <title>The Beauty of Japanese Swords: Famous Masterpieces</title>
     </programme>
-    <programme start="20251104174000 +0545" stop="20251104174000 +0545" channel="nettv-212" catchup-id="10840631">
+    <programme start="20251104174000 +0545" stop="20251104174000 +0545" channel="nettv-212" catchup-id="10795757">
                 <title>Ukiyoe Edo-Life</title>
     </programme>
-    <programme start="20251104174000 +0545" stop="20251104174500 +0545" channel="nettv-212" catchup-id="10795757">
+    <programme start="20251104174000 +0545" stop="20251104174500 +0545" channel="nettv-212" catchup-id="10840631">
                 <title>Ukiyoe Edo-Life</title>
     </programme>
     <programme start="20251104174500 +0545" stop="20251104181500 +0545" channel="nettv-212" catchup-id="10840634">
                 <title>Newsroom Tokyo</title>
     </programme>
-    <programme start="20251104181500 +0545" stop="20251104181500 +0545" channel="nettv-212" catchup-id="10795763">
+    <programme start="20251104181500 +0545" stop="20251104181500 +0545" channel="nettv-212" catchup-id="10840637">
                 <title>Dining with the Chef</title>
     </programme>
-    <programme start="20251104181500 +0545" stop="20251104184500 +0545" channel="nettv-212" catchup-id="10840637">
+    <programme start="20251104181500 +0545" stop="20251104184500 +0545" channel="nettv-212" catchup-id="10795763">
                 <title>Dining with the Chef</title>
     </programme>
     <programme start="20251104184500 +0545" stop="20251104191500 +0545" channel="nettv-212" catchup-id="10840640">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20251104191500 +0545" stop="20251104191500 +0545" channel="nettv-212" catchup-id="10840643">
+    <programme start="20251104191500 +0545" stop="20251104191500 +0545" channel="nettv-212" catchup-id="10795769">
                 <title>Document 72 Hours</title>
     </programme>
-    <programme start="20251104191500 +0545" stop="20251104194500 +0545" channel="nettv-212" catchup-id="10795769">
+    <programme start="20251104191500 +0545" stop="20251104194500 +0545" channel="nettv-212" catchup-id="10840643">
                 <title>Document 72 Hours</title>
     </programme>
     <programme start="20251104194500 +0545" stop="20251104201500 +0545" channel="nettv-212" catchup-id="10840646">
@@ -2395,129 +1903,6 @@
     <programme start="20251110054200 +0545" stop="2025-11-10 23:59:59.999999" channel="nettv-212" catchup-id="10800101">
                 <title>Sumopedia</title>
     </programme>
-    <programme start="20251103054500 +0545" stop="20251103061500 +0545" channel="nettv-213" catchup-id="10590227">
-                <title>News</title>
-    </programme>
-    <programme start="20251103061500 +0545" stop="20251103064500 +0545" channel="nettv-213" catchup-id="10590230">
-                <title>Inside Story</title>
-    </programme>
-    <programme start="20251103064500 +0545" stop="20251103074500 +0545" channel="nettv-213" catchup-id="10590233">
-                <title>Al Jazeera World</title>
-    </programme>
-    <programme start="20251103074500 +0545" stop="20251103081500 +0545" channel="nettv-213" catchup-id="10590236">
-                <title>News</title>
-    </programme>
-    <programme start="20251103081500 +0545" stop="20251103084500 +0545" channel="nettv-213" catchup-id="10590239">
-                <title>UpFront</title>
-    </programme>
-    <programme start="20251103084500 +0545" stop="20251103091500 +0545" channel="nettv-213" catchup-id="10590242">
-                <title>News</title>
-    </programme>
-    <programme start="20251103091500 +0545" stop="20251103094500 +0545" channel="nettv-213" catchup-id="10590245">
-                <title>Apocalypse Maybe</title>
-    </programme>
-    <programme start="20251103094500 +0545" stop="20251103101500 +0545" channel="nettv-213" catchup-id="10590248">
-                <title>News</title>
-    </programme>
-    <programme start="20251103101500 +0545" stop="20251103104500 +0545" channel="nettv-213" catchup-id="10590251">
-                <title>The Listening Post</title>
-    </programme>
-    <programme start="20251103104500 +0545" stop="20251103111500 +0545" channel="nettv-213" catchup-id="10590254">
-                <title>News</title>
-    </programme>
-    <programme start="20251103111500 +0545" stop="20251103114500 +0545" channel="nettv-213" catchup-id="10590257">
-                <title>Inside Story</title>
-    </programme>
-    <programme start="20251103114500 +0545" stop="20251103121500 +0545" channel="nettv-213" catchup-id="10590260">
-                <title>News</title>
-    </programme>
-    <programme start="20251103121500 +0545" stop="20251103124500 +0545" channel="nettv-213" catchup-id="10590263">
-                <title>Fault Lines</title>
-    </programme>
-    <programme start="20251103124500 +0545" stop="20251103134500 +0545" channel="nettv-213" catchup-id="10590266">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20251103134500 +0545" stop="20251103141500 +0545" channel="nettv-213" catchup-id="10590269">
-                <title>News</title>
-    </programme>
-    <programme start="20251103141500 +0545" stop="20251103144500 +0545" channel="nettv-213" catchup-id="10590272">
-                <title>The Big Picture</title>
-    </programme>
-    <programme start="20251103144500 +0545" stop="20251103151500 +0545" channel="nettv-213" catchup-id="10590275">
-                <title>News</title>
-    </programme>
-    <programme start="20251103151500 +0545" stop="20251103154500 +0545" channel="nettv-213" catchup-id="10590278">
-                <title>Talk to Al Jazeera</title>
-    </programme>
-    <programme start="20251103154500 +0545" stop="20251103164500 +0545" channel="nettv-213" catchup-id="10590281">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20251103164500 +0545" stop="20251103171500 +0545" channel="nettv-213" catchup-id="10590284">
-                <title>News</title>
-    </programme>
-    <programme start="20251103171500 +0545" stop="20251103174500 +0545" channel="nettv-213" catchup-id="10590287">
-                <title>Inside Story</title>
-    </programme>
-    <programme start="20251103174500 +0545" stop="20251103184500 +0545" channel="nettv-213" catchup-id="10590290">
-                <title>Who Killed Shireen?</title>
-    </programme>
-    <programme start="20251103184500 +0545" stop="20251103194500 +0545" channel="nettv-213" catchup-id="10590293">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20251103194500 +0545" stop="20251103201500 +0545" channel="nettv-213" catchup-id="10590296">
-                <title>News</title>
-    </programme>
-    <programme start="20251103201500 +0545" stop="20251103204500 +0545" channel="nettv-213" catchup-id="10590299">
-                <title>The Listening Post</title>
-    </programme>
-    <programme start="20251103204500 +0545" stop="20251103214500 +0545" channel="nettv-213" catchup-id="10590302">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20251103214500 +0545" stop="20251103221500 +0545" channel="nettv-213" catchup-id="10590305">
-                <title>News</title>
-    </programme>
-    <programme start="20251103221500 +0545" stop="20251103224500 +0545" channel="nettv-213" catchup-id="10590308">
-                <title>Counting the Cost</title>
-    </programme>
-    <programme start="20251103224500 +0545" stop="20251103231500 +0545" channel="nettv-213" catchup-id="10590311">
-                <title>News</title>
-    </programme>
-    <programme start="20251103231500 +0545" stop="20251103234500 +0545" channel="nettv-213" catchup-id="10590314">
-                <title>Inside Story</title>
-    </programme>
-    <programme start="20251103234500 +0545" stop="2025-11-03 23:59:59.999999" channel="nettv-213" catchup-id="10590317">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20251104004500 +0545" stop="20251104011500 +0545" channel="nettv-213" catchup-id="10590320">
-                <title>News</title>
-    </programme>
-    <programme start="20251104011500 +0545" stop="20251104014500 +0545" channel="nettv-213" catchup-id="10590323">
-                <title>The Stream</title>
-    </programme>
-    <programme start="20251104014500 +0545" stop="20251104021500 +0545" channel="nettv-213" catchup-id="10590326">
-                <title>News</title>
-    </programme>
-    <programme start="20251104021500 +0545" stop="20251104024500 +0545" channel="nettv-213" catchup-id="10590329">
-                <title>Inside Story</title>
-    </programme>
-    <programme start="20251104024500 +0545" stop="20251104034500 +0545" channel="nettv-213" catchup-id="10590332">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20251104034500 +0545" stop="20251104041500 +0545" channel="nettv-213" catchup-id="10590335">
-                <title>News</title>
-    </programme>
-    <programme start="20251104041500 +0545" stop="20251104044500 +0545" channel="nettv-213" catchup-id="10590338">
-                <title>Witness</title>
-    </programme>
-    <programme start="20251104044500 +0545" stop="20251104051500 +0545" channel="nettv-213" catchup-id="10590341">
-                <title>News</title>
-    </programme>
-    <programme start="20251104051500 +0545" stop="20251104051500 +0545" channel="nettv-213" catchup-id="10560734">
-                <title>101 East</title>
-    </programme>
-    <programme start="20251104051500 +0545" stop="20251104054500 +0545" channel="nettv-213" catchup-id="10590344">
-                <title>101 East</title>
-    </programme>
     <programme start="20251104054500 +0545" stop="20251104061500 +0545" channel="nettv-213" catchup-id="10570166">
                 <title>News</title>
     </programme>
@@ -3243,90 +2628,6 @@
     </programme>
     <programme start="20251110051500 +0545" stop="2025-11-10 23:59:59.999999" channel="nettv-213" catchup-id="10802459">
                 <title>Fault Lines</title>
-    </programme>
-    <programme start="20251103061500 +0545" stop="20251103121500 +0545" channel="nettv-567" catchup-id="10541777">
-                <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103121500 +0545" stop="20251103131500 +0545" channel="nettv-567" catchup-id="10541780">
-                <title>Question Hour Live</title>
-    </programme>
-    <programme start="20251103131500 +0545" stop="20251103141500 +0545" channel="nettv-567" catchup-id="10541783">
-                <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103141500 +0545" stop="20251103164500 +0545" channel="nettv-567" catchup-id="10541786">
-                <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103164500 +0545" stop="20251103171500 +0545" channel="nettv-567" catchup-id="10541789">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251103171500 +0545" stop="20251103175500 +0545" channel="nettv-567" catchup-id="10541792">
-                <title>Bundeli Geet</title>
-    </programme>
-    <programme start="20251103175500 +0545" stop="20251103181500 +0545" channel="nettv-567" catchup-id="10541795">
-                <title>Karvat Badalti Zindagi</title>
-    </programme>
-    <programme start="20251103181500 +0545" stop="20251103184500 +0545" channel="nettv-567" catchup-id="10541798">
-                <title>Ghar Sansar</title>
-    </programme>
-    <programme start="20251103184500 +0545" stop="20251103191500 +0545" channel="nettv-567" catchup-id="10541801">
-                <title>Maha Kumbh Aarti Live</title>
-    </programme>
-    <programme start="20251103191500 +0545" stop="20251103194500 +0545" channel="nettv-567" catchup-id="10541804">
-                <title>Satyam-Shivam-Sundaram</title>
-    </programme>
-    <programme start="20251103194500 +0545" stop="20251103201500 +0545" channel="nettv-567" catchup-id="10541807">
-                <title>Raag Rang Shastra Ke Sang</title>
-    </programme>
-    <programme start="20251103201500 +0545" stop="20251103204500 +0545" channel="nettv-567" catchup-id="10541810">
-                <title>Chalo Saaf Karen</title>
-    </programme>
-    <programme start="20251103204500 +0545" stop="20251103211500 +0545" channel="nettv-567" catchup-id="10541813">
-                <title>Tejpur General Store</title>
-    </programme>
-    <programme start="20251103211500 +0545" stop="20251103214500 +0545" channel="nettv-567" catchup-id="10541816">
-                <title>Vilasini Natyam</title>
-    </programme>
-    <programme start="20251103214500 +0545" stop="20251103224500 +0545" channel="nettv-567" catchup-id="10541819">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20251103224500 +0545" stop="20251103232500 +0545" channel="nettv-567" catchup-id="10541822">
-                <title>Bundeli Geet</title>
-    </programme>
-    <programme start="20251103232500 +0545" stop="20251103234500 +0545" channel="nettv-567" catchup-id="10541825">
-                <title>Karvat Badalti Zindagi</title>
-    </programme>
-    <programme start="20251103234500 +0545" stop="2025-11-03 23:59:59.999999" channel="nettv-567" catchup-id="10541828">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251104001500 +0545" stop="20251104004500 +0545" channel="nettv-567" catchup-id="10541831">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20251104004500 +0545" stop="20251104012500 +0545" channel="nettv-567" catchup-id="10541834">
-                <title>Bundeli Geet</title>
-    </programme>
-    <programme start="20251104012500 +0545" stop="20251104014500 +0545" channel="nettv-567" catchup-id="10541837">
-                <title>Karvat Badalti Zindagi</title>
-    </programme>
-    <programme start="20251104014500 +0545" stop="20251104021500 +0545" channel="nettv-567" catchup-id="10541840">
-                <title>Raag Rang Shastra Ke Sang</title>
-    </programme>
-    <programme start="20251104021500 +0545" stop="20251104024500 +0545" channel="nettv-567" catchup-id="10541843">
-                <title>Ghar Sansar</title>
-    </programme>
-    <programme start="20251104024500 +0545" stop="20251104034500 +0545" channel="nettv-567" catchup-id="10541846">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20251104034500 +0545" stop="20251104041500 +0545" channel="nettv-567" catchup-id="10541849">
-                <title>Chalo Saaf Karen</title>
-    </programme>
-    <programme start="20251104041500 +0545" stop="20251104044500 +0545" channel="nettv-567" catchup-id="10541852">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251104044500 +0545" stop="20251104051500 +0545" channel="nettv-567" catchup-id="10541855">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251104051500 +0545" stop="20251104054500 +0545" channel="nettv-567" catchup-id="10541858">
-                <title>National Programme of Music</title>
     </programme>
     <programme start="20251104054500 +0545" stop="20251104061500 +0545" channel="nettv-567" catchup-id="10578164">
                 <title>Vilasini Natyam</title>
@@ -4090,90 +3391,6 @@
     <programme start="20251110051500 +0545" stop="2025-11-10 23:59:59.999999" channel="nettv-567" catchup-id="10805711">
                 <title>Amrit Snan Mahakumbh</title>
     </programme>
-    <programme start="20251103061500 +0545" stop="20251103121500 +0545" channel="nettv-577" catchup-id="10541777">
-                <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103121500 +0545" stop="20251103131500 +0545" channel="nettv-577" catchup-id="10541780">
-                <title>Question Hour Live</title>
-    </programme>
-    <programme start="20251103131500 +0545" stop="20251103141500 +0545" channel="nettv-577" catchup-id="10541783">
-                <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103141500 +0545" stop="20251103164500 +0545" channel="nettv-577" catchup-id="10541786">
-                <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103164500 +0545" stop="20251103171500 +0545" channel="nettv-577" catchup-id="10541789">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251103171500 +0545" stop="20251103175500 +0545" channel="nettv-577" catchup-id="10541792">
-                <title>Bundeli Geet</title>
-    </programme>
-    <programme start="20251103175500 +0545" stop="20251103181500 +0545" channel="nettv-577" catchup-id="10541795">
-                <title>Karvat Badalti Zindagi</title>
-    </programme>
-    <programme start="20251103181500 +0545" stop="20251103184500 +0545" channel="nettv-577" catchup-id="10541798">
-                <title>Ghar Sansar</title>
-    </programme>
-    <programme start="20251103184500 +0545" stop="20251103191500 +0545" channel="nettv-577" catchup-id="10541801">
-                <title>Maha Kumbh Aarti Live</title>
-    </programme>
-    <programme start="20251103191500 +0545" stop="20251103194500 +0545" channel="nettv-577" catchup-id="10541804">
-                <title>Satyam-Shivam-Sundaram</title>
-    </programme>
-    <programme start="20251103194500 +0545" stop="20251103201500 +0545" channel="nettv-577" catchup-id="10541807">
-                <title>Raag Rang Shastra Ke Sang</title>
-    </programme>
-    <programme start="20251103201500 +0545" stop="20251103204500 +0545" channel="nettv-577" catchup-id="10541810">
-                <title>Chalo Saaf Karen</title>
-    </programme>
-    <programme start="20251103204500 +0545" stop="20251103211500 +0545" channel="nettv-577" catchup-id="10541813">
-                <title>Tejpur General Store</title>
-    </programme>
-    <programme start="20251103211500 +0545" stop="20251103214500 +0545" channel="nettv-577" catchup-id="10541816">
-                <title>Vilasini Natyam</title>
-    </programme>
-    <programme start="20251103214500 +0545" stop="20251103224500 +0545" channel="nettv-577" catchup-id="10541819">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20251103224500 +0545" stop="20251103232500 +0545" channel="nettv-577" catchup-id="10541822">
-                <title>Bundeli Geet</title>
-    </programme>
-    <programme start="20251103232500 +0545" stop="20251103234500 +0545" channel="nettv-577" catchup-id="10541825">
-                <title>Karvat Badalti Zindagi</title>
-    </programme>
-    <programme start="20251103234500 +0545" stop="2025-11-03 23:59:59.999999" channel="nettv-577" catchup-id="10541828">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251104001500 +0545" stop="20251104004500 +0545" channel="nettv-577" catchup-id="10541831">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20251104004500 +0545" stop="20251104012500 +0545" channel="nettv-577" catchup-id="10541834">
-                <title>Bundeli Geet</title>
-    </programme>
-    <programme start="20251104012500 +0545" stop="20251104014500 +0545" channel="nettv-577" catchup-id="10541837">
-                <title>Karvat Badalti Zindagi</title>
-    </programme>
-    <programme start="20251104014500 +0545" stop="20251104021500 +0545" channel="nettv-577" catchup-id="10541840">
-                <title>Raag Rang Shastra Ke Sang</title>
-    </programme>
-    <programme start="20251104021500 +0545" stop="20251104024500 +0545" channel="nettv-577" catchup-id="10541843">
-                <title>Ghar Sansar</title>
-    </programme>
-    <programme start="20251104024500 +0545" stop="20251104034500 +0545" channel="nettv-577" catchup-id="10541846">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20251104034500 +0545" stop="20251104041500 +0545" channel="nettv-577" catchup-id="10541849">
-                <title>Chalo Saaf Karen</title>
-    </programme>
-    <programme start="20251104041500 +0545" stop="20251104044500 +0545" channel="nettv-577" catchup-id="10541852">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251104044500 +0545" stop="20251104051500 +0545" channel="nettv-577" catchup-id="10541855">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251104051500 +0545" stop="20251104054500 +0545" channel="nettv-577" catchup-id="10541858">
-                <title>National Programme of Music</title>
-    </programme>
     <programme start="20251104054500 +0545" stop="20251104061500 +0545" channel="nettv-577" catchup-id="10578164">
                 <title>Vilasini Natyam</title>
     </programme>
@@ -4935,90 +4152,6 @@
     </programme>
     <programme start="20251110051500 +0545" stop="2025-11-10 23:59:59.999999" channel="nettv-577" catchup-id="10805711">
                 <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103061500 +0545" stop="20251103121500 +0545" channel="nettv-581" catchup-id="10541777">
-                <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103121500 +0545" stop="20251103131500 +0545" channel="nettv-581" catchup-id="10541780">
-                <title>Question Hour Live</title>
-    </programme>
-    <programme start="20251103131500 +0545" stop="20251103141500 +0545" channel="nettv-581" catchup-id="10541783">
-                <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103141500 +0545" stop="20251103164500 +0545" channel="nettv-581" catchup-id="10541786">
-                <title>Amrit Snan Mahakumbh</title>
-    </programme>
-    <programme start="20251103164500 +0545" stop="20251103171500 +0545" channel="nettv-581" catchup-id="10541789">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251103171500 +0545" stop="20251103175500 +0545" channel="nettv-581" catchup-id="10541792">
-                <title>Bundeli Geet</title>
-    </programme>
-    <programme start="20251103175500 +0545" stop="20251103181500 +0545" channel="nettv-581" catchup-id="10541795">
-                <title>Karvat Badalti Zindagi</title>
-    </programme>
-    <programme start="20251103181500 +0545" stop="20251103184500 +0545" channel="nettv-581" catchup-id="10541798">
-                <title>Ghar Sansar</title>
-    </programme>
-    <programme start="20251103184500 +0545" stop="20251103191500 +0545" channel="nettv-581" catchup-id="10541801">
-                <title>Maha Kumbh Aarti Live</title>
-    </programme>
-    <programme start="20251103191500 +0545" stop="20251103194500 +0545" channel="nettv-581" catchup-id="10541804">
-                <title>Satyam-Shivam-Sundaram</title>
-    </programme>
-    <programme start="20251103194500 +0545" stop="20251103201500 +0545" channel="nettv-581" catchup-id="10541807">
-                <title>Raag Rang Shastra Ke Sang</title>
-    </programme>
-    <programme start="20251103201500 +0545" stop="20251103204500 +0545" channel="nettv-581" catchup-id="10541810">
-                <title>Chalo Saaf Karen</title>
-    </programme>
-    <programme start="20251103204500 +0545" stop="20251103211500 +0545" channel="nettv-581" catchup-id="10541813">
-                <title>Tejpur General Store</title>
-    </programme>
-    <programme start="20251103211500 +0545" stop="20251103214500 +0545" channel="nettv-581" catchup-id="10541816">
-                <title>Vilasini Natyam</title>
-    </programme>
-    <programme start="20251103214500 +0545" stop="20251103224500 +0545" channel="nettv-581" catchup-id="10541819">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20251103224500 +0545" stop="20251103232500 +0545" channel="nettv-581" catchup-id="10541822">
-                <title>Bundeli Geet</title>
-    </programme>
-    <programme start="20251103232500 +0545" stop="20251103234500 +0545" channel="nettv-581" catchup-id="10541825">
-                <title>Karvat Badalti Zindagi</title>
-    </programme>
-    <programme start="20251103234500 +0545" stop="2025-11-03 23:59:59.999999" channel="nettv-581" catchup-id="10541828">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251104001500 +0545" stop="20251104004500 +0545" channel="nettv-581" catchup-id="10541831">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20251104004500 +0545" stop="20251104012500 +0545" channel="nettv-581" catchup-id="10541834">
-                <title>Bundeli Geet</title>
-    </programme>
-    <programme start="20251104012500 +0545" stop="20251104014500 +0545" channel="nettv-581" catchup-id="10541837">
-                <title>Karvat Badalti Zindagi</title>
-    </programme>
-    <programme start="20251104014500 +0545" stop="20251104021500 +0545" channel="nettv-581" catchup-id="10541840">
-                <title>Raag Rang Shastra Ke Sang</title>
-    </programme>
-    <programme start="20251104021500 +0545" stop="20251104024500 +0545" channel="nettv-581" catchup-id="10541843">
-                <title>Ghar Sansar</title>
-    </programme>
-    <programme start="20251104024500 +0545" stop="20251104034500 +0545" channel="nettv-581" catchup-id="10541846">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20251104034500 +0545" stop="20251104041500 +0545" channel="nettv-581" catchup-id="10541849">
-                <title>Chalo Saaf Karen</title>
-    </programme>
-    <programme start="20251104041500 +0545" stop="20251104044500 +0545" channel="nettv-581" catchup-id="10541852">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251104044500 +0545" stop="20251104051500 +0545" channel="nettv-581" catchup-id="10541855">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20251104051500 +0545" stop="20251104054500 +0545" channel="nettv-581" catchup-id="10541858">
-                <title>National Programme of Music</title>
     </programme>
     <programme start="20251104054500 +0545" stop="20251104061500 +0545" channel="nettv-581" catchup-id="10578164">
                 <title>Vilasini Natyam</title>
