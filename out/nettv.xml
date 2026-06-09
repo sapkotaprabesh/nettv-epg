@@ -556,9 +556,6 @@
     <display-name>GTV</display-name>
     <icon src="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-11-153111-68495063a55fd"></icon>
 </channel>
-    <programme start="20260531020000 +0545" stop="2026-05-31 23:59:59.999999" channel="nettv-49" catchup-id="198485140">
-                <title>Miscellaneous</title>
-    </programme>
     <programme start="20260607023000 +0545" stop="2026-06-07 23:59:59.999999" channel="nettv-49" catchup-id="187296293">
                 <title>Miscellaneous</title>
     </programme>
@@ -569,6 +566,9 @@
                 <title>Miscellaneous</title>
     </programme>
     <programme start="20260614023000 +0545" stop="2026-06-14 23:59:59.999999" channel="nettv-49" catchup-id="187539539">
+                <title>Miscellaneous</title>
+    </programme>
+    <programme start="20260615020000 +0545" stop="2026-06-15 23:59:59.999999" channel="nettv-49" catchup-id="198926080">
                 <title>Miscellaneous</title>
     </programme>
     <programme start="20260603060000 +0545" stop="2026-06-03 23:59:59.999999" channel="nettv-50" catchup-id="145858903">
@@ -5854,138 +5854,6 @@
     <programme start="20260616054200 +0545" stop="2026-06-16 23:59:59.999999" channel="nettv-212" catchup-id="302962">
                 <title>Sumopedia</title>
     </programme>
-    <programme start="20260531054500 +0545" stop="20260531064500 +0545" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260531064500 +0545" stop="20260531071500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531071500 +0545" stop="20260531071500 +0545" channel="nettv-213" catchup-id="3699">
-                <title>The Fans Who Make Football</title>
-    </programme>
-    <programme start="20260531071500 +0545" stop="20260531071500 +0545" channel="nettv-213" catchup-id="4944">
-                <title>To Be Announced</title>
-    </programme>
-    <programme start="20260531071500 +0545" stop="20260531074500 +0545" channel="nettv-213" catchup-id="3683898">
-                <title>Iran, Israel and the Bomb</title>
-    </programme>
-    <programme start="20260531074500 +0545" stop="20260531084500 +0545" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260531084500 +0545" stop="20260531091500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531091500 +0545" stop="20260531091500 +0545" channel="nettv-213" catchup-id="3597825">
-                <title>101 East</title>
-    </programme>
-    <programme start="20260531091500 +0545" stop="20260531091500 +0545" channel="nettv-213" catchup-id="3635268">
-                <title>101 East</title>
-    </programme>
-    <programme start="20260531091500 +0545" stop="20260531094500 +0545" channel="nettv-213" catchup-id="3650406">
-                <title>101 East</title>
-    </programme>
-    <programme start="20260531094500 +0545" stop="20260531101500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531101500 +0545" stop="20260531104500 +0545" channel="nettv-213" catchup-id="3591120">
-                <title>Fault Lines</title>
-    </programme>
-    <programme start="20260531104500 +0545" stop="20260531111500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531111500 +0545" stop="20260531114500 +0545" channel="nettv-213" catchup-id="3623535">
-                <title>Inside Story</title>
-    </programme>
-    <programme start="20260531114500 +0545" stop="20260531121500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531121500 +0545" stop="20260531124500 +0545" channel="nettv-213" catchup-id="3614781">
-                <title>The Listening Post</title>
-    </programme>
-    <programme start="20260531124500 +0545" stop="20260531134500 +0545" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260531134500 +0545" stop="20260531141500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531141500 +0545" stop="20260531144500 +0545" channel="nettv-213" catchup-id="3614814">
-                <title>The Bottom Line</title>
-    </programme>
-    <programme start="20260531144500 +0545" stop="20260531151500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531151500 +0545" stop="20260531154500 +0545" channel="nettv-213" catchup-id="3608064">
-                <title>Counting the Cost</title>
-    </programme>
-    <programme start="20260531154500 +0545" stop="20260531164500 +0545" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260531164500 +0545" stop="20260531171500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531171500 +0545" stop="20260531174500 +0545" channel="nettv-213" catchup-id="3623535">
-                <title>Inside Story</title>
-    </programme>
-    <programme start="20260531174500 +0545" stop="20260531184500 +0545" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260531184500 +0545" stop="20260531194500 +0545" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260531194500 +0545" stop="20260531201500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531201500 +0545" stop="20260531204500 +0545" channel="nettv-213" catchup-id="3614781">
-                <title>The Listening Post</title>
-    </programme>
-    <programme start="20260531204500 +0545" stop="20260531214500 +0545" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260531214500 +0545" stop="20260531221500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531221500 +0545" stop="20260531221500 +0545" channel="nettv-213" catchup-id="3597825">
-                <title>101 East</title>
-    </programme>
-    <programme start="20260531221500 +0545" stop="20260531221500 +0545" channel="nettv-213" catchup-id="3635268">
-                <title>101 East</title>
-    </programme>
-    <programme start="20260531221500 +0545" stop="20260531224500 +0545" channel="nettv-213" catchup-id="3650406">
-                <title>101 East</title>
-    </programme>
-    <programme start="20260531224500 +0545" stop="20260531231500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260531231500 +0545" stop="20260531234500 +0545" channel="nettv-213" catchup-id="3623535">
-                <title>Inside Story</title>
-    </programme>
-    <programme start="20260531234500 +0545" stop="2026-05-31 23:59:59.999999" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260601004500 +0545" stop="20260601011500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260601011500 +0545" stop="20260601014500 +0545" channel="nettv-213" catchup-id="3555138">
-                <title>Talk to Al Jazeera</title>
-    </programme>
-    <programme start="20260601014500 +0545" stop="20260601021500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260601021500 +0545" stop="20260601024500 +0545" channel="nettv-213" catchup-id="1441350">
-                <title>Business of War</title>
-    </programme>
-    <programme start="20260601024500 +0545" stop="20260601034500 +0545" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260601034500 +0545" stop="20260601044500 +0545" channel="nettv-213" catchup-id="3621003">
-                <title>Newshour</title>
-    </programme>
-    <programme start="20260601044500 +0545" stop="20260601051500 +0545" channel="nettv-213" catchup-id="3621024">
-                <title>News</title>
-    </programme>
-    <programme start="20260601051500 +0545" stop="20260601054500 +0545" channel="nettv-213" catchup-id="3623535">
-                <title>Inside Story</title>
-    </programme>
     <programme start="20260601054500 +0545" stop="20260601064500 +0545" channel="nettv-213" catchup-id="3630372">
                 <title>Newshour</title>
     </programme>
@@ -7690,7 +7558,121 @@
     <programme start="20260615044500 +0545" stop="20260615051500 +0545" channel="nettv-213" catchup-id="3725196">
                 <title>News</title>
     </programme>
-    <programme start="20260615051500 +0545" stop="2026-06-15 23:59:59.999999" channel="nettv-213" catchup-id="3726084">
+    <programme start="20260615051500 +0545" stop="20260615054500 +0545" channel="nettv-213" catchup-id="3726084">
+                <title>Inside Story</title>
+    </programme>
+    <programme start="20260615054500 +0545" stop="20260615064500 +0545" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260615064500 +0545" stop="20260615071500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615071500 +0545" stop="20260615074500 +0545" channel="nettv-213" catchup-id="3719718">
+                <title>The Bottom Line</title>
+    </programme>
+    <programme start="20260615074500 +0545" stop="20260615084500 +0545" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260615084500 +0545" stop="20260615091500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615091500 +0545" stop="20260615094500 +0545" channel="nettv-213" catchup-id="3710745">
+                <title>Counting the Cost</title>
+    </programme>
+    <programme start="20260615094500 +0545" stop="20260615101500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615101500 +0545" stop="20260615104500 +0545" channel="nettv-213" catchup-id="3736593">
+                <title>101 East</title>
+    </programme>
+    <programme start="20260615104500 +0545" stop="20260615111500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615111500 +0545" stop="20260615114500 +0545" channel="nettv-213" catchup-id="3734103">
+                <title>Inside Story</title>
+    </programme>
+    <programme start="20260615114500 +0545" stop="20260615121500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615121500 +0545" stop="20260615124500 +0545" channel="nettv-213" catchup-id="3734094">
+                <title>Talk to Al Jazeera</title>
+    </programme>
+    <programme start="20260615124500 +0545" stop="20260615134500 +0545" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260615134500 +0545" stop="20260615141500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615141500 +0545" stop="20260615144500 +0545" channel="nettv-213" catchup-id="3725193">
+                <title>Reframe</title>
+    </programme>
+    <programme start="20260615144500 +0545" stop="20260615151500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615151500 +0545" stop="20260615154500 +0545" channel="nettv-213" catchup-id="3720618">
+                <title>The Listening Post</title>
+    </programme>
+    <programme start="20260615154500 +0545" stop="20260615164500 +0545" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260615164500 +0545" stop="20260615171500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615171500 +0545" stop="20260615174500 +0545" channel="nettv-213" catchup-id="3734103">
+                <title>Inside Story</title>
+    </programme>
+    <programme start="20260615174500 +0545" stop="20260615184500 +0545" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260615184500 +0545" stop="20260615194500 +0545" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260615194500 +0545" stop="20260615201500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615201500 +0545" stop="20260615204500 +0545" channel="nettv-213" catchup-id="3734094">
+                <title>Talk to Al Jazeera</title>
+    </programme>
+    <programme start="20260615204500 +0545" stop="20260615214500 +0545" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260615214500 +0545" stop="20260615221500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615221500 +0545" stop="20260615224500 +0545" channel="nettv-213" catchup-id="3713106">
+                <title>Iran, Israel and the Bomb</title>
+    </programme>
+    <programme start="20260615224500 +0545" stop="20260615231500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260615231500 +0545" stop="20260615234500 +0545" channel="nettv-213" catchup-id="3734103">
+                <title>Inside Story</title>
+    </programme>
+    <programme start="20260615234500 +0545" stop="2026-06-15 23:59:59.999999" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260616004500 +0545" stop="20260616011500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260616011500 +0545" stop="20260616014500 +0545" channel="nettv-213" catchup-id="3350208">
+                <title>The Global Population Bust</title>
+    </programme>
+    <programme start="20260616014500 +0545" stop="20260616021500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260616021500 +0545" stop="20260616024500 +0545" channel="nettv-213" catchup-id="3734097">
+                <title>Witness</title>
+    </programme>
+    <programme start="20260616024500 +0545" stop="20260616034500 +0545" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260616034500 +0545" stop="20260616044500 +0545" channel="nettv-213" catchup-id="3734106">
+                <title>Newshour</title>
+    </programme>
+    <programme start="20260616044500 +0545" stop="20260616051500 +0545" channel="nettv-213" catchup-id="3734079">
+                <title>News</title>
+    </programme>
+    <programme start="20260616051500 +0545" stop="2026-06-16 23:59:59.999999" channel="nettv-213" catchup-id="3734103">
                 <title>Inside Story</title>
     </programme>
     <programme start="20260601061500 +0545" stop="20260601061500 +0545" channel="nettv-567" catchup-id="299434">
