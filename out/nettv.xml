@@ -556,9 +556,6 @@
     <display-name>GTV</display-name>
     <icon src="https://ott-resources.geniustv.geniussystems.com.np/public/images/v1/channels/2025-06-11-153111-68495063a55fd"></icon>
 </channel>
-    <programme start="20260802023000 +0545" stop="2026-08-02 23:59:59.999999" channel="nettv-49" catchup-id="189028960">
-                <title>Miscellaneous</title>
-    </programme>
     <programme start="20260803020000 +0545" stop="2026-08-03 23:59:59.999999" channel="nettv-49" catchup-id="200484824">
                 <title>Miscellaneous</title>
     </programme>
@@ -577,440 +574,8 @@
     <programme start="20260816023000 +0545" stop="2026-08-16 23:59:59.999999" channel="nettv-49" catchup-id="189459562">
                 <title>Miscellaneous</title>
     </programme>
-    <programme start="20260802054500 +0545" stop="20260802063500 +0545" channel="nettv-212" catchup-id="1761806">
-                <title>Stateless</title>
-    </programme>
-    <programme start="20260802063500 +0545" stop="20260802064500 +0545" channel="nettv-212" catchup-id="789519">
-                <title>Century Signboards</title>
-    </programme>
-    <programme start="20260802064500 +0545" stop="20260802065500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802065500 +0545" stop="20260802065500 +0545" channel="nettv-212" catchup-id="453879">
-                <title>NHK WORLD TV Special Program</title>
-    </programme>
-    <programme start="20260802065500 +0545" stop="20260802074500 +0545" channel="nettv-212" catchup-id="3675366">
-                <title>Project X: Unsung Heroes</title>
-    </programme>
-    <programme start="20260802074500 +0545" stop="20260802075500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802075500 +0545" stop="20260802082500 +0545" channel="nettv-212" catchup-id="4071506">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260802082500 +0545" stop="20260802083500 +0545" channel="nettv-212" catchup-id="1246296">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802083500 +0545" stop="20260802084000 +0545" channel="nettv-212" catchup-id="3029382">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802084000 +0545" stop="20260802084000 +0545" channel="nettv-212" catchup-id="297070">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802084000 +0545" stop="20260802084500 +0545" channel="nettv-212" catchup-id="4111232">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802084500 +0545" stop="20260802085500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802085500 +0545" stop="20260802092500 +0545" channel="nettv-212" catchup-id="3600261">
-                <title>Cycle Around Japan</title>
-    </programme>
-    <programme start="20260802092500 +0545" stop="20260802094500 +0545" channel="nettv-212" catchup-id="3079311">
-                <title>The Wakey Show</title>
-    </programme>
-    <programme start="20260802094500 +0545" stop="20260802095500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802095500 +0545" stop="20260802104200 +0545" channel="nettv-212" catchup-id="1367307">
-                <title>Somewhere Street</title>
-    </programme>
-    <programme start="20260802104200 +0545" stop="20260802104500 +0545" channel="nettv-212" catchup-id="453861">
-                <title>Time-Lapse Journey</title>
-    </programme>
-    <programme start="20260802104500 +0545" stop="20260802105500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802105500 +0545" stop="20260802105500 +0545" channel="nettv-212" catchup-id="429861">
-                <title>Through the Kitchen Window</title>
-    </programme>
-    <programme start="20260802105500 +0545" stop="20260802105500 +0545" channel="nettv-212" catchup-id="4071509">
-                <title>Laugh Then Think</title>
-    </programme>
-    <programme start="20260802105500 +0545" stop="20260802111000 +0545" channel="nettv-212" catchup-id="4111229">
-                <title>Laugh Then Think: Japan&#x27;s Offbeat Science</title>
-    </programme>
-    <programme start="20260802111000 +0545" stop="20260802111000 +0545" channel="nettv-212" catchup-id="303370">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260802111000 +0545" stop="20260802111500 +0545" channel="nettv-212" catchup-id="724914">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260802111500 +0545" stop="20260802111500 +0545" channel="nettv-212" catchup-id="295258">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260802111500 +0545" stop="20260802113000 +0545" channel="nettv-212" catchup-id="1433184">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260802113000 +0545" stop="20260802113000 +0545" channel="nettv-212" catchup-id="298090">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802113000 +0545" stop="20260802114500 +0545" channel="nettv-212" catchup-id="991053">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802114500 +0545" stop="20260802115500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802115500 +0545" stop="20260802115500 +0545" channel="nettv-212" catchup-id="429837">
-                <title>Discharged by Death: Inside a Japanese Mental Hospital</title>
-    </programme>
-    <programme start="20260802115500 +0545" stop="20260802124500 +0545" channel="nettv-212" catchup-id="439119">
-                <title>Documentary 360</title>
-    </programme>
-    <programme start="20260802124500 +0545" stop="20260802125500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802125500 +0545" stop="20260802125500 +0545" channel="nettv-212" catchup-id="325650">
-                <title>The World Heritage</title>
-    </programme>
-    <programme start="20260802125500 +0545" stop="20260802125500 +0545" channel="nettv-212" catchup-id="453879">
-                <title>NHK WORLD TV Special Program</title>
-    </programme>
-    <programme start="20260802125500 +0545" stop="20260802131000 +0545" channel="nettv-212" catchup-id="3675366">
-                <title>Project X: Unsung Heroes</title>
-    </programme>
-    <programme start="20260802131000 +0545" stop="20260802134500 +0545" channel="nettv-212" catchup-id="301858">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20260802134500 +0545" stop="20260802135500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802135500 +0545" stop="20260802135500 +0545" channel="nettv-212" catchup-id="301687">
-                <title>Somewhere Street</title>
-    </programme>
-    <programme start="20260802135500 +0545" stop="20260802141500 +0545" channel="nettv-212" catchup-id="1367307">
-                <title>Somewhere Street</title>
-    </programme>
-    <programme start="20260802141500 +0545" stop="20260802144200 +0545" channel="nettv-212" catchup-id="300712">
-                <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20260802144200 +0545" stop="20260802144200 +0545" channel="nettv-212" catchup-id="302962">
-                <title>Sumopedia</title>
-    </programme>
-    <programme start="20260802144200 +0545" stop="20260802144500 +0545" channel="nettv-212" catchup-id="453861">
-                <title>Time-Lapse Journey</title>
-    </programme>
-    <programme start="20260802144500 +0545" stop="20260802145500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802145500 +0545" stop="20260802145500 +0545" channel="nettv-212" catchup-id="325656">
-                <title>Anime Manga Explosion</title>
-    </programme>
-    <programme start="20260802145500 +0545" stop="20260802152500 +0545" channel="nettv-212" catchup-id="3600261">
-                <title>Cycle Around Japan</title>
-    </programme>
-    <programme start="20260802152500 +0545" stop="20260802152500 +0545" channel="nettv-212" catchup-id="315843">
-                <title>Design Ah! neo</title>
-    </programme>
-    <programme start="20260802152500 +0545" stop="20260802153500 +0545" channel="nettv-212" catchup-id="3079311">
-                <title>The Wakey Show</title>
-    </programme>
-    <programme start="20260802153500 +0545" stop="20260802154500 +0545" channel="nettv-212" catchup-id="325653">
-                <title>Mitateru-Phose: Let&#x27;s Change Perspective!</title>
-    </programme>
-    <programme start="20260802154500 +0545" stop="20260802155500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802155500 +0545" stop="20260802155500 +0545" channel="nettv-212" catchup-id="302278">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260802155500 +0545" stop="20260802162500 +0545" channel="nettv-212" catchup-id="4071506">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260802162500 +0545" stop="20260802162500 +0545" channel="nettv-212" catchup-id="299701">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802162500 +0545" stop="20260802163500 +0545" channel="nettv-212" catchup-id="1246296">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802163500 +0545" stop="20260802163500 +0545" channel="nettv-212" catchup-id="296266">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802163500 +0545" stop="20260802164000 +0545" channel="nettv-212" catchup-id="3029382">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802164000 +0545" stop="20260802164000 +0545" channel="nettv-212" catchup-id="297070">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802164000 +0545" stop="20260802164500 +0545" channel="nettv-212" catchup-id="4111232">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802164500 +0545" stop="20260802165500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802165500 +0545" stop="20260802165500 +0545" channel="nettv-212" catchup-id="429861">
-                <title>Through the Kitchen Window</title>
-    </programme>
-    <programme start="20260802165500 +0545" stop="20260802165500 +0545" channel="nettv-212" catchup-id="4071509">
-                <title>Laugh Then Think</title>
-    </programme>
-    <programme start="20260802165500 +0545" stop="20260802171000 +0545" channel="nettv-212" catchup-id="4111229">
-                <title>Laugh Then Think: Japan&#x27;s Offbeat Science</title>
-    </programme>
-    <programme start="20260802171000 +0545" stop="20260802171000 +0545" channel="nettv-212" catchup-id="303370">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260802171000 +0545" stop="20260802171500 +0545" channel="nettv-212" catchup-id="724914">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260802171500 +0545" stop="20260802171500 +0545" channel="nettv-212" catchup-id="295258">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260802171500 +0545" stop="20260802173000 +0545" channel="nettv-212" catchup-id="1433184">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260802173000 +0545" stop="20260802173000 +0545" channel="nettv-212" catchup-id="298090">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802173000 +0545" stop="20260802174500 +0545" channel="nettv-212" catchup-id="991053">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802174500 +0545" stop="20260802175500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802175500 +0545" stop="20260802175500 +0545" channel="nettv-212" catchup-id="429837">
-                <title>Discharged by Death: Inside a Japanese Mental Hospital</title>
-    </programme>
-    <programme start="20260802175500 +0545" stop="20260802184500 +0545" channel="nettv-212" catchup-id="439119">
-                <title>Documentary 360</title>
-    </programme>
-    <programme start="20260802184500 +0545" stop="20260802185500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802185500 +0545" stop="20260802185500 +0545" channel="nettv-212" catchup-id="429846">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20260802185500 +0545" stop="20260802185500 +0545" channel="nettv-212" catchup-id="453879">
-                <title>NHK WORLD TV Special Program</title>
-    </programme>
-    <programme start="20260802185500 +0545" stop="20260802194500 +0545" channel="nettv-212" catchup-id="3675366">
-                <title>Project X: Unsung Heroes</title>
-    </programme>
-    <programme start="20260802194500 +0545" stop="20260802195500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802195500 +0545" stop="20260802195500 +0545" channel="nettv-212" catchup-id="325656">
-                <title>Anime Manga Explosion</title>
-    </programme>
-    <programme start="20260802195500 +0545" stop="20260802202500 +0545" channel="nettv-212" catchup-id="3600261">
-                <title>Cycle Around Japan</title>
-    </programme>
-    <programme start="20260802202500 +0545" stop="20260802202500 +0545" channel="nettv-212" catchup-id="315843">
-                <title>Design Ah! neo</title>
-    </programme>
-    <programme start="20260802202500 +0545" stop="20260802203500 +0545" channel="nettv-212" catchup-id="3079311">
-                <title>The Wakey Show</title>
-    </programme>
-    <programme start="20260802203500 +0545" stop="20260802204500 +0545" channel="nettv-212" catchup-id="325653">
-                <title>Mitateru-Phose: Let&#x27;s Change Perspective!</title>
-    </programme>
-    <programme start="20260802204500 +0545" stop="20260802205500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802205500 +0545" stop="20260802205500 +0545" channel="nettv-212" catchup-id="302278">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260802205500 +0545" stop="20260802212500 +0545" channel="nettv-212" catchup-id="4071506">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260802212500 +0545" stop="20260802212500 +0545" channel="nettv-212" catchup-id="299701">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802212500 +0545" stop="20260802213500 +0545" channel="nettv-212" catchup-id="1246296">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802213500 +0545" stop="20260802213500 +0545" channel="nettv-212" catchup-id="296266">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802213500 +0545" stop="20260802214000 +0545" channel="nettv-212" catchup-id="3029382">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802214000 +0545" stop="20260802214000 +0545" channel="nettv-212" catchup-id="297070">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802214000 +0545" stop="20260802214500 +0545" channel="nettv-212" catchup-id="4111232">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802214500 +0545" stop="20260802215500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802215500 +0545" stop="20260802215500 +0545" channel="nettv-212" catchup-id="325650">
-                <title>The World Heritage</title>
-    </programme>
-    <programme start="20260802215500 +0545" stop="20260802221000 +0545" channel="nettv-212" catchup-id="1367307">
-                <title>Somewhere Street</title>
-    </programme>
-    <programme start="20260802221000 +0545" stop="20260802221500 +0545" channel="nettv-212" catchup-id="301858">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20260802221500 +0545" stop="20260802224200 +0545" channel="nettv-212" catchup-id="300712">
-                <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20260802224200 +0545" stop="20260802224200 +0545" channel="nettv-212" catchup-id="302962">
-                <title>Sumopedia</title>
-    </programme>
-    <programme start="20260802224200 +0545" stop="20260802224500 +0545" channel="nettv-212" catchup-id="453861">
-                <title>Time-Lapse Journey</title>
-    </programme>
-    <programme start="20260802224500 +0545" stop="20260802225500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802225500 +0545" stop="20260802225500 +0545" channel="nettv-212" catchup-id="429861">
-                <title>Through the Kitchen Window</title>
-    </programme>
-    <programme start="20260802225500 +0545" stop="20260802225500 +0545" channel="nettv-212" catchup-id="4071509">
-                <title>Laugh Then Think</title>
-    </programme>
-    <programme start="20260802225500 +0545" stop="20260802231000 +0545" channel="nettv-212" catchup-id="4111229">
-                <title>Laugh Then Think: Japan&#x27;s Offbeat Science</title>
-    </programme>
-    <programme start="20260802231000 +0545" stop="20260802231000 +0545" channel="nettv-212" catchup-id="303370">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260802231000 +0545" stop="20260802231500 +0545" channel="nettv-212" catchup-id="724914">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260802231500 +0545" stop="20260802231500 +0545" channel="nettv-212" catchup-id="295258">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260802231500 +0545" stop="20260802233000 +0545" channel="nettv-212" catchup-id="1433184">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260802233000 +0545" stop="20260802233000 +0545" channel="nettv-212" catchup-id="298090">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802233000 +0545" stop="20260802234500 +0545" channel="nettv-212" catchup-id="991053">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802234500 +0545" stop="20260802234500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802234500 +0545" stop="20260802235500 +0545" channel="nettv-212" catchup-id="1761806">
-                <title>Stateless</title>
-    </programme>
-    <programme start="20260802235500 +0545" stop="2026-08-02 23:59:59.999999" channel="nettv-212" catchup-id="429837">
-                <title>Discharged by Death: Inside a Japanese Mental Hospital</title>
-    </programme>
-    <programme start="20260803003500 +0545" stop="20260803004500 +0545" channel="nettv-212" catchup-id="789519">
-                <title>Century Signboards</title>
-    </programme>
-    <programme start="20260803004500 +0545" stop="20260803005500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260803005500 +0545" stop="20260803005500 +0545" channel="nettv-212" catchup-id="429846">
-                <title>Herbal Symphony</title>
-    </programme>
-    <programme start="20260803005500 +0545" stop="20260803005500 +0545" channel="nettv-212" catchup-id="453879">
-                <title>NHK WORLD TV Special Program</title>
-    </programme>
-    <programme start="20260803005500 +0545" stop="20260803014500 +0545" channel="nettv-212" catchup-id="3675366">
-                <title>Project X: Unsung Heroes</title>
-    </programme>
-    <programme start="20260803014500 +0545" stop="20260803015500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260803015500 +0545" stop="20260803015500 +0545" channel="nettv-212" catchup-id="325656">
-                <title>Anime Manga Explosion</title>
-    </programme>
-    <programme start="20260803015500 +0545" stop="20260803022500 +0545" channel="nettv-212" catchup-id="3600261">
-                <title>Cycle Around Japan</title>
-    </programme>
-    <programme start="20260803022500 +0545" stop="20260803022500 +0545" channel="nettv-212" catchup-id="315843">
-                <title>Design Ah! neo</title>
-    </programme>
-    <programme start="20260803022500 +0545" stop="20260803023500 +0545" channel="nettv-212" catchup-id="3079311">
-                <title>The Wakey Show</title>
-    </programme>
-    <programme start="20260803023500 +0545" stop="20260803024500 +0545" channel="nettv-212" catchup-id="325653">
-                <title>Mitateru-Phose: Let&#x27;s Change Perspective!</title>
-    </programme>
-    <programme start="20260803024500 +0545" stop="20260803025500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260803025500 +0545" stop="20260803025500 +0545" channel="nettv-212" catchup-id="302278">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260803025500 +0545" stop="20260803032500 +0545" channel="nettv-212" catchup-id="4071506">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260803032500 +0545" stop="20260803032500 +0545" channel="nettv-212" catchup-id="299701">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260803032500 +0545" stop="20260803033500 +0545" channel="nettv-212" catchup-id="1246296">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260803033500 +0545" stop="20260803033500 +0545" channel="nettv-212" catchup-id="296266">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260803033500 +0545" stop="20260803034000 +0545" channel="nettv-212" catchup-id="3029382">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260803034000 +0545" stop="20260803034000 +0545" channel="nettv-212" catchup-id="297070">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260803034000 +0545" stop="20260803034500 +0545" channel="nettv-212" catchup-id="4111232">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260803034500 +0545" stop="20260803035500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260803035500 +0545" stop="20260803035500 +0545" channel="nettv-212" catchup-id="429861">
-                <title>Through the Kitchen Window</title>
-    </programme>
-    <programme start="20260803035500 +0545" stop="20260803035500 +0545" channel="nettv-212" catchup-id="4071509">
-                <title>Laugh Then Think</title>
-    </programme>
-    <programme start="20260803035500 +0545" stop="20260803041000 +0545" channel="nettv-212" catchup-id="4111229">
-                <title>Laugh Then Think: Japan&#x27;s Offbeat Science</title>
-    </programme>
-    <programme start="20260803041000 +0545" stop="20260803041000 +0545" channel="nettv-212" catchup-id="303370">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260803041000 +0545" stop="20260803041500 +0545" channel="nettv-212" catchup-id="724914">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260803041500 +0545" stop="20260803041500 +0545" channel="nettv-212" catchup-id="295258">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260803041500 +0545" stop="20260803043000 +0545" channel="nettv-212" catchup-id="1433184">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260803043000 +0545" stop="20260803043000 +0545" channel="nettv-212" catchup-id="298090">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260803043000 +0545" stop="20260803044500 +0545" channel="nettv-212" catchup-id="991053">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260803044500 +0545" stop="20260803045500 +0545" channel="nettv-212" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260803045500 +0545" stop="20260803045500 +0545" channel="nettv-212" catchup-id="325650">
-                <title>The World Heritage</title>
-    </programme>
-    <programme start="20260803045500 +0545" stop="20260803051000 +0545" channel="nettv-212" catchup-id="1367307">
-                <title>Somewhere Street</title>
-    </programme>
-    <programme start="20260803051000 +0545" stop="20260803051500 +0545" channel="nettv-212" catchup-id="301858">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20260803051500 +0545" stop="20260803054200 +0545" channel="nettv-212" catchup-id="300712">
-                <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20260803054200 +0545" stop="20260803054200 +0545" channel="nettv-212" catchup-id="302962">
-                <title>Sumopedia</title>
-    </programme>
-    <programme start="20260803054200 +0545" stop="20260803054500 +0545" channel="nettv-212" catchup-id="453861">
-                <title>Time-Lapse Journey</title>
+    <programme start="20260817020000 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-49" catchup-id="200917177">
+                <title>Miscellaneous</title>
     </programme>
     <programme start="20260803054500 +0545" stop="20260803055500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
@@ -6628,23 +6193,38 @@
     <programme start="20260816204500 +0545" stop="20260816205500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260816205500 +0545" stop="20260816212500 +0545" channel="nettv-212" catchup-id="302278">
+    <programme start="20260816205500 +0545" stop="20260816205500 +0545" channel="nettv-212" catchup-id="302278">
                 <title>J-MELO</title>
     </programme>
-    <programme start="20260816212500 +0545" stop="20260816213500 +0545" channel="nettv-212" catchup-id="299701">
+    <programme start="20260816205500 +0545" stop="20260816212500 +0545" channel="nettv-212" catchup-id="3029376">
+                <title>J-MELO</title>
+    </programme>
+    <programme start="20260816212500 +0545" stop="20260816212500 +0545" channel="nettv-212" catchup-id="299701">
                 <title>Little Charo</title>
     </programme>
-    <programme start="20260816213500 +0545" stop="20260816214000 +0545" channel="nettv-212" catchup-id="296266">
+    <programme start="20260816212500 +0545" stop="20260816213500 +0545" channel="nettv-212" catchup-id="1367295">
+                <title>Little Charo</title>
+    </programme>
+    <programme start="20260816213500 +0545" stop="20260816213500 +0545" channel="nettv-212" catchup-id="296266">
                 <title>Japanology Plus Mini</title>
     </programme>
-    <programme start="20260816214000 +0545" stop="20260816214500 +0545" channel="nettv-212" catchup-id="297070">
+    <programme start="20260816213500 +0545" stop="20260816214000 +0545" channel="nettv-212" catchup-id="726462">
+                <title>Japanology Plus Mini</title>
+    </programme>
+    <programme start="20260816214000 +0545" stop="20260816214000 +0545" channel="nettv-212" catchup-id="297070">
+                <title>A Cat&#x27;s-Eye View of Japan</title>
+    </programme>
+    <programme start="20260816214000 +0545" stop="20260816214500 +0545" channel="nettv-212" catchup-id="4189241">
                 <title>A Cat&#x27;s-Eye View of Japan</title>
     </programme>
     <programme start="20260816214500 +0545" stop="20260816215500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260816215500 +0545" stop="20260816221000 +0545" channel="nettv-212" catchup-id="325650">
+    <programme start="20260816215500 +0545" stop="20260816215500 +0545" channel="nettv-212" catchup-id="325650">
                 <title>The World Heritage</title>
+    </programme>
+    <programme start="20260816215500 +0545" stop="20260816221000 +0545" channel="nettv-212" catchup-id="1602188">
+                <title>Somewhere Street</title>
     </programme>
     <programme start="20260816221000 +0545" stop="20260816221500 +0545" channel="nettv-212" catchup-id="301858">
                 <title>Time-Lapse Japan</title>
@@ -6652,26 +6232,44 @@
     <programme start="20260816221500 +0545" stop="20260816224200 +0545" channel="nettv-212" catchup-id="300712">
                 <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20260816224200 +0545" stop="20260816224500 +0545" channel="nettv-212" catchup-id="302962">
+    <programme start="20260816224200 +0545" stop="20260816224200 +0545" channel="nettv-212" catchup-id="302962">
                 <title>Sumopedia</title>
+    </programme>
+    <programme start="20260816224200 +0545" stop="20260816224500 +0545" channel="nettv-212" catchup-id="1186293">
+                <title>Time-Lapse Journey</title>
     </programme>
     <programme start="20260816224500 +0545" stop="20260816225500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260816225500 +0545" stop="20260816231000 +0545" channel="nettv-212" catchup-id="429861">
+    <programme start="20260816225500 +0545" stop="20260816225500 +0545" channel="nettv-212" catchup-id="429861">
                 <title>Through the Kitchen Window</title>
     </programme>
-    <programme start="20260816231000 +0545" stop="20260816231500 +0545" channel="nettv-212" catchup-id="303370">
+    <programme start="20260816225500 +0545" stop="20260816231000 +0545" channel="nettv-212" catchup-id="4189295">
+                <title>Ramen Japan</title>
+    </programme>
+    <programme start="20260816231000 +0545" stop="20260816231000 +0545" channel="nettv-212" catchup-id="303370">
                 <title>Core Kyoto Mini</title>
     </programme>
-    <programme start="20260816231500 +0545" stop="20260816233000 +0545" channel="nettv-212" catchup-id="295258">
+    <programme start="20260816231000 +0545" stop="20260816231500 +0545" channel="nettv-212" catchup-id="899385">
+                <title>Core Kyoto Mini</title>
+    </programme>
+    <programme start="20260816231500 +0545" stop="20260816231500 +0545" channel="nettv-212" catchup-id="295258">
                 <title>Easy Japanese for Work</title>
     </programme>
-    <programme start="20260816233000 +0545" stop="20260816234500 +0545" channel="nettv-212" catchup-id="298090">
+    <programme start="20260816231500 +0545" stop="20260816233000 +0545" channel="nettv-212" catchup-id="1539137">
+                <title>Easy Japanese for Work</title>
+    </programme>
+    <programme start="20260816233000 +0545" stop="20260816233000 +0545" channel="nettv-212" catchup-id="298090">
                 <title>Zero Waste Life</title>
     </programme>
-    <programme start="20260816234500 +0545" stop="20260816235500 +0545" channel="nettv-212" catchup-id="295345">
+    <programme start="20260816233000 +0545" stop="20260816234500 +0545" channel="nettv-212" catchup-id="1761776">
+                <title>Zero Waste Life</title>
+    </programme>
+    <programme start="20260816234500 +0545" stop="20260816234500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260816234500 +0545" stop="20260816235500 +0545" channel="nettv-212" catchup-id="4189223">
+                <title>Documentary 360</title>
     </programme>
     <programme start="20260816235500 +0545" stop="2026-08-16 23:59:59.999999" channel="nettv-212" catchup-id="429837">
                 <title>Discharged by Death: Inside a Japanese Mental Hospital</title>
@@ -6679,17 +6277,26 @@
     <programme start="20260817004500 +0545" stop="20260817005500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817005500 +0545" stop="20260817014500 +0545" channel="nettv-212" catchup-id="429846">
+    <programme start="20260817005500 +0545" stop="20260817005500 +0545" channel="nettv-212" catchup-id="429846">
                 <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20260817005500 +0545" stop="20260817014500 +0545" channel="nettv-212" catchup-id="4189238">
+                <title>Broadcasters&#x27; Eye</title>
     </programme>
     <programme start="20260817014500 +0545" stop="20260817015500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817015500 +0545" stop="20260817022500 +0545" channel="nettv-212" catchup-id="325656">
+    <programme start="20260817015500 +0545" stop="20260817015500 +0545" channel="nettv-212" catchup-id="325656">
                 <title>Anime Manga Explosion</title>
     </programme>
-    <programme start="20260817022500 +0545" stop="20260817023500 +0545" channel="nettv-212" catchup-id="315843">
+    <programme start="20260817015500 +0545" stop="20260817022500 +0545" channel="nettv-212" catchup-id="4189235">
+                <title>Cycle Around Japan</title>
+    </programme>
+    <programme start="20260817022500 +0545" stop="20260817022500 +0545" channel="nettv-212" catchup-id="315843">
                 <title>Design Ah! neo</title>
+    </programme>
+    <programme start="20260817022500 +0545" stop="20260817023500 +0545" channel="nettv-212" catchup-id="3079311">
+                <title>The Wakey Show</title>
     </programme>
     <programme start="20260817023500 +0545" stop="20260817024500 +0545" channel="nettv-212" catchup-id="325653">
                 <title>Mitateru-Phose: Let&#x27;s Change Perspective!</title>
@@ -6697,38 +6304,65 @@
     <programme start="20260817024500 +0545" stop="20260817025500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817025500 +0545" stop="20260817032500 +0545" channel="nettv-212" catchup-id="302278">
+    <programme start="20260817025500 +0545" stop="20260817025500 +0545" channel="nettv-212" catchup-id="302278">
                 <title>J-MELO</title>
     </programme>
-    <programme start="20260817032500 +0545" stop="20260817033500 +0545" channel="nettv-212" catchup-id="299701">
+    <programme start="20260817025500 +0545" stop="20260817032500 +0545" channel="nettv-212" catchup-id="3029376">
+                <title>J-MELO</title>
+    </programme>
+    <programme start="20260817032500 +0545" stop="20260817032500 +0545" channel="nettv-212" catchup-id="299701">
                 <title>Little Charo</title>
     </programme>
-    <programme start="20260817033500 +0545" stop="20260817034000 +0545" channel="nettv-212" catchup-id="296266">
+    <programme start="20260817032500 +0545" stop="20260817033500 +0545" channel="nettv-212" catchup-id="1367295">
+                <title>Little Charo</title>
+    </programme>
+    <programme start="20260817033500 +0545" stop="20260817033500 +0545" channel="nettv-212" catchup-id="296266">
                 <title>Japanology Plus Mini</title>
     </programme>
-    <programme start="20260817034000 +0545" stop="20260817034500 +0545" channel="nettv-212" catchup-id="297070">
+    <programme start="20260817033500 +0545" stop="20260817034000 +0545" channel="nettv-212" catchup-id="726462">
+                <title>Japanology Plus Mini</title>
+    </programme>
+    <programme start="20260817034000 +0545" stop="20260817034000 +0545" channel="nettv-212" catchup-id="297070">
+                <title>A Cat&#x27;s-Eye View of Japan</title>
+    </programme>
+    <programme start="20260817034000 +0545" stop="20260817034500 +0545" channel="nettv-212" catchup-id="4189241">
                 <title>A Cat&#x27;s-Eye View of Japan</title>
     </programme>
     <programme start="20260817034500 +0545" stop="20260817035500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817035500 +0545" stop="20260817041000 +0545" channel="nettv-212" catchup-id="429861">
+    <programme start="20260817035500 +0545" stop="20260817035500 +0545" channel="nettv-212" catchup-id="429861">
                 <title>Through the Kitchen Window</title>
     </programme>
-    <programme start="20260817041000 +0545" stop="20260817041500 +0545" channel="nettv-212" catchup-id="303370">
+    <programme start="20260817035500 +0545" stop="20260817041000 +0545" channel="nettv-212" catchup-id="4189295">
+                <title>Ramen Japan</title>
+    </programme>
+    <programme start="20260817041000 +0545" stop="20260817041000 +0545" channel="nettv-212" catchup-id="303370">
                 <title>Core Kyoto Mini</title>
     </programme>
-    <programme start="20260817041500 +0545" stop="20260817043000 +0545" channel="nettv-212" catchup-id="295258">
+    <programme start="20260817041000 +0545" stop="20260817041500 +0545" channel="nettv-212" catchup-id="899385">
+                <title>Core Kyoto Mini</title>
+    </programme>
+    <programme start="20260817041500 +0545" stop="20260817041500 +0545" channel="nettv-212" catchup-id="295258">
                 <title>Easy Japanese for Work</title>
     </programme>
-    <programme start="20260817043000 +0545" stop="20260817044500 +0545" channel="nettv-212" catchup-id="298090">
+    <programme start="20260817041500 +0545" stop="20260817043000 +0545" channel="nettv-212" catchup-id="1539137">
+                <title>Easy Japanese for Work</title>
+    </programme>
+    <programme start="20260817043000 +0545" stop="20260817043000 +0545" channel="nettv-212" catchup-id="298090">
+                <title>Zero Waste Life</title>
+    </programme>
+    <programme start="20260817043000 +0545" stop="20260817044500 +0545" channel="nettv-212" catchup-id="1761776">
                 <title>Zero Waste Life</title>
     </programme>
     <programme start="20260817044500 +0545" stop="20260817045500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817045500 +0545" stop="20260817051000 +0545" channel="nettv-212" catchup-id="325650">
+    <programme start="20260817045500 +0545" stop="20260817045500 +0545" channel="nettv-212" catchup-id="325650">
                 <title>The World Heritage</title>
+    </programme>
+    <programme start="20260817045500 +0545" stop="20260817051000 +0545" channel="nettv-212" catchup-id="1602188">
+                <title>Somewhere Street</title>
     </programme>
     <programme start="20260817051000 +0545" stop="20260817051500 +0545" channel="nettv-212" catchup-id="301858">
                 <title>Time-Lapse Japan</title>
@@ -6736,443 +6370,419 @@
     <programme start="20260817051500 +0545" stop="20260817054200 +0545" channel="nettv-212" catchup-id="300712">
                 <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20260817054200 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-212" catchup-id="302962">
+    <programme start="20260817054200 +0545" stop="20260817054200 +0545" channel="nettv-212" catchup-id="302962">
                 <title>Sumopedia</title>
     </programme>
-    <programme start="20260802054500 +0545" stop="20260802063500 +0545" channel="nettv-213" catchup-id="1761806">
-                <title>Stateless</title>
-    </programme>
-    <programme start="20260802063500 +0545" stop="20260802064500 +0545" channel="nettv-213" catchup-id="789519">
-                <title>Century Signboards</title>
-    </programme>
-    <programme start="20260802064500 +0545" stop="20260802065500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802065500 +0545" stop="20260802065500 +0545" channel="nettv-213" catchup-id="453879">
-                <title>NHK WORLD TV Special Program</title>
-    </programme>
-    <programme start="20260802065500 +0545" stop="20260802074500 +0545" channel="nettv-213" catchup-id="3675366">
-                <title>Project X: Unsung Heroes</title>
-    </programme>
-    <programme start="20260802074500 +0545" stop="20260802075500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802075500 +0545" stop="20260802082500 +0545" channel="nettv-213" catchup-id="4071506">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260802082500 +0545" stop="20260802083500 +0545" channel="nettv-213" catchup-id="1246296">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802083500 +0545" stop="20260802084000 +0545" channel="nettv-213" catchup-id="3029382">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802084000 +0545" stop="20260802084000 +0545" channel="nettv-213" catchup-id="297070">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802084000 +0545" stop="20260802084500 +0545" channel="nettv-213" catchup-id="4111232">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802084500 +0545" stop="20260802085500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802085500 +0545" stop="20260802092500 +0545" channel="nettv-213" catchup-id="3600261">
-                <title>Cycle Around Japan</title>
-    </programme>
-    <programme start="20260802092500 +0545" stop="20260802094500 +0545" channel="nettv-213" catchup-id="3079311">
-                <title>The Wakey Show</title>
-    </programme>
-    <programme start="20260802094500 +0545" stop="20260802095500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802095500 +0545" stop="20260802104200 +0545" channel="nettv-213" catchup-id="1367307">
-                <title>Somewhere Street</title>
-    </programme>
-    <programme start="20260802104200 +0545" stop="20260802104500 +0545" channel="nettv-213" catchup-id="453861">
+    <programme start="20260817054200 +0545" stop="20260817054500 +0545" channel="nettv-212" catchup-id="1186293">
                 <title>Time-Lapse Journey</title>
     </programme>
-    <programme start="20260802104500 +0545" stop="20260802105500 +0545" channel="nettv-213" catchup-id="295345">
+    <programme start="20260817054500 +0545" stop="20260817055500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802105500 +0545" stop="20260802105500 +0545" channel="nettv-213" catchup-id="429861">
-                <title>Through the Kitchen Window</title>
+    <programme start="20260817055500 +0545" stop="20260817055500 +0545" channel="nettv-212" catchup-id="298300">
+                <title>Chatroom Japan</title>
     </programme>
-    <programme start="20260802105500 +0545" stop="20260802105500 +0545" channel="nettv-213" catchup-id="4071509">
-                <title>Laugh Then Think</title>
+    <programme start="20260817055500 +0545" stop="20260817060000 +0545" channel="nettv-212" catchup-id="1582910">
+                <title>Chatroom Japan</title>
     </programme>
-    <programme start="20260802105500 +0545" stop="20260802111000 +0545" channel="nettv-213" catchup-id="4111229">
-                <title>Laugh Then Think: Japan&#x27;s Offbeat Science</title>
+    <programme start="20260817060000 +0545" stop="20260817060000 +0545" channel="nettv-212" catchup-id="301813">
+                <title>Direct Talk</title>
     </programme>
-    <programme start="20260802111000 +0545" stop="20260802111000 +0545" channel="nettv-213" catchup-id="303370">
-                <title>Core Kyoto Mini</title>
+    <programme start="20260817060000 +0545" stop="20260817061000 +0545" channel="nettv-212" catchup-id="2815266">
+                <title>IMPACTS:Climates Change the World</title>
     </programme>
-    <programme start="20260802111000 +0545" stop="20260802111500 +0545" channel="nettv-213" catchup-id="724914">
-                <title>Core Kyoto Mini</title>
+    <programme start="20260817061000 +0545" stop="20260817061500 +0545" channel="nettv-212" catchup-id="719358">
+                <title>Design Museum Japan</title>
     </programme>
-    <programme start="20260802111500 +0545" stop="20260802111500 +0545" channel="nettv-213" catchup-id="295258">
-                <title>Easy Japanese for Work</title>
+    <programme start="20260817061500 +0545" stop="20260817061500 +0545" channel="nettv-212" catchup-id="295645">
+                <title>Where We Call Home</title>
     </programme>
-    <programme start="20260802111500 +0545" stop="20260802113000 +0545" channel="nettv-213" catchup-id="1433184">
-                <title>Easy Japanese for Work</title>
+    <programme start="20260817061500 +0545" stop="20260817064000 +0545" channel="nettv-212" catchup-id="3193455">
+                <title>The Factory Wonders</title>
     </programme>
-    <programme start="20260802113000 +0545" stop="20260802113000 +0545" channel="nettv-213" catchup-id="298090">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802113000 +0545" stop="20260802114500 +0545" channel="nettv-213" catchup-id="991053">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802114500 +0545" stop="20260802115500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802115500 +0545" stop="20260802115500 +0545" channel="nettv-213" catchup-id="429837">
-                <title>Discharged by Death: Inside a Japanese Mental Hospital</title>
-    </programme>
-    <programme start="20260802115500 +0545" stop="20260802124500 +0545" channel="nettv-213" catchup-id="439119">
-                <title>Documentary 360</title>
-    </programme>
-    <programme start="20260802124500 +0545" stop="20260802125500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802125500 +0545" stop="20260802125500 +0545" channel="nettv-213" catchup-id="325650">
-                <title>The World Heritage</title>
-    </programme>
-    <programme start="20260802125500 +0545" stop="20260802125500 +0545" channel="nettv-213" catchup-id="453879">
-                <title>NHK WORLD TV Special Program</title>
-    </programme>
-    <programme start="20260802125500 +0545" stop="20260802131000 +0545" channel="nettv-213" catchup-id="3675366">
-                <title>Project X: Unsung Heroes</title>
-    </programme>
-    <programme start="20260802131000 +0545" stop="20260802134500 +0545" channel="nettv-213" catchup-id="301858">
+    <programme start="20260817064000 +0545" stop="20260817064500 +0545" channel="nettv-212" catchup-id="2138741">
                 <title>Time-Lapse Japan</title>
     </programme>
-    <programme start="20260802134500 +0545" stop="20260802135500 +0545" channel="nettv-213" catchup-id="295345">
+    <programme start="20260817064500 +0545" stop="20260817065500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802135500 +0545" stop="20260802135500 +0545" channel="nettv-213" catchup-id="301687">
-                <title>Somewhere Street</title>
+    <programme start="20260817065500 +0545" stop="20260817065500 +0545" channel="nettv-212" catchup-id="301858">
+                <title>Time-Lapse Japan</title>
     </programme>
-    <programme start="20260802135500 +0545" stop="20260802141500 +0545" channel="nettv-213" catchup-id="1367307">
-                <title>Somewhere Street</title>
+    <programme start="20260817065500 +0545" stop="20260817070000 +0545" channel="nettv-212" catchup-id="1478666">
+                <title>The Seasons of Yamato</title>
     </programme>
-    <programme start="20260802141500 +0545" stop="20260802144200 +0545" channel="nettv-213" catchup-id="300712">
-                <title>Grand Sumo Highlights</title>
+    <programme start="20260817070000 +0545" stop="20260817070000 +0545" channel="nettv-212" catchup-id="302035">
+                <title>BOSAI: Science That Can Save Your Life</title>
     </programme>
-    <programme start="20260802144200 +0545" stop="20260802144200 +0545" channel="nettv-213" catchup-id="302962">
-                <title>Sumopedia</title>
+    <programme start="20260817070000 +0545" stop="20260817071500 +0545" channel="nettv-212" catchup-id="4178963">
+                <title>BOSAI: Science That Can Save Your Life</title>
     </programme>
-    <programme start="20260802144200 +0545" stop="20260802144500 +0545" channel="nettv-213" catchup-id="453861">
-                <title>Time-Lapse Journey</title>
+    <programme start="20260817071500 +0545" stop="20260817071500 +0545" channel="nettv-212" catchup-id="298282">
+                <title>Magical Japanese</title>
     </programme>
-    <programme start="20260802144500 +0545" stop="20260802145500 +0545" channel="nettv-213" catchup-id="295345">
+    <programme start="20260817071500 +0545" stop="20260817072500 +0545" channel="nettv-212" catchup-id="2235734">
+                <title>Magical Japanese</title>
+    </programme>
+    <programme start="20260817072500 +0545" stop="20260817072500 +0545" channel="nettv-212" catchup-id="299872">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260817072500 +0545" stop="20260817073000 +0545" channel="nettv-212" catchup-id="4196354">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260817073000 +0545" stop="20260817073000 +0545" channel="nettv-212" catchup-id="297670">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817073000 +0545" stop="20260817074000 +0545" channel="nettv-212" catchup-id="1027026">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817074000 +0545" stop="20260817074000 +0545" channel="nettv-212" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817074000 +0545" stop="20260817074500 +0545" channel="nettv-212" catchup-id="4196366">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817074500 +0545" stop="20260817075500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802145500 +0545" stop="20260802145500 +0545" channel="nettv-213" catchup-id="325656">
-                <title>Anime Manga Explosion</title>
+    <programme start="20260817075500 +0545" stop="20260817081000 +0545" channel="nettv-212" catchup-id="2822700">
+                <title>Somewhere Street A Short Stroll</title>
     </programme>
-    <programme start="20260802145500 +0545" stop="20260802152500 +0545" channel="nettv-213" catchup-id="3600261">
-                <title>Cycle Around Japan</title>
+    <programme start="20260817081000 +0545" stop="20260817081500 +0545" channel="nettv-212" catchup-id="521721">
+                <title>One in Every Japanese</title>
     </programme>
-    <programme start="20260802152500 +0545" stop="20260802152500 +0545" channel="nettv-213" catchup-id="315843">
-                <title>Design Ah! neo</title>
+    <programme start="20260817081500 +0545" stop="20260817081500 +0545" channel="nettv-212" catchup-id="300832">
+                <title>Seasoning the Seasons</title>
     </programme>
-    <programme start="20260802152500 +0545" stop="20260802153500 +0545" channel="nettv-213" catchup-id="3079311">
-                <title>The Wakey Show</title>
+    <programme start="20260817081500 +0545" stop="20260817084500 +0545" channel="nettv-212" catchup-id="1526807">
+                <title>Seasoning the Seasons</title>
     </programme>
-    <programme start="20260802153500 +0545" stop="20260802154500 +0545" channel="nettv-213" catchup-id="325653">
-                <title>Mitateru-Phose: Let&#x27;s Change Perspective!</title>
-    </programme>
-    <programme start="20260802154500 +0545" stop="20260802155500 +0545" channel="nettv-213" catchup-id="295345">
+    <programme start="20260817084500 +0545" stop="20260817085500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802155500 +0545" stop="20260802155500 +0545" channel="nettv-213" catchup-id="302278">
-                <title>J-MELO</title>
+    <programme start="20260817085500 +0545" stop="20260817090500 +0545" channel="nettv-212" catchup-id="1372932">
+                <title>MATSURI: The Heartbeat of Japan</title>
     </programme>
-    <programme start="20260802155500 +0545" stop="20260802162500 +0545" channel="nettv-213" catchup-id="4071506">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260802162500 +0545" stop="20260802162500 +0545" channel="nettv-213" catchup-id="299701">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802162500 +0545" stop="20260802163500 +0545" channel="nettv-213" catchup-id="1246296">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802163500 +0545" stop="20260802163500 +0545" channel="nettv-213" catchup-id="296266">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802163500 +0545" stop="20260802164000 +0545" channel="nettv-213" catchup-id="3029382">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802164000 +0545" stop="20260802164000 +0545" channel="nettv-213" catchup-id="297070">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802164000 +0545" stop="20260802164500 +0545" channel="nettv-213" catchup-id="4111232">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802164500 +0545" stop="20260802165500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802165500 +0545" stop="20260802165500 +0545" channel="nettv-213" catchup-id="429861">
-                <title>Through the Kitchen Window</title>
-    </programme>
-    <programme start="20260802165500 +0545" stop="20260802165500 +0545" channel="nettv-213" catchup-id="4071509">
-                <title>Laugh Then Think</title>
-    </programme>
-    <programme start="20260802165500 +0545" stop="20260802171000 +0545" channel="nettv-213" catchup-id="4111229">
-                <title>Laugh Then Think: Japan&#x27;s Offbeat Science</title>
-    </programme>
-    <programme start="20260802171000 +0545" stop="20260802171000 +0545" channel="nettv-213" catchup-id="303370">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260802171000 +0545" stop="20260802171500 +0545" channel="nettv-213" catchup-id="724914">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260802171500 +0545" stop="20260802171500 +0545" channel="nettv-213" catchup-id="295258">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260802171500 +0545" stop="20260802173000 +0545" channel="nettv-213" catchup-id="1433184">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260802173000 +0545" stop="20260802173000 +0545" channel="nettv-213" catchup-id="298090">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802173000 +0545" stop="20260802174500 +0545" channel="nettv-213" catchup-id="991053">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802174500 +0545" stop="20260802175500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802175500 +0545" stop="20260802175500 +0545" channel="nettv-213" catchup-id="429837">
-                <title>Discharged by Death: Inside a Japanese Mental Hospital</title>
-    </programme>
-    <programme start="20260802175500 +0545" stop="20260802184500 +0545" channel="nettv-213" catchup-id="439119">
-                <title>Documentary 360</title>
-    </programme>
-    <programme start="20260802184500 +0545" stop="20260802185500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802185500 +0545" stop="20260802185500 +0545" channel="nettv-213" catchup-id="429846">
+    <programme start="20260817090500 +0545" stop="20260817091500 +0545" channel="nettv-212" catchup-id="2364093">
                 <title>Herbal Symphony</title>
     </programme>
-    <programme start="20260802185500 +0545" stop="20260802185500 +0545" channel="nettv-213" catchup-id="453879">
-                <title>NHK WORLD TV Special Program</title>
+    <programme start="20260817091500 +0545" stop="20260817091500 +0545" channel="nettv-212" catchup-id="299419">
+                <title>Darwin&#x27;s Amazing Animals</title>
     </programme>
-    <programme start="20260802185500 +0545" stop="20260802194500 +0545" channel="nettv-213" catchup-id="3675366">
-                <title>Project X: Unsung Heroes</title>
+    <programme start="20260817091500 +0545" stop="20260817094000 +0545" channel="nettv-212" catchup-id="4178960">
+                <title>Darwin&#x27;s Amazing Animals</title>
     </programme>
-    <programme start="20260802194500 +0545" stop="20260802195500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
+    <programme start="20260817094000 +0545" stop="20260817094000 +0545" channel="nettv-212" catchup-id="300478">
+                <title>Timelapse</title>
     </programme>
-    <programme start="20260802195500 +0545" stop="20260802195500 +0545" channel="nettv-213" catchup-id="325656">
-                <title>Anime Manga Explosion</title>
-    </programme>
-    <programme start="20260802195500 +0545" stop="20260802202500 +0545" channel="nettv-213" catchup-id="3600261">
-                <title>Cycle Around Japan</title>
-    </programme>
-    <programme start="20260802202500 +0545" stop="20260802202500 +0545" channel="nettv-213" catchup-id="315843">
-                <title>Design Ah! neo</title>
-    </programme>
-    <programme start="20260802202500 +0545" stop="20260802203500 +0545" channel="nettv-213" catchup-id="3079311">
-                <title>The Wakey Show</title>
-    </programme>
-    <programme start="20260802203500 +0545" stop="20260802204500 +0545" channel="nettv-213" catchup-id="325653">
-                <title>Mitateru-Phose: Let&#x27;s Change Perspective!</title>
-    </programme>
-    <programme start="20260802204500 +0545" stop="20260802205500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802205500 +0545" stop="20260802205500 +0545" channel="nettv-213" catchup-id="302278">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260802205500 +0545" stop="20260802212500 +0545" channel="nettv-213" catchup-id="4071506">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260802212500 +0545" stop="20260802212500 +0545" channel="nettv-213" catchup-id="299701">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802212500 +0545" stop="20260802213500 +0545" channel="nettv-213" catchup-id="1246296">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260802213500 +0545" stop="20260802213500 +0545" channel="nettv-213" catchup-id="296266">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802213500 +0545" stop="20260802214000 +0545" channel="nettv-213" catchup-id="3029382">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260802214000 +0545" stop="20260802214000 +0545" channel="nettv-213" catchup-id="297070">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802214000 +0545" stop="20260802214500 +0545" channel="nettv-213" catchup-id="4111232">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260802214500 +0545" stop="20260802215500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260802215500 +0545" stop="20260802215500 +0545" channel="nettv-213" catchup-id="325650">
-                <title>The World Heritage</title>
-    </programme>
-    <programme start="20260802215500 +0545" stop="20260802221000 +0545" channel="nettv-213" catchup-id="1367307">
-                <title>Somewhere Street</title>
-    </programme>
-    <programme start="20260802221000 +0545" stop="20260802221500 +0545" channel="nettv-213" catchup-id="301858">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20260802221500 +0545" stop="20260802224200 +0545" channel="nettv-213" catchup-id="300712">
-                <title>Grand Sumo Highlights</title>
-    </programme>
-    <programme start="20260802224200 +0545" stop="20260802224200 +0545" channel="nettv-213" catchup-id="302962">
-                <title>Sumopedia</title>
-    </programme>
-    <programme start="20260802224200 +0545" stop="20260802224500 +0545" channel="nettv-213" catchup-id="453861">
+    <programme start="20260817094000 +0545" stop="20260817094500 +0545" channel="nettv-212" catchup-id="453861">
                 <title>Time-Lapse Journey</title>
     </programme>
-    <programme start="20260802224500 +0545" stop="20260802225500 +0545" channel="nettv-213" catchup-id="295345">
+    <programme start="20260817094500 +0545" stop="20260817095500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802225500 +0545" stop="20260802225500 +0545" channel="nettv-213" catchup-id="429861">
-                <title>Through the Kitchen Window</title>
+    <programme start="20260817095500 +0545" stop="20260817101000 +0545" channel="nettv-212" catchup-id="2822700">
+                <title>Somewhere Street A Short Stroll</title>
     </programme>
-    <programme start="20260802225500 +0545" stop="20260802225500 +0545" channel="nettv-213" catchup-id="4071509">
-                <title>Laugh Then Think</title>
+    <programme start="20260817101000 +0545" stop="20260817101500 +0545" channel="nettv-212" catchup-id="1971575">
+                <title>Japan From Above: Up Close</title>
     </programme>
-    <programme start="20260802225500 +0545" stop="20260802231000 +0545" channel="nettv-213" catchup-id="4111229">
-                <title>Laugh Then Think: Japan&#x27;s Offbeat Science</title>
+    <programme start="20260817101500 +0545" stop="20260817101500 +0545" channel="nettv-212" catchup-id="300712">
+                <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20260802231000 +0545" stop="20260802231000 +0545" channel="nettv-213" catchup-id="303370">
-                <title>Core Kyoto Mini</title>
+    <programme start="20260817101500 +0545" stop="20260817104200 +0545" channel="nettv-212" catchup-id="4196360">
+                <title>Hometown Stories</title>
     </programme>
-    <programme start="20260802231000 +0545" stop="20260802231500 +0545" channel="nettv-213" catchup-id="724914">
-                <title>Core Kyoto Mini</title>
+    <programme start="20260817104200 +0545" stop="20260817104200 +0545" channel="nettv-212" catchup-id="302962">
+                <title>Sumopedia</title>
     </programme>
-    <programme start="20260802231500 +0545" stop="20260802231500 +0545" channel="nettv-213" catchup-id="295258">
-                <title>Easy Japanese for Work</title>
+    <programme start="20260817104200 +0545" stop="20260817104500 +0545" channel="nettv-212" catchup-id="2063543">
+                <title>Satoyama Kitchen Summer</title>
     </programme>
-    <programme start="20260802231500 +0545" stop="20260802233000 +0545" channel="nettv-213" catchup-id="1433184">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260802233000 +0545" stop="20260802233000 +0545" channel="nettv-213" catchup-id="298090">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802233000 +0545" stop="20260802234500 +0545" channel="nettv-213" catchup-id="991053">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260802234500 +0545" stop="20260802234500 +0545" channel="nettv-213" catchup-id="295345">
+    <programme start="20260817104500 +0545" stop="20260817105500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802234500 +0545" stop="20260802235500 +0545" channel="nettv-213" catchup-id="1761806">
-                <title>Stateless</title>
+    <programme start="20260817105500 +0545" stop="20260817111000 +0545" channel="nettv-212" catchup-id="458616">
+                <title>Cinematic Journey</title>
     </programme>
-    <programme start="20260802235500 +0545" stop="2026-08-02 23:59:59.999999" channel="nettv-213" catchup-id="429837">
-                <title>Discharged by Death: Inside a Japanese Mental Hospital</title>
+    <programme start="20260817111000 +0545" stop="20260817111500 +0545" channel="nettv-212" catchup-id="1372935">
+                <title>Ramen Japan</title>
     </programme>
-    <programme start="20260803003500 +0545" stop="20260803004500 +0545" channel="nettv-213" catchup-id="789519">
+    <programme start="20260817111500 +0545" stop="20260817111500 +0545" channel="nettv-212" catchup-id="295645">
+                <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260817111500 +0545" stop="20260817114000 +0545" channel="nettv-212" catchup-id="3193455">
+                <title>The Factory Wonders</title>
+    </programme>
+    <programme start="20260817114000 +0545" stop="20260817114500 +0545" channel="nettv-212" catchup-id="2138741">
+                <title>Time-Lapse Japan</title>
+    </programme>
+    <programme start="20260817114500 +0545" stop="20260817114500 +0545" channel="nettv-212" catchup-id="301777">
+                <title>Newsline Asia 24</title>
+    </programme>
+    <programme start="20260817114500 +0545" stop="20260817115500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817115500 +0545" stop="20260817120800 +0545" channel="nettv-212" catchup-id="4196357">
+                <title>Biz Stream Special Edition</title>
+    </programme>
+    <programme start="20260817120800 +0545" stop="20260817121500 +0545" channel="nettv-212" catchup-id="521721">
+                <title>One in Every Japanese</title>
+    </programme>
+    <programme start="20260817121500 +0545" stop="20260817121500 +0545" channel="nettv-212" catchup-id="298282">
+                <title>Magical Japanese</title>
+    </programme>
+    <programme start="20260817121500 +0545" stop="20260817122500 +0545" channel="nettv-212" catchup-id="2235734">
+                <title>Magical Japanese</title>
+    </programme>
+    <programme start="20260817122500 +0545" stop="20260817122500 +0545" channel="nettv-212" catchup-id="299872">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260817122500 +0545" stop="20260817123000 +0545" channel="nettv-212" catchup-id="4196354">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260817123000 +0545" stop="20260817123000 +0545" channel="nettv-212" catchup-id="297670">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817123000 +0545" stop="20260817124000 +0545" channel="nettv-212" catchup-id="1027026">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817124000 +0545" stop="20260817124000 +0545" channel="nettv-212" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817124000 +0545" stop="20260817124500 +0545" channel="nettv-212" catchup-id="4196366">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817124500 +0545" stop="20260817124500 +0545" channel="nettv-212" catchup-id="301777">
+                <title>Newsline Asia 24</title>
+    </programme>
+    <programme start="20260817124500 +0545" stop="20260817125500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817125500 +0545" stop="20260817130500 +0545" channel="nettv-212" catchup-id="1132596">
                 <title>Century Signboards</title>
     </programme>
-    <programme start="20260803004500 +0545" stop="20260803005500 +0545" channel="nettv-213" catchup-id="295345">
+    <programme start="20260817130500 +0545" stop="20260817131500 +0545" channel="nettv-212" catchup-id="839430">
+                <title>Nun&#x27;s Seasonal Calendar</title>
+    </programme>
+    <programme start="20260817131500 +0545" stop="20260817131500 +0545" channel="nettv-212" catchup-id="300832">
+                <title>Seasoning the Seasons</title>
+    </programme>
+    <programme start="20260817131500 +0545" stop="20260817134500 +0545" channel="nettv-212" catchup-id="1526807">
+                <title>Seasoning the Seasons</title>
+    </programme>
+    <programme start="20260817134500 +0545" stop="20260817135500 +0545" channel="nettv-212" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260803005500 +0545" stop="20260803005500 +0545" channel="nettv-213" catchup-id="429846">
-                <title>Herbal Symphony</title>
+    <programme start="20260817135500 +0545" stop="20260817141500 +0545" channel="nettv-212" catchup-id="1302195">
+                <title>My Street Piano</title>
     </programme>
-    <programme start="20260803005500 +0545" stop="20260803005500 +0545" channel="nettv-213" catchup-id="453879">
-                <title>NHK WORLD TV Special Program</title>
-    </programme>
-    <programme start="20260803005500 +0545" stop="20260803014500 +0545" channel="nettv-213" catchup-id="3675366">
-                <title>Project X: Unsung Heroes</title>
-    </programme>
-    <programme start="20260803014500 +0545" stop="20260803015500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260803015500 +0545" stop="20260803015500 +0545" channel="nettv-213" catchup-id="325656">
-                <title>Anime Manga Explosion</title>
-    </programme>
-    <programme start="20260803015500 +0545" stop="20260803022500 +0545" channel="nettv-213" catchup-id="3600261">
-                <title>Cycle Around Japan</title>
-    </programme>
-    <programme start="20260803022500 +0545" stop="20260803022500 +0545" channel="nettv-213" catchup-id="315843">
-                <title>Design Ah! neo</title>
-    </programme>
-    <programme start="20260803022500 +0545" stop="20260803023500 +0545" channel="nettv-213" catchup-id="3079311">
-                <title>The Wakey Show</title>
-    </programme>
-    <programme start="20260803023500 +0545" stop="20260803024500 +0545" channel="nettv-213" catchup-id="325653">
-                <title>Mitateru-Phose: Let&#x27;s Change Perspective!</title>
-    </programme>
-    <programme start="20260803024500 +0545" stop="20260803025500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260803025500 +0545" stop="20260803025500 +0545" channel="nettv-213" catchup-id="302278">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260803025500 +0545" stop="20260803032500 +0545" channel="nettv-213" catchup-id="4071506">
-                <title>J-MELO</title>
-    </programme>
-    <programme start="20260803032500 +0545" stop="20260803032500 +0545" channel="nettv-213" catchup-id="299701">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260803032500 +0545" stop="20260803033500 +0545" channel="nettv-213" catchup-id="1246296">
-                <title>Little Charo</title>
-    </programme>
-    <programme start="20260803033500 +0545" stop="20260803033500 +0545" channel="nettv-213" catchup-id="296266">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260803033500 +0545" stop="20260803034000 +0545" channel="nettv-213" catchup-id="3029382">
-                <title>Japanology Plus Mini</title>
-    </programme>
-    <programme start="20260803034000 +0545" stop="20260803034000 +0545" channel="nettv-213" catchup-id="297070">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260803034000 +0545" stop="20260803034500 +0545" channel="nettv-213" catchup-id="4111232">
-                <title>A Cat&#x27;s-Eye View of Japan</title>
-    </programme>
-    <programme start="20260803034500 +0545" stop="20260803035500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260803035500 +0545" stop="20260803035500 +0545" channel="nettv-213" catchup-id="429861">
-                <title>Through the Kitchen Window</title>
-    </programme>
-    <programme start="20260803035500 +0545" stop="20260803035500 +0545" channel="nettv-213" catchup-id="4071509">
-                <title>Laugh Then Think</title>
-    </programme>
-    <programme start="20260803035500 +0545" stop="20260803041000 +0545" channel="nettv-213" catchup-id="4111229">
-                <title>Laugh Then Think: Japan&#x27;s Offbeat Science</title>
-    </programme>
-    <programme start="20260803041000 +0545" stop="20260803041000 +0545" channel="nettv-213" catchup-id="303370">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260803041000 +0545" stop="20260803041500 +0545" channel="nettv-213" catchup-id="724914">
-                <title>Core Kyoto Mini</title>
-    </programme>
-    <programme start="20260803041500 +0545" stop="20260803041500 +0545" channel="nettv-213" catchup-id="295258">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260803041500 +0545" stop="20260803043000 +0545" channel="nettv-213" catchup-id="1433184">
-                <title>Easy Japanese for Work</title>
-    </programme>
-    <programme start="20260803043000 +0545" stop="20260803043000 +0545" channel="nettv-213" catchup-id="298090">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260803043000 +0545" stop="20260803044500 +0545" channel="nettv-213" catchup-id="991053">
-                <title>Zero Waste Life</title>
-    </programme>
-    <programme start="20260803044500 +0545" stop="20260803045500 +0545" channel="nettv-213" catchup-id="295345">
-                <title>NHK Newsline</title>
-    </programme>
-    <programme start="20260803045500 +0545" stop="20260803045500 +0545" channel="nettv-213" catchup-id="325650">
-                <title>The World Heritage</title>
-    </programme>
-    <programme start="20260803045500 +0545" stop="20260803051000 +0545" channel="nettv-213" catchup-id="1367307">
-                <title>Somewhere Street</title>
-    </programme>
-    <programme start="20260803051000 +0545" stop="20260803051500 +0545" channel="nettv-213" catchup-id="301858">
-                <title>Time-Lapse Japan</title>
-    </programme>
-    <programme start="20260803051500 +0545" stop="20260803054200 +0545" channel="nettv-213" catchup-id="300712">
+    <programme start="20260817141500 +0545" stop="20260817141500 +0545" channel="nettv-212" catchup-id="300712">
                 <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20260803054200 +0545" stop="20260803054200 +0545" channel="nettv-213" catchup-id="302962">
+    <programme start="20260817141500 +0545" stop="20260817144200 +0545" channel="nettv-212" catchup-id="4196360">
+                <title>Hometown Stories</title>
+    </programme>
+    <programme start="20260817144200 +0545" stop="20260817144200 +0545" channel="nettv-212" catchup-id="302962">
                 <title>Sumopedia</title>
     </programme>
-    <programme start="20260803054200 +0545" stop="20260803054500 +0545" channel="nettv-213" catchup-id="453861">
-                <title>Time-Lapse Journey</title>
+    <programme start="20260817144200 +0545" stop="20260817144500 +0545" channel="nettv-212" catchup-id="2063543">
+                <title>Satoyama Kitchen Summer</title>
+    </programme>
+    <programme start="20260817144500 +0545" stop="20260817145500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817145500 +0545" stop="20260817150500 +0545" channel="nettv-212" catchup-id="1372932">
+                <title>MATSURI: The Heartbeat of Japan</title>
+    </programme>
+    <programme start="20260817150500 +0545" stop="20260817151500 +0545" channel="nettv-212" catchup-id="2364093">
+                <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20260817151500 +0545" stop="20260817151500 +0545" channel="nettv-212" catchup-id="299419">
+                <title>Darwin&#x27;s Amazing Animals</title>
+    </programme>
+    <programme start="20260817151500 +0545" stop="20260817154000 +0545" channel="nettv-212" catchup-id="4155644">
+                <title>Journeys in Japan</title>
+    </programme>
+    <programme start="20260817154000 +0545" stop="20260817154500 +0545" channel="nettv-212" catchup-id="300478">
+                <title>Timelapse</title>
+    </programme>
+    <programme start="20260817154500 +0545" stop="20260817154500 +0545" channel="nettv-212" catchup-id="298123">
+                <title>NHK News 7</title>
+    </programme>
+    <programme start="20260817154500 +0545" stop="20260817160000 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817160000 +0545" stop="20260817161500 +0545" channel="nettv-212" catchup-id="458616">
+                <title>Cinematic Journey</title>
+    </programme>
+    <programme start="20260817161500 +0545" stop="20260817161500 +0545" channel="nettv-212" catchup-id="295645">
+                <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260817161500 +0545" stop="20260817164000 +0545" channel="nettv-212" catchup-id="3193455">
+                <title>The Factory Wonders</title>
+    </programme>
+    <programme start="20260817164000 +0545" stop="20260817164500 +0545" channel="nettv-212" catchup-id="2138741">
+                <title>Time-Lapse Japan</title>
+    </programme>
+    <programme start="20260817164500 +0545" stop="20260817170000 +0545" channel="nettv-212" catchup-id="300925">
+                <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20260817170000 +0545" stop="20260817171300 +0545" channel="nettv-212" catchup-id="4196357">
+                <title>Biz Stream Special Edition</title>
+    </programme>
+    <programme start="20260817171300 +0545" stop="20260817171300 +0545" channel="nettv-212" catchup-id="301813">
+                <title>Direct Talk</title>
+    </programme>
+    <programme start="20260817171300 +0545" stop="20260817172800 +0545" channel="nettv-212" catchup-id="2381544">
+                <title>Direct Talk</title>
+    </programme>
+    <programme start="20260817172800 +0545" stop="20260817172800 +0545" channel="nettv-212" catchup-id="380493">
+                <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20260817172800 +0545" stop="20260817174000 +0545" channel="nettv-212" catchup-id="1027026">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817174000 +0545" stop="20260817174000 +0545" channel="nettv-212" catchup-id="296308">
+                <title>Ukiyoe Edo-Life</title>
+    </programme>
+    <programme start="20260817174000 +0545" stop="20260817174500 +0545" channel="nettv-212" catchup-id="4196366">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817174500 +0545" stop="20260817180000 +0545" channel="nettv-212" catchup-id="300925">
+                <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20260817180000 +0545" stop="20260817181500 +0545" channel="nettv-212" catchup-id="2454990">
+                <title>The World Heritage Sites in Japan</title>
+    </programme>
+    <programme start="20260817181500 +0545" stop="20260817181500 +0545" channel="nettv-212" catchup-id="298282">
+                <title>Magical Japanese</title>
+    </programme>
+    <programme start="20260817181500 +0545" stop="20260817182500 +0545" channel="nettv-212" catchup-id="1688951">
+                <title>Dive in Tokyo</title>
+    </programme>
+    <programme start="20260817182500 +0545" stop="20260817183000 +0545" channel="nettv-212" catchup-id="299872">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260817183000 +0545" stop="20260817184000 +0545" channel="nettv-212" catchup-id="297670">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817184000 +0545" stop="20260817184500 +0545" channel="nettv-212" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817184500 +0545" stop="20260817185500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817185500 +0545" stop="20260817190500 +0545" channel="nettv-212" catchup-id="1372932">
+                <title>MATSURI: The Heartbeat of Japan</title>
+    </programme>
+    <programme start="20260817190500 +0545" stop="20260817191500 +0545" channel="nettv-212" catchup-id="2364093">
+                <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20260817191500 +0545" stop="20260817191500 +0545" channel="nettv-212" catchup-id="300832">
+                <title>Seasoning the Seasons</title>
+    </programme>
+    <programme start="20260817191500 +0545" stop="20260817194500 +0545" channel="nettv-212" catchup-id="1526807">
+                <title>Seasoning the Seasons</title>
+    </programme>
+    <programme start="20260817194500 +0545" stop="20260817195500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817195500 +0545" stop="20260817200500 +0545" channel="nettv-212" catchup-id="1132596">
+                <title>Century Signboards</title>
+    </programme>
+    <programme start="20260817200500 +0545" stop="20260817201500 +0545" channel="nettv-212" catchup-id="839430">
+                <title>Nun&#x27;s Seasonal Calendar</title>
+    </programme>
+    <programme start="20260817201500 +0545" stop="20260817201500 +0545" channel="nettv-212" catchup-id="301072">
+                <title>Medical Frontiers</title>
+    </programme>
+    <programme start="20260817201500 +0545" stop="20260817204500 +0545" channel="nettv-212" catchup-id="4196363">
+                <title>Medical Frontiers</title>
+    </programme>
+    <programme start="20260817204500 +0545" stop="20260817211500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817211500 +0545" stop="20260817214500 +0545" channel="nettv-212" catchup-id="295645">
+                <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260817214500 +0545" stop="20260817221500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817221500 +0545" stop="20260817224200 +0545" channel="nettv-212" catchup-id="300712">
+                <title>Grand Sumo Highlights</title>
+    </programme>
+    <programme start="20260817224200 +0545" stop="20260817224500 +0545" channel="nettv-212" catchup-id="302962">
+                <title>Sumopedia</title>
+    </programme>
+    <programme start="20260817224500 +0545" stop="20260817231500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817231500 +0545" stop="20260817232500 +0545" channel="nettv-212" catchup-id="298282">
+                <title>Magical Japanese</title>
+    </programme>
+    <programme start="20260817232500 +0545" stop="20260817233000 +0545" channel="nettv-212" catchup-id="299872">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260817233000 +0545" stop="20260817234000 +0545" channel="nettv-212" catchup-id="297670">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817234000 +0545" stop="20260817234500 +0545" channel="nettv-212" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817234500 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-212" catchup-id="300925">
+                <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20260818001300 +0545" stop="20260818002800 +0545" channel="nettv-212" catchup-id="301813">
+                <title>Direct Talk</title>
+    </programme>
+    <programme start="20260818002800 +0545" stop="20260818004000 +0545" channel="nettv-212" catchup-id="380493">
+                <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20260818004000 +0545" stop="20260818004500 +0545" channel="nettv-212" catchup-id="296308">
+                <title>Ukiyoe Edo-Life</title>
+    </programme>
+    <programme start="20260818004500 +0545" stop="20260818011500 +0545" channel="nettv-212" catchup-id="300637">
+                <title>Today&#x27;s Close-Up</title>
+    </programme>
+    <programme start="20260818011500 +0545" stop="20260818014500 +0545" channel="nettv-212" catchup-id="300832">
+                <title>Seasoning the Seasons</title>
+    </programme>
+    <programme start="20260818014500 +0545" stop="20260818021500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260818021500 +0545" stop="20260818024500 +0545" channel="nettv-212" catchup-id="301072">
+                <title>Medical Frontiers</title>
+    </programme>
+    <programme start="20260818024500 +0545" stop="20260818031500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260818031500 +0545" stop="20260818034500 +0545" channel="nettv-212" catchup-id="295645">
+                <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260818034500 +0545" stop="20260818041500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260818041500 +0545" stop="20260818042500 +0545" channel="nettv-212" catchup-id="298282">
+                <title>Magical Japanese</title>
+    </programme>
+    <programme start="20260818042500 +0545" stop="20260818043000 +0545" channel="nettv-212" catchup-id="299872">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260818043000 +0545" stop="20260818044000 +0545" channel="nettv-212" catchup-id="297670">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260818044000 +0545" stop="20260818044500 +0545" channel="nettv-212" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260818044500 +0545" stop="20260818051500 +0545" channel="nettv-212" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260818051500 +0545" stop="20260818054200 +0545" channel="nettv-212" catchup-id="300712">
+                <title>Grand Sumo Highlights</title>
+    </programme>
+    <programme start="20260818054200 +0545" stop="2026-08-18 23:59:59.999999" channel="nettv-212" catchup-id="302962">
+                <title>Sumopedia</title>
     </programme>
     <programme start="20260803054500 +0545" stop="20260803055500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
@@ -12790,23 +12400,38 @@
     <programme start="20260816204500 +0545" stop="20260816205500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260816205500 +0545" stop="20260816212500 +0545" channel="nettv-213" catchup-id="302278">
+    <programme start="20260816205500 +0545" stop="20260816205500 +0545" channel="nettv-213" catchup-id="302278">
                 <title>J-MELO</title>
     </programme>
-    <programme start="20260816212500 +0545" stop="20260816213500 +0545" channel="nettv-213" catchup-id="299701">
+    <programme start="20260816205500 +0545" stop="20260816212500 +0545" channel="nettv-213" catchup-id="3029376">
+                <title>J-MELO</title>
+    </programme>
+    <programme start="20260816212500 +0545" stop="20260816212500 +0545" channel="nettv-213" catchup-id="299701">
                 <title>Little Charo</title>
     </programme>
-    <programme start="20260816213500 +0545" stop="20260816214000 +0545" channel="nettv-213" catchup-id="296266">
+    <programme start="20260816212500 +0545" stop="20260816213500 +0545" channel="nettv-213" catchup-id="1367295">
+                <title>Little Charo</title>
+    </programme>
+    <programme start="20260816213500 +0545" stop="20260816213500 +0545" channel="nettv-213" catchup-id="296266">
                 <title>Japanology Plus Mini</title>
     </programme>
-    <programme start="20260816214000 +0545" stop="20260816214500 +0545" channel="nettv-213" catchup-id="297070">
+    <programme start="20260816213500 +0545" stop="20260816214000 +0545" channel="nettv-213" catchup-id="726462">
+                <title>Japanology Plus Mini</title>
+    </programme>
+    <programme start="20260816214000 +0545" stop="20260816214000 +0545" channel="nettv-213" catchup-id="297070">
+                <title>A Cat&#x27;s-Eye View of Japan</title>
+    </programme>
+    <programme start="20260816214000 +0545" stop="20260816214500 +0545" channel="nettv-213" catchup-id="4189241">
                 <title>A Cat&#x27;s-Eye View of Japan</title>
     </programme>
     <programme start="20260816214500 +0545" stop="20260816215500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260816215500 +0545" stop="20260816221000 +0545" channel="nettv-213" catchup-id="325650">
+    <programme start="20260816215500 +0545" stop="20260816215500 +0545" channel="nettv-213" catchup-id="325650">
                 <title>The World Heritage</title>
+    </programme>
+    <programme start="20260816215500 +0545" stop="20260816221000 +0545" channel="nettv-213" catchup-id="1602188">
+                <title>Somewhere Street</title>
     </programme>
     <programme start="20260816221000 +0545" stop="20260816221500 +0545" channel="nettv-213" catchup-id="301858">
                 <title>Time-Lapse Japan</title>
@@ -12814,26 +12439,44 @@
     <programme start="20260816221500 +0545" stop="20260816224200 +0545" channel="nettv-213" catchup-id="300712">
                 <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20260816224200 +0545" stop="20260816224500 +0545" channel="nettv-213" catchup-id="302962">
+    <programme start="20260816224200 +0545" stop="20260816224200 +0545" channel="nettv-213" catchup-id="302962">
                 <title>Sumopedia</title>
+    </programme>
+    <programme start="20260816224200 +0545" stop="20260816224500 +0545" channel="nettv-213" catchup-id="1186293">
+                <title>Time-Lapse Journey</title>
     </programme>
     <programme start="20260816224500 +0545" stop="20260816225500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260816225500 +0545" stop="20260816231000 +0545" channel="nettv-213" catchup-id="429861">
+    <programme start="20260816225500 +0545" stop="20260816225500 +0545" channel="nettv-213" catchup-id="429861">
                 <title>Through the Kitchen Window</title>
     </programme>
-    <programme start="20260816231000 +0545" stop="20260816231500 +0545" channel="nettv-213" catchup-id="303370">
+    <programme start="20260816225500 +0545" stop="20260816231000 +0545" channel="nettv-213" catchup-id="4189295">
+                <title>Ramen Japan</title>
+    </programme>
+    <programme start="20260816231000 +0545" stop="20260816231000 +0545" channel="nettv-213" catchup-id="303370">
                 <title>Core Kyoto Mini</title>
     </programme>
-    <programme start="20260816231500 +0545" stop="20260816233000 +0545" channel="nettv-213" catchup-id="295258">
+    <programme start="20260816231000 +0545" stop="20260816231500 +0545" channel="nettv-213" catchup-id="899385">
+                <title>Core Kyoto Mini</title>
+    </programme>
+    <programme start="20260816231500 +0545" stop="20260816231500 +0545" channel="nettv-213" catchup-id="295258">
                 <title>Easy Japanese for Work</title>
     </programme>
-    <programme start="20260816233000 +0545" stop="20260816234500 +0545" channel="nettv-213" catchup-id="298090">
+    <programme start="20260816231500 +0545" stop="20260816233000 +0545" channel="nettv-213" catchup-id="1539137">
+                <title>Easy Japanese for Work</title>
+    </programme>
+    <programme start="20260816233000 +0545" stop="20260816233000 +0545" channel="nettv-213" catchup-id="298090">
                 <title>Zero Waste Life</title>
     </programme>
-    <programme start="20260816234500 +0545" stop="20260816235500 +0545" channel="nettv-213" catchup-id="295345">
+    <programme start="20260816233000 +0545" stop="20260816234500 +0545" channel="nettv-213" catchup-id="1761776">
+                <title>Zero Waste Life</title>
+    </programme>
+    <programme start="20260816234500 +0545" stop="20260816234500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260816234500 +0545" stop="20260816235500 +0545" channel="nettv-213" catchup-id="4189223">
+                <title>Documentary 360</title>
     </programme>
     <programme start="20260816235500 +0545" stop="2026-08-16 23:59:59.999999" channel="nettv-213" catchup-id="429837">
                 <title>Discharged by Death: Inside a Japanese Mental Hospital</title>
@@ -12841,17 +12484,26 @@
     <programme start="20260817004500 +0545" stop="20260817005500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817005500 +0545" stop="20260817014500 +0545" channel="nettv-213" catchup-id="429846">
+    <programme start="20260817005500 +0545" stop="20260817005500 +0545" channel="nettv-213" catchup-id="429846">
                 <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20260817005500 +0545" stop="20260817014500 +0545" channel="nettv-213" catchup-id="4189238">
+                <title>Broadcasters&#x27; Eye</title>
     </programme>
     <programme start="20260817014500 +0545" stop="20260817015500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817015500 +0545" stop="20260817022500 +0545" channel="nettv-213" catchup-id="325656">
+    <programme start="20260817015500 +0545" stop="20260817015500 +0545" channel="nettv-213" catchup-id="325656">
                 <title>Anime Manga Explosion</title>
     </programme>
-    <programme start="20260817022500 +0545" stop="20260817023500 +0545" channel="nettv-213" catchup-id="315843">
+    <programme start="20260817015500 +0545" stop="20260817022500 +0545" channel="nettv-213" catchup-id="4189235">
+                <title>Cycle Around Japan</title>
+    </programme>
+    <programme start="20260817022500 +0545" stop="20260817022500 +0545" channel="nettv-213" catchup-id="315843">
                 <title>Design Ah! neo</title>
+    </programme>
+    <programme start="20260817022500 +0545" stop="20260817023500 +0545" channel="nettv-213" catchup-id="3079311">
+                <title>The Wakey Show</title>
     </programme>
     <programme start="20260817023500 +0545" stop="20260817024500 +0545" channel="nettv-213" catchup-id="325653">
                 <title>Mitateru-Phose: Let&#x27;s Change Perspective!</title>
@@ -12859,38 +12511,65 @@
     <programme start="20260817024500 +0545" stop="20260817025500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817025500 +0545" stop="20260817032500 +0545" channel="nettv-213" catchup-id="302278">
+    <programme start="20260817025500 +0545" stop="20260817025500 +0545" channel="nettv-213" catchup-id="302278">
                 <title>J-MELO</title>
     </programme>
-    <programme start="20260817032500 +0545" stop="20260817033500 +0545" channel="nettv-213" catchup-id="299701">
+    <programme start="20260817025500 +0545" stop="20260817032500 +0545" channel="nettv-213" catchup-id="3029376">
+                <title>J-MELO</title>
+    </programme>
+    <programme start="20260817032500 +0545" stop="20260817032500 +0545" channel="nettv-213" catchup-id="299701">
                 <title>Little Charo</title>
     </programme>
-    <programme start="20260817033500 +0545" stop="20260817034000 +0545" channel="nettv-213" catchup-id="296266">
+    <programme start="20260817032500 +0545" stop="20260817033500 +0545" channel="nettv-213" catchup-id="1367295">
+                <title>Little Charo</title>
+    </programme>
+    <programme start="20260817033500 +0545" stop="20260817033500 +0545" channel="nettv-213" catchup-id="296266">
                 <title>Japanology Plus Mini</title>
     </programme>
-    <programme start="20260817034000 +0545" stop="20260817034500 +0545" channel="nettv-213" catchup-id="297070">
+    <programme start="20260817033500 +0545" stop="20260817034000 +0545" channel="nettv-213" catchup-id="726462">
+                <title>Japanology Plus Mini</title>
+    </programme>
+    <programme start="20260817034000 +0545" stop="20260817034000 +0545" channel="nettv-213" catchup-id="297070">
+                <title>A Cat&#x27;s-Eye View of Japan</title>
+    </programme>
+    <programme start="20260817034000 +0545" stop="20260817034500 +0545" channel="nettv-213" catchup-id="4189241">
                 <title>A Cat&#x27;s-Eye View of Japan</title>
     </programme>
     <programme start="20260817034500 +0545" stop="20260817035500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817035500 +0545" stop="20260817041000 +0545" channel="nettv-213" catchup-id="429861">
+    <programme start="20260817035500 +0545" stop="20260817035500 +0545" channel="nettv-213" catchup-id="429861">
                 <title>Through the Kitchen Window</title>
     </programme>
-    <programme start="20260817041000 +0545" stop="20260817041500 +0545" channel="nettv-213" catchup-id="303370">
+    <programme start="20260817035500 +0545" stop="20260817041000 +0545" channel="nettv-213" catchup-id="4189295">
+                <title>Ramen Japan</title>
+    </programme>
+    <programme start="20260817041000 +0545" stop="20260817041000 +0545" channel="nettv-213" catchup-id="303370">
                 <title>Core Kyoto Mini</title>
     </programme>
-    <programme start="20260817041500 +0545" stop="20260817043000 +0545" channel="nettv-213" catchup-id="295258">
+    <programme start="20260817041000 +0545" stop="20260817041500 +0545" channel="nettv-213" catchup-id="899385">
+                <title>Core Kyoto Mini</title>
+    </programme>
+    <programme start="20260817041500 +0545" stop="20260817041500 +0545" channel="nettv-213" catchup-id="295258">
                 <title>Easy Japanese for Work</title>
     </programme>
-    <programme start="20260817043000 +0545" stop="20260817044500 +0545" channel="nettv-213" catchup-id="298090">
+    <programme start="20260817041500 +0545" stop="20260817043000 +0545" channel="nettv-213" catchup-id="1539137">
+                <title>Easy Japanese for Work</title>
+    </programme>
+    <programme start="20260817043000 +0545" stop="20260817043000 +0545" channel="nettv-213" catchup-id="298090">
+                <title>Zero Waste Life</title>
+    </programme>
+    <programme start="20260817043000 +0545" stop="20260817044500 +0545" channel="nettv-213" catchup-id="1761776">
                 <title>Zero Waste Life</title>
     </programme>
     <programme start="20260817044500 +0545" stop="20260817045500 +0545" channel="nettv-213" catchup-id="295345">
                 <title>NHK Newsline</title>
     </programme>
-    <programme start="20260817045500 +0545" stop="20260817051000 +0545" channel="nettv-213" catchup-id="325650">
+    <programme start="20260817045500 +0545" stop="20260817045500 +0545" channel="nettv-213" catchup-id="325650">
                 <title>The World Heritage</title>
+    </programme>
+    <programme start="20260817045500 +0545" stop="20260817051000 +0545" channel="nettv-213" catchup-id="1602188">
+                <title>Somewhere Street</title>
     </programme>
     <programme start="20260817051000 +0545" stop="20260817051500 +0545" channel="nettv-213" catchup-id="301858">
                 <title>Time-Lapse Japan</title>
@@ -12898,254 +12577,419 @@
     <programme start="20260817051500 +0545" stop="20260817054200 +0545" channel="nettv-213" catchup-id="300712">
                 <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20260817054200 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-213" catchup-id="302962">
+    <programme start="20260817054200 +0545" stop="20260817054200 +0545" channel="nettv-213" catchup-id="302962">
                 <title>Sumopedia</title>
     </programme>
-    <programme start="20260802054500 +0545" stop="20260802061500 +0545" channel="nettv-567" catchup-id="297688">
-                <title>Vilasini Natyam</title>
+    <programme start="20260817054200 +0545" stop="20260817054500 +0545" channel="nettv-213" catchup-id="1186293">
+                <title>Time-Lapse Journey</title>
     </programme>
-    <programme start="20260802061500 +0545" stop="20260802061500 +0545" channel="nettv-567" catchup-id="296986">
-                <title>Shabad</title>
+    <programme start="20260817054500 +0545" stop="20260817055500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802061500 +0545" stop="20260802064500 +0545" channel="nettv-567" catchup-id="4108958">
-                <title>Kakbhushandi Ramayan</title>
+    <programme start="20260817055500 +0545" stop="20260817055500 +0545" channel="nettv-213" catchup-id="298300">
+                <title>Chatroom Japan</title>
     </programme>
-    <programme start="20260802064500 +0545" stop="20260802064500 +0545" channel="nettv-567" catchup-id="300952">
-                <title>National Programme of Music</title>
+    <programme start="20260817055500 +0545" stop="20260817060000 +0545" channel="nettv-213" catchup-id="1582910">
+                <title>Chatroom Japan</title>
     </programme>
-    <programme start="20260802064500 +0545" stop="20260802071500 +0545" channel="nettv-567" catchup-id="327906">
-                <title>National Programme Of Music</title>
+    <programme start="20260817060000 +0545" stop="20260817060000 +0545" channel="nettv-213" catchup-id="301813">
+                <title>Direct Talk</title>
     </programme>
-    <programme start="20260802071500 +0545" stop="20260802071500 +0545" channel="nettv-567" catchup-id="296458">
-                <title>Party Political Telecast</title>
+    <programme start="20260817060000 +0545" stop="20260817061000 +0545" channel="nettv-213" catchup-id="2815266">
+                <title>IMPACTS:Climates Change the World</title>
     </programme>
-    <programme start="20260802071500 +0545" stop="20260802074500 +0545" channel="nettv-567" catchup-id="327942">
-                <title>National Programme Of Music</title>
+    <programme start="20260817061000 +0545" stop="20260817061500 +0545" channel="nettv-213" catchup-id="719358">
+                <title>Design Museum Japan</title>
     </programme>
-    <programme start="20260802074500 +0545" stop="20260802074500 +0545" channel="nettv-567" catchup-id="296458">
-                <title>Party Political Telecast</title>
+    <programme start="20260817061500 +0545" stop="20260817061500 +0545" channel="nettv-213" catchup-id="295645">
+                <title>Where We Call Home</title>
     </programme>
-    <programme start="20260802074500 +0545" stop="20260802081500 +0545" channel="nettv-567" catchup-id="4108943">
-                <title>Swaraj</title>
+    <programme start="20260817061500 +0545" stop="20260817064000 +0545" channel="nettv-213" catchup-id="3193455">
+                <title>The Factory Wonders</title>
     </programme>
-    <programme start="20260802081500 +0545" stop="20260802084500 +0545" channel="nettv-567" catchup-id="296458">
-                <title>Party Political Telecast</title>
+    <programme start="20260817064000 +0545" stop="20260817064500 +0545" channel="nettv-213" catchup-id="2138741">
+                <title>Time-Lapse Japan</title>
     </programme>
-    <programme start="20260802084500 +0545" stop="20260802084500 +0545" channel="nettv-567" catchup-id="300148">
-                <title>Kashi Darshan</title>
+    <programme start="20260817064500 +0545" stop="20260817065500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802084500 +0545" stop="20260802091500 +0545" channel="nettv-567" catchup-id="4108955">
-                <title>Kashi Darshan</title>
+    <programme start="20260817065500 +0545" stop="20260817065500 +0545" channel="nettv-213" catchup-id="301858">
+                <title>Time-Lapse Japan</title>
     </programme>
-    <programme start="20260802091500 +0545" stop="20260802091500 +0545" channel="nettv-567" catchup-id="296962">
-                <title>Mahakumbha Darshan -2025 Live</title>
+    <programme start="20260817065500 +0545" stop="20260817070000 +0545" channel="nettv-213" catchup-id="1478666">
+                <title>The Seasons of Yamato</title>
     </programme>
-    <programme start="20260802091500 +0545" stop="20260802094500 +0545" channel="nettv-567" catchup-id="4108910">
-                <title>Dhadkan Dilli Ki</title>
+    <programme start="20260817070000 +0545" stop="20260817070000 +0545" channel="nettv-213" catchup-id="302035">
+                <title>BOSAI: Science That Can Save Your Life</title>
     </programme>
-    <programme start="20260802094500 +0545" stop="20260802101500 +0545" channel="nettv-567" catchup-id="2893446">
-                <title>Dastkari Ki Duniya</title>
+    <programme start="20260817070000 +0545" stop="20260817071500 +0545" channel="nettv-213" catchup-id="4178963">
+                <title>BOSAI: Science That Can Save Your Life</title>
     </programme>
-    <programme start="20260802101500 +0545" stop="20260802101500 +0545" channel="nettv-567" catchup-id="300670">
-                <title>Sahitiyiki</title>
+    <programme start="20260817071500 +0545" stop="20260817071500 +0545" channel="nettv-213" catchup-id="298282">
+                <title>Magical Japanese</title>
     </programme>
-    <programme start="20260802101500 +0545" stop="20260802104500 +0545" channel="nettv-567" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
+    <programme start="20260817071500 +0545" stop="20260817072500 +0545" channel="nettv-213" catchup-id="2235734">
+                <title>Magical Japanese</title>
     </programme>
-    <programme start="20260802104500 +0545" stop="20260802104500 +0545" channel="nettv-567" catchup-id="300952">
-                <title>National Programme of Music</title>
+    <programme start="20260817072500 +0545" stop="20260817072500 +0545" channel="nettv-213" catchup-id="299872">
+                <title>Easy Japanese</title>
     </programme>
-    <programme start="20260802104500 +0545" stop="20260802111500 +0545" channel="nettv-567" catchup-id="2514717">
-                <title>Navrang</title>
+    <programme start="20260817072500 +0545" stop="20260817073000 +0545" channel="nettv-213" catchup-id="4196354">
+                <title>Easy Japanese</title>
     </programme>
-    <programme start="20260802111500 +0545" stop="20260802111500 +0545" channel="nettv-567" catchup-id="301234">
-                <title>Ghazal</title>
+    <programme start="20260817073000 +0545" stop="20260817073000 +0545" channel="nettv-213" catchup-id="297670">
+                <title>Culture Crossroads</title>
     </programme>
-    <programme start="20260802111500 +0545" stop="20260802114500 +0545" channel="nettv-567" catchup-id="1402038">
-                <title>Milestone Stories</title>
+    <programme start="20260817073000 +0545" stop="20260817074000 +0545" channel="nettv-213" catchup-id="1027026">
+                <title>Culture Crossroads</title>
     </programme>
-    <programme start="20260802114500 +0545" stop="20260802114500 +0545" channel="nettv-567" catchup-id="303202">
-                <title>Jeewan Moalayoon Ki Pathshala</title>
+    <programme start="20260817074000 +0545" stop="20260817074000 +0545" channel="nettv-213" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
     </programme>
-    <programme start="20260802114500 +0545" stop="20260802121500 +0545" channel="nettv-567" catchup-id="4108916">
-                <title>Jeewan Moolyoan Kee Paathshala</title>
+    <programme start="20260817074000 +0545" stop="20260817074500 +0545" channel="nettv-213" catchup-id="4196366">
+                <title>Hello! NHK WORLD-JAPAN</title>
     </programme>
-    <programme start="20260802121500 +0545" stop="20260802121500 +0545" channel="nettv-567" catchup-id="299092">
-                <title>The Legends</title>
+    <programme start="20260817074500 +0545" stop="20260817075500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802121500 +0545" stop="20260802131500 +0545" channel="nettv-567" catchup-id="4108949">
-                <title>Sookhti Nadiyan Aur Unka Bhavishya</title>
+    <programme start="20260817075500 +0545" stop="20260817081000 +0545" channel="nettv-213" catchup-id="2822700">
+                <title>Somewhere Street A Short Stroll</title>
     </programme>
-    <programme start="20260802131500 +0545" stop="20260802131500 +0545" channel="nettv-567" catchup-id="296014">
-                <title>Sanskriti Samvaad</title>
+    <programme start="20260817081000 +0545" stop="20260817081500 +0545" channel="nettv-213" catchup-id="521721">
+                <title>One in Every Japanese</title>
     </programme>
-    <programme start="20260802131500 +0545" stop="20260802134500 +0545" channel="nettv-567" catchup-id="4108919">
-                <title>Sanskriti Samvaad</title>
+    <programme start="20260817081500 +0545" stop="20260817081500 +0545" channel="nettv-213" catchup-id="300832">
+                <title>Seasoning the Seasons</title>
     </programme>
-    <programme start="20260802134500 +0545" stop="20260802134500 +0545" channel="nettv-567" catchup-id="300952">
-                <title>National Programme of Music</title>
+    <programme start="20260817081500 +0545" stop="20260817084500 +0545" channel="nettv-213" catchup-id="1526807">
+                <title>Seasoning the Seasons</title>
     </programme>
-    <programme start="20260802134500 +0545" stop="20260802141500 +0545" channel="nettv-567" catchup-id="2893446">
-                <title>Dastkari Ki Duniya</title>
+    <programme start="20260817084500 +0545" stop="20260817085500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802141500 +0545" stop="20260802141500 +0545" channel="nettv-567" catchup-id="300391">
-                <title>Carnatic Music</title>
+    <programme start="20260817085500 +0545" stop="20260817090500 +0545" channel="nettv-213" catchup-id="1372932">
+                <title>MATSURI: The Heartbeat of Japan</title>
     </programme>
-    <programme start="20260802141500 +0545" stop="20260802144500 +0545" channel="nettv-567" catchup-id="1260525">
-                <title>Mujhe Sikkim Se Pyar Hai</title>
+    <programme start="20260817090500 +0545" stop="20260817091500 +0545" channel="nettv-213" catchup-id="2364093">
+                <title>Herbal Symphony</title>
     </programme>
-    <programme start="20260802144500 +0545" stop="20260802144500 +0545" channel="nettv-567" catchup-id="297763">
-                <title>Images - Aaina</title>
+    <programme start="20260817091500 +0545" stop="20260817091500 +0545" channel="nettv-213" catchup-id="299419">
+                <title>Darwin&#x27;s Amazing Animals</title>
     </programme>
-    <programme start="20260802144500 +0545" stop="20260802151500 +0545" channel="nettv-567" catchup-id="300391">
-                <title>Carnatic Music</title>
+    <programme start="20260817091500 +0545" stop="20260817094000 +0545" channel="nettv-213" catchup-id="4178960">
+                <title>Darwin&#x27;s Amazing Animals</title>
     </programme>
-    <programme start="20260802151500 +0545" stop="20260802151500 +0545" channel="nettv-567" catchup-id="300148">
-                <title>Kashi Darshan</title>
+    <programme start="20260817094000 +0545" stop="20260817094000 +0545" channel="nettv-213" catchup-id="300478">
+                <title>Timelapse</title>
     </programme>
-    <programme start="20260802151500 +0545" stop="20260802154500 +0545" channel="nettv-567" catchup-id="4108955">
-                <title>Kashi Darshan</title>
+    <programme start="20260817094000 +0545" stop="20260817094500 +0545" channel="nettv-213" catchup-id="453861">
+                <title>Time-Lapse Journey</title>
     </programme>
-    <programme start="20260802154500 +0545" stop="20260802154500 +0545" channel="nettv-567" catchup-id="298618">
-                <title>Chalo Saaf Karen</title>
+    <programme start="20260817094500 +0545" stop="20260817095500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802154500 +0545" stop="20260802161500 +0545" channel="nettv-567" catchup-id="327942">
-                <title>National Programme Of Music</title>
+    <programme start="20260817095500 +0545" stop="20260817101000 +0545" channel="nettv-213" catchup-id="2822700">
+                <title>Somewhere Street A Short Stroll</title>
     </programme>
-    <programme start="20260802161500 +0545" stop="20260802161500 +0545" channel="nettv-567" catchup-id="296458">
-                <title>Party Political Telecast</title>
+    <programme start="20260817101000 +0545" stop="20260817101500 +0545" channel="nettv-213" catchup-id="1971575">
+                <title>Japan From Above: Up Close</title>
     </programme>
-    <programme start="20260802161500 +0545" stop="20260802164500 +0545" channel="nettv-567" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
+    <programme start="20260817101500 +0545" stop="20260817101500 +0545" channel="nettv-213" catchup-id="300712">
+                <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20260802164500 +0545" stop="20260802164500 +0545" channel="nettv-567" catchup-id="296458">
-                <title>Party Political Telecast</title>
+    <programme start="20260817101500 +0545" stop="20260817104200 +0545" channel="nettv-213" catchup-id="4196360">
+                <title>Hometown Stories</title>
     </programme>
-    <programme start="20260802164500 +0545" stop="20260802171500 +0545" channel="nettv-567" catchup-id="2514717">
-                <title>Navrang</title>
+    <programme start="20260817104200 +0545" stop="20260817104200 +0545" channel="nettv-213" catchup-id="302962">
+                <title>Sumopedia</title>
     </programme>
-    <programme start="20260802171500 +0545" stop="20260802171500 +0545" channel="nettv-567" catchup-id="296458">
-                <title>Party Political Telecast</title>
+    <programme start="20260817104200 +0545" stop="20260817104500 +0545" channel="nettv-213" catchup-id="2063543">
+                <title>Satoyama Kitchen Summer</title>
     </programme>
-    <programme start="20260802171500 +0545" stop="20260802174500 +0545" channel="nettv-567" catchup-id="4108910">
-                <title>Dhadkan Dilli Ki</title>
+    <programme start="20260817104500 +0545" stop="20260817105500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802174500 +0545" stop="20260802174500 +0545" channel="nettv-567" catchup-id="301570">
-                <title>Dhadkan Dilli Ki</title>
+    <programme start="20260817105500 +0545" stop="20260817111000 +0545" channel="nettv-213" catchup-id="458616">
+                <title>Cinematic Journey</title>
     </programme>
-    <programme start="20260802174500 +0545" stop="20260802181500 +0545" channel="nettv-567" catchup-id="4108922">
-                <title>Awakening India</title>
+    <programme start="20260817111000 +0545" stop="20260817111500 +0545" channel="nettv-213" catchup-id="1372935">
+                <title>Ramen Japan</title>
     </programme>
-    <programme start="20260802181500 +0545" stop="20260802181500 +0545" channel="nettv-567" catchup-id="297763">
-                <title>Images - Aaina</title>
+    <programme start="20260817111500 +0545" stop="20260817111500 +0545" channel="nettv-213" catchup-id="295645">
+                <title>Where We Call Home</title>
     </programme>
-    <programme start="20260802181500 +0545" stop="20260802184500 +0545" channel="nettv-567" catchup-id="4108943">
-                <title>Swaraj</title>
+    <programme start="20260817111500 +0545" stop="20260817114000 +0545" channel="nettv-213" catchup-id="3193455">
+                <title>The Factory Wonders</title>
     </programme>
-    <programme start="20260802184500 +0545" stop="20260802191500 +0545" channel="nettv-567" catchup-id="301978">
-                <title>Maha Kumbh Aarti Live</title>
+    <programme start="20260817114000 +0545" stop="20260817114500 +0545" channel="nettv-213" catchup-id="2138741">
+                <title>Time-Lapse Japan</title>
     </programme>
-    <programme start="20260802191500 +0545" stop="20260802191500 +0545" channel="nettv-567" catchup-id="301459">
-                <title>Panel Discussion On Upcoming Delhi Vidhan Sabha Election 2025</title>
+    <programme start="20260817114500 +0545" stop="20260817114500 +0545" channel="nettv-213" catchup-id="301777">
+                <title>Newsline Asia 24</title>
     </programme>
-    <programme start="20260802191500 +0545" stop="20260802194500 +0545" channel="nettv-567" catchup-id="4108958">
-                <title>Kakbhushandi Ramayan</title>
+    <programme start="20260817114500 +0545" stop="20260817115500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260802194500 +0545" stop="20260802201500 +0545" channel="nettv-567" catchup-id="1402038">
-                <title>Milestone Stories</title>
+    <programme start="20260817115500 +0545" stop="20260817120800 +0545" channel="nettv-213" catchup-id="4196357">
+                <title>Biz Stream Special Edition</title>
     </programme>
-    <programme start="20260802201500 +0545" stop="20260802211500 +0545" channel="nettv-567" catchup-id="299050">
-                <title>Jhankar</title>
+    <programme start="20260817120800 +0545" stop="20260817121500 +0545" channel="nettv-213" catchup-id="521721">
+                <title>One in Every Japanese</title>
     </programme>
-    <programme start="20260802211500 +0545" stop="20260802211500 +0545" channel="nettv-567" catchup-id="300670">
-                <title>Sahitiyiki</title>
+    <programme start="20260817121500 +0545" stop="20260817121500 +0545" channel="nettv-213" catchup-id="298282">
+                <title>Magical Japanese</title>
     </programme>
-    <programme start="20260802211500 +0545" stop="20260802214500 +0545" channel="nettv-567" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
+    <programme start="20260817121500 +0545" stop="20260817122500 +0545" channel="nettv-213" catchup-id="2235734">
+                <title>Magical Japanese</title>
     </programme>
-    <programme start="20260802214500 +0545" stop="20260802214500 +0545" channel="nettv-567" catchup-id="299092">
-                <title>The Legends</title>
+    <programme start="20260817122500 +0545" stop="20260817122500 +0545" channel="nettv-213" catchup-id="299872">
+                <title>Easy Japanese</title>
     </programme>
-    <programme start="20260802214500 +0545" stop="20260802224500 +0545" channel="nettv-567" catchup-id="4108949">
-                <title>Sookhti Nadiyan Aur Unka Bhavishya</title>
+    <programme start="20260817122500 +0545" stop="20260817123000 +0545" channel="nettv-213" catchup-id="4196354">
+                <title>Easy Japanese</title>
     </programme>
-    <programme start="20260802224500 +0545" stop="20260802224500 +0545" channel="nettv-567" catchup-id="296014">
-                <title>Sanskriti Samvaad</title>
+    <programme start="20260817123000 +0545" stop="20260817123000 +0545" channel="nettv-213" catchup-id="297670">
+                <title>Culture Crossroads</title>
     </programme>
-    <programme start="20260802224500 +0545" stop="20260802231500 +0545" channel="nettv-567" catchup-id="4108919">
-                <title>Sanskriti Samvaad</title>
+    <programme start="20260817123000 +0545" stop="20260817124000 +0545" channel="nettv-213" catchup-id="1027026">
+                <title>Culture Crossroads</title>
     </programme>
-    <programme start="20260802231500 +0545" stop="20260802231500 +0545" channel="nettv-567" catchup-id="301570">
-                <title>Dhadkan Dilli Ki</title>
+    <programme start="20260817124000 +0545" stop="20260817124000 +0545" channel="nettv-213" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
     </programme>
-    <programme start="20260802231500 +0545" stop="20260802234500 +0545" channel="nettv-567" catchup-id="4108943">
-                <title>Swaraj</title>
+    <programme start="20260817124000 +0545" stop="20260817124500 +0545" channel="nettv-213" catchup-id="4196366">
+                <title>Hello! NHK WORLD-JAPAN</title>
     </programme>
-    <programme start="20260802234500 +0545" stop="2026-08-02 23:59:59.999999" channel="nettv-567" catchup-id="300952">
-                <title>National Programme of Music</title>
+    <programme start="20260817124500 +0545" stop="20260817124500 +0545" channel="nettv-213" catchup-id="301777">
+                <title>Newsline Asia 24</title>
     </programme>
-    <programme start="20260803001500 +0545" stop="20260803001500 +0545" channel="nettv-567" catchup-id="300391">
-                <title>Carnatic Music</title>
+    <programme start="20260817124500 +0545" stop="20260817125500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260803001500 +0545" stop="20260803004500 +0545" channel="nettv-567" catchup-id="327906">
-                <title>National Programme Of Music</title>
+    <programme start="20260817125500 +0545" stop="20260817130500 +0545" channel="nettv-213" catchup-id="1132596">
+                <title>Century Signboards</title>
     </programme>
-    <programme start="20260803004500 +0545" stop="20260803004500 +0545" channel="nettv-567" catchup-id="296014">
-                <title>Sanskriti Samvaad</title>
+    <programme start="20260817130500 +0545" stop="20260817131500 +0545" channel="nettv-213" catchup-id="839430">
+                <title>Nun&#x27;s Seasonal Calendar</title>
     </programme>
-    <programme start="20260803004500 +0545" stop="20260803011500 +0545" channel="nettv-567" catchup-id="327942">
-                <title>National Programme Of Music</title>
+    <programme start="20260817131500 +0545" stop="20260817131500 +0545" channel="nettv-213" catchup-id="300832">
+                <title>Seasoning the Seasons</title>
     </programme>
-    <programme start="20260803011500 +0545" stop="20260803011500 +0545" channel="nettv-567" catchup-id="297763">
-                <title>Images - Aaina</title>
+    <programme start="20260817131500 +0545" stop="20260817134500 +0545" channel="nettv-213" catchup-id="1526807">
+                <title>Seasoning the Seasons</title>
     </programme>
-    <programme start="20260803011500 +0545" stop="20260803014500 +0545" channel="nettv-567" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
+    <programme start="20260817134500 +0545" stop="20260817135500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260803014500 +0545" stop="20260803014500 +0545" channel="nettv-567" catchup-id="300952">
-                <title>National Programme of Music</title>
+    <programme start="20260817135500 +0545" stop="20260817141500 +0545" channel="nettv-213" catchup-id="1302195">
+                <title>My Street Piano</title>
     </programme>
-    <programme start="20260803014500 +0545" stop="20260803021500 +0545" channel="nettv-567" catchup-id="300391">
-                <title>Carnatic Music</title>
+    <programme start="20260817141500 +0545" stop="20260817141500 +0545" channel="nettv-213" catchup-id="300712">
+                <title>Grand Sumo Highlights</title>
     </programme>
-    <programme start="20260803021500 +0545" stop="20260803021500 +0545" channel="nettv-567" catchup-id="301234">
-                <title>Ghazal</title>
+    <programme start="20260817141500 +0545" stop="20260817144200 +0545" channel="nettv-213" catchup-id="4196360">
+                <title>Hometown Stories</title>
     </programme>
-    <programme start="20260803021500 +0545" stop="20260803024500 +0545" channel="nettv-567" catchup-id="4108955">
-                <title>Kashi Darshan</title>
+    <programme start="20260817144200 +0545" stop="20260817144200 +0545" channel="nettv-213" catchup-id="302962">
+                <title>Sumopedia</title>
     </programme>
-    <programme start="20260803024500 +0545" stop="20260803024500 +0545" channel="nettv-567" catchup-id="299092">
-                <title>The Legends</title>
+    <programme start="20260817144200 +0545" stop="20260817144500 +0545" channel="nettv-213" catchup-id="2063543">
+                <title>Satoyama Kitchen Summer</title>
     </programme>
-    <programme start="20260803024500 +0545" stop="20260803031500 +0545" channel="nettv-567" catchup-id="2893446">
-                <title>Dastkari Ki Duniya</title>
+    <programme start="20260817144500 +0545" stop="20260817145500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260803031500 +0545" stop="20260803034500 +0545" channel="nettv-567" catchup-id="1402038">
-                <title>Milestone Stories</title>
+    <programme start="20260817145500 +0545" stop="20260817150500 +0545" channel="nettv-213" catchup-id="1372932">
+                <title>MATSURI: The Heartbeat of Japan</title>
     </programme>
-    <programme start="20260803034500 +0545" stop="20260803034500 +0545" channel="nettv-567" catchup-id="298618">
-                <title>Chalo Saaf Karen</title>
+    <programme start="20260817150500 +0545" stop="20260817151500 +0545" channel="nettv-213" catchup-id="2364093">
+                <title>Herbal Symphony</title>
     </programme>
-    <programme start="20260803034500 +0545" stop="20260803041500 +0545" channel="nettv-567" catchup-id="4108910">
-                <title>Dhadkan Dilli Ki</title>
+    <programme start="20260817151500 +0545" stop="20260817151500 +0545" channel="nettv-213" catchup-id="299419">
+                <title>Darwin&#x27;s Amazing Animals</title>
     </programme>
-    <programme start="20260803041500 +0545" stop="20260803041500 +0545" channel="nettv-567" catchup-id="300148">
-                <title>Kashi Darshan</title>
+    <programme start="20260817151500 +0545" stop="20260817154000 +0545" channel="nettv-213" catchup-id="4155644">
+                <title>Journeys in Japan</title>
     </programme>
-    <programme start="20260803041500 +0545" stop="20260803044500 +0545" channel="nettv-567" catchup-id="4108919">
-                <title>Sanskriti Samvaad</title>
+    <programme start="20260817154000 +0545" stop="20260817154500 +0545" channel="nettv-213" catchup-id="300478">
+                <title>Timelapse</title>
     </programme>
-    <programme start="20260803044500 +0545" stop="20260803044500 +0545" channel="nettv-567" catchup-id="300952">
-                <title>National Programme of Music</title>
+    <programme start="20260817154500 +0545" stop="20260817154500 +0545" channel="nettv-213" catchup-id="298123">
+                <title>NHK News 7</title>
     </programme>
-    <programme start="20260803044500 +0545" stop="20260803051500 +0545" channel="nettv-567" catchup-id="2514717">
-                <title>Navrang</title>
+    <programme start="20260817154500 +0545" stop="20260817160000 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
     </programme>
-    <programme start="20260803051500 +0545" stop="20260803051500 +0545" channel="nettv-567" catchup-id="299434">
-                <title>Amrit Snan Mahakumbh</title>
+    <programme start="20260817160000 +0545" stop="20260817161500 +0545" channel="nettv-213" catchup-id="458616">
+                <title>Cinematic Journey</title>
     </programme>
-    <programme start="20260803051500 +0545" stop="20260803061500 +0545" channel="nettv-567" catchup-id="4108949">
-                <title>Sookhti Nadiyan Aur Unka Bhavishya</title>
+    <programme start="20260817161500 +0545" stop="20260817161500 +0545" channel="nettv-213" catchup-id="295645">
+                <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260817161500 +0545" stop="20260817164000 +0545" channel="nettv-213" catchup-id="3193455">
+                <title>The Factory Wonders</title>
+    </programme>
+    <programme start="20260817164000 +0545" stop="20260817164500 +0545" channel="nettv-213" catchup-id="2138741">
+                <title>Time-Lapse Japan</title>
+    </programme>
+    <programme start="20260817164500 +0545" stop="20260817170000 +0545" channel="nettv-213" catchup-id="300925">
+                <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20260817170000 +0545" stop="20260817171300 +0545" channel="nettv-213" catchup-id="4196357">
+                <title>Biz Stream Special Edition</title>
+    </programme>
+    <programme start="20260817171300 +0545" stop="20260817171300 +0545" channel="nettv-213" catchup-id="301813">
+                <title>Direct Talk</title>
+    </programme>
+    <programme start="20260817171300 +0545" stop="20260817172800 +0545" channel="nettv-213" catchup-id="2381544">
+                <title>Direct Talk</title>
+    </programme>
+    <programme start="20260817172800 +0545" stop="20260817172800 +0545" channel="nettv-213" catchup-id="380493">
+                <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20260817172800 +0545" stop="20260817174000 +0545" channel="nettv-213" catchup-id="1027026">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817174000 +0545" stop="20260817174000 +0545" channel="nettv-213" catchup-id="296308">
+                <title>Ukiyoe Edo-Life</title>
+    </programme>
+    <programme start="20260817174000 +0545" stop="20260817174500 +0545" channel="nettv-213" catchup-id="4196366">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817174500 +0545" stop="20260817180000 +0545" channel="nettv-213" catchup-id="300925">
+                <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20260817180000 +0545" stop="20260817181500 +0545" channel="nettv-213" catchup-id="2454990">
+                <title>The World Heritage Sites in Japan</title>
+    </programme>
+    <programme start="20260817181500 +0545" stop="20260817181500 +0545" channel="nettv-213" catchup-id="298282">
+                <title>Magical Japanese</title>
+    </programme>
+    <programme start="20260817181500 +0545" stop="20260817182500 +0545" channel="nettv-213" catchup-id="1688951">
+                <title>Dive in Tokyo</title>
+    </programme>
+    <programme start="20260817182500 +0545" stop="20260817183000 +0545" channel="nettv-213" catchup-id="299872">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260817183000 +0545" stop="20260817184000 +0545" channel="nettv-213" catchup-id="297670">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817184000 +0545" stop="20260817184500 +0545" channel="nettv-213" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817184500 +0545" stop="20260817185500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817185500 +0545" stop="20260817190500 +0545" channel="nettv-213" catchup-id="1372932">
+                <title>MATSURI: The Heartbeat of Japan</title>
+    </programme>
+    <programme start="20260817190500 +0545" stop="20260817191500 +0545" channel="nettv-213" catchup-id="2364093">
+                <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20260817191500 +0545" stop="20260817191500 +0545" channel="nettv-213" catchup-id="300832">
+                <title>Seasoning the Seasons</title>
+    </programme>
+    <programme start="20260817191500 +0545" stop="20260817194500 +0545" channel="nettv-213" catchup-id="1526807">
+                <title>Seasoning the Seasons</title>
+    </programme>
+    <programme start="20260817194500 +0545" stop="20260817195500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817195500 +0545" stop="20260817200500 +0545" channel="nettv-213" catchup-id="1132596">
+                <title>Century Signboards</title>
+    </programme>
+    <programme start="20260817200500 +0545" stop="20260817201500 +0545" channel="nettv-213" catchup-id="839430">
+                <title>Nun&#x27;s Seasonal Calendar</title>
+    </programme>
+    <programme start="20260817201500 +0545" stop="20260817201500 +0545" channel="nettv-213" catchup-id="301072">
+                <title>Medical Frontiers</title>
+    </programme>
+    <programme start="20260817201500 +0545" stop="20260817204500 +0545" channel="nettv-213" catchup-id="4196363">
+                <title>Medical Frontiers</title>
+    </programme>
+    <programme start="20260817204500 +0545" stop="20260817211500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817211500 +0545" stop="20260817214500 +0545" channel="nettv-213" catchup-id="295645">
+                <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260817214500 +0545" stop="20260817221500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817221500 +0545" stop="20260817224200 +0545" channel="nettv-213" catchup-id="300712">
+                <title>Grand Sumo Highlights</title>
+    </programme>
+    <programme start="20260817224200 +0545" stop="20260817224500 +0545" channel="nettv-213" catchup-id="302962">
+                <title>Sumopedia</title>
+    </programme>
+    <programme start="20260817224500 +0545" stop="20260817231500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260817231500 +0545" stop="20260817232500 +0545" channel="nettv-213" catchup-id="298282">
+                <title>Magical Japanese</title>
+    </programme>
+    <programme start="20260817232500 +0545" stop="20260817233000 +0545" channel="nettv-213" catchup-id="299872">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260817233000 +0545" stop="20260817234000 +0545" channel="nettv-213" catchup-id="297670">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260817234000 +0545" stop="20260817234500 +0545" channel="nettv-213" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260817234500 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-213" catchup-id="300925">
+                <title>Newsroom Tokyo</title>
+    </programme>
+    <programme start="20260818001300 +0545" stop="20260818002800 +0545" channel="nettv-213" catchup-id="301813">
+                <title>Direct Talk</title>
+    </programme>
+    <programme start="20260818002800 +0545" stop="20260818004000 +0545" channel="nettv-213" catchup-id="380493">
+                <title>Herbal Symphony</title>
+    </programme>
+    <programme start="20260818004000 +0545" stop="20260818004500 +0545" channel="nettv-213" catchup-id="296308">
+                <title>Ukiyoe Edo-Life</title>
+    </programme>
+    <programme start="20260818004500 +0545" stop="20260818011500 +0545" channel="nettv-213" catchup-id="300637">
+                <title>Today&#x27;s Close-Up</title>
+    </programme>
+    <programme start="20260818011500 +0545" stop="20260818014500 +0545" channel="nettv-213" catchup-id="300832">
+                <title>Seasoning the Seasons</title>
+    </programme>
+    <programme start="20260818014500 +0545" stop="20260818021500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260818021500 +0545" stop="20260818024500 +0545" channel="nettv-213" catchup-id="301072">
+                <title>Medical Frontiers</title>
+    </programme>
+    <programme start="20260818024500 +0545" stop="20260818031500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260818031500 +0545" stop="20260818034500 +0545" channel="nettv-213" catchup-id="295645">
+                <title>Where We Call Home</title>
+    </programme>
+    <programme start="20260818034500 +0545" stop="20260818041500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260818041500 +0545" stop="20260818042500 +0545" channel="nettv-213" catchup-id="298282">
+                <title>Magical Japanese</title>
+    </programme>
+    <programme start="20260818042500 +0545" stop="20260818043000 +0545" channel="nettv-213" catchup-id="299872">
+                <title>Easy Japanese</title>
+    </programme>
+    <programme start="20260818043000 +0545" stop="20260818044000 +0545" channel="nettv-213" catchup-id="297670">
+                <title>Culture Crossroads</title>
+    </programme>
+    <programme start="20260818044000 +0545" stop="20260818044500 +0545" channel="nettv-213" catchup-id="300691">
+                <title>Hello! NHK WORLD-JAPAN</title>
+    </programme>
+    <programme start="20260818044500 +0545" stop="20260818051500 +0545" channel="nettv-213" catchup-id="295345">
+                <title>NHK Newsline</title>
+    </programme>
+    <programme start="20260818051500 +0545" stop="20260818054200 +0545" channel="nettv-213" catchup-id="300712">
+                <title>Grand Sumo Highlights</title>
+    </programme>
+    <programme start="20260818054200 +0545" stop="2026-08-18 23:59:59.999999" channel="nettv-213" catchup-id="302962">
+                <title>Sumopedia</title>
     </programme>
     <programme start="20260803061500 +0545" stop="20260803061500 +0545" channel="nettv-567" catchup-id="299434">
                 <title>Amrit Snan Mahakumbh</title>
@@ -16228,254 +16072,92 @@
     <programme start="20260817044500 +0545" stop="20260817051500 +0545" channel="nettv-567" catchup-id="300952">
                 <title>National Programme of Music</title>
     </programme>
-    <programme start="20260817051500 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-567" catchup-id="299434">
+    <programme start="20260817051500 +0545" stop="20260817061500 +0545" channel="nettv-567" catchup-id="299434">
                 <title>Amrit Snan Mahakumbh</title>
     </programme>
-    <programme start="20260802054500 +0545" stop="20260802061500 +0545" channel="nettv-577" catchup-id="297688">
-                <title>Vilasini Natyam</title>
+    <programme start="20260817061500 +0545" stop="20260817121500 +0545" channel="nettv-567" catchup-id="299434">
+                <title>Amrit Snan Mahakumbh</title>
     </programme>
-    <programme start="20260802061500 +0545" stop="20260802061500 +0545" channel="nettv-577" catchup-id="296986">
-                <title>Shabad</title>
+    <programme start="20260817121500 +0545" stop="20260817131500 +0545" channel="nettv-567" catchup-id="300325">
+                <title>Question Hour Live</title>
     </programme>
-    <programme start="20260802061500 +0545" stop="20260802064500 +0545" channel="nettv-577" catchup-id="4108958">
-                <title>Kakbhushandi Ramayan</title>
+    <programme start="20260817131500 +0545" stop="20260817141500 +0545" channel="nettv-567" catchup-id="299434">
+                <title>Amrit Snan Mahakumbh</title>
     </programme>
-    <programme start="20260802064500 +0545" stop="20260802064500 +0545" channel="nettv-577" catchup-id="300952">
+    <programme start="20260817141500 +0545" stop="20260817164500 +0545" channel="nettv-567" catchup-id="299434">
+                <title>Amrit Snan Mahakumbh</title>
+    </programme>
+    <programme start="20260817164500 +0545" stop="20260817171500 +0545" channel="nettv-567" catchup-id="300952">
                 <title>National Programme of Music</title>
     </programme>
-    <programme start="20260802064500 +0545" stop="20260802071500 +0545" channel="nettv-577" catchup-id="327906">
-                <title>National Programme Of Music</title>
+    <programme start="20260817171500 +0545" stop="20260817175500 +0545" channel="nettv-567" catchup-id="296404">
+                <title>Bundeli Geet</title>
     </programme>
-    <programme start="20260802071500 +0545" stop="20260802071500 +0545" channel="nettv-577" catchup-id="296458">
-                <title>Party Political Telecast</title>
+    <programme start="20260817175500 +0545" stop="20260817181500 +0545" channel="nettv-567" catchup-id="298906">
+                <title>Karvat Badalti Zindagi</title>
     </programme>
-    <programme start="20260802071500 +0545" stop="20260802074500 +0545" channel="nettv-577" catchup-id="327942">
-                <title>National Programme Of Music</title>
+    <programme start="20260817181500 +0545" stop="20260817184500 +0545" channel="nettv-567" catchup-id="301246">
+                <title>Ghar Sansar</title>
     </programme>
-    <programme start="20260802074500 +0545" stop="20260802074500 +0545" channel="nettv-577" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802074500 +0545" stop="20260802081500 +0545" channel="nettv-577" catchup-id="4108943">
-                <title>Swaraj</title>
-    </programme>
-    <programme start="20260802081500 +0545" stop="20260802084500 +0545" channel="nettv-577" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802084500 +0545" stop="20260802084500 +0545" channel="nettv-577" catchup-id="300148">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260802084500 +0545" stop="20260802091500 +0545" channel="nettv-577" catchup-id="4108955">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260802091500 +0545" stop="20260802091500 +0545" channel="nettv-577" catchup-id="296962">
-                <title>Mahakumbha Darshan -2025 Live</title>
-    </programme>
-    <programme start="20260802091500 +0545" stop="20260802094500 +0545" channel="nettv-577" catchup-id="4108910">
-                <title>Dhadkan Dilli Ki</title>
-    </programme>
-    <programme start="20260802094500 +0545" stop="20260802101500 +0545" channel="nettv-577" catchup-id="2893446">
-                <title>Dastkari Ki Duniya</title>
-    </programme>
-    <programme start="20260802101500 +0545" stop="20260802101500 +0545" channel="nettv-577" catchup-id="300670">
-                <title>Sahitiyiki</title>
-    </programme>
-    <programme start="20260802101500 +0545" stop="20260802104500 +0545" channel="nettv-577" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
-    </programme>
-    <programme start="20260802104500 +0545" stop="20260802104500 +0545" channel="nettv-577" catchup-id="300952">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20260802104500 +0545" stop="20260802111500 +0545" channel="nettv-577" catchup-id="2514717">
-                <title>Navrang</title>
-    </programme>
-    <programme start="20260802111500 +0545" stop="20260802111500 +0545" channel="nettv-577" catchup-id="301234">
-                <title>Ghazal</title>
-    </programme>
-    <programme start="20260802111500 +0545" stop="20260802114500 +0545" channel="nettv-577" catchup-id="1402038">
-                <title>Milestone Stories</title>
-    </programme>
-    <programme start="20260802114500 +0545" stop="20260802114500 +0545" channel="nettv-577" catchup-id="303202">
-                <title>Jeewan Moalayoon Ki Pathshala</title>
-    </programme>
-    <programme start="20260802114500 +0545" stop="20260802121500 +0545" channel="nettv-577" catchup-id="4108916">
-                <title>Jeewan Moolyoan Kee Paathshala</title>
-    </programme>
-    <programme start="20260802121500 +0545" stop="20260802121500 +0545" channel="nettv-577" catchup-id="299092">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20260802121500 +0545" stop="20260802131500 +0545" channel="nettv-577" catchup-id="4108949">
-                <title>Sookhti Nadiyan Aur Unka Bhavishya</title>
-    </programme>
-    <programme start="20260802131500 +0545" stop="20260802131500 +0545" channel="nettv-577" catchup-id="296014">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260802131500 +0545" stop="20260802134500 +0545" channel="nettv-577" catchup-id="4108919">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260802134500 +0545" stop="20260802134500 +0545" channel="nettv-577" catchup-id="300952">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20260802134500 +0545" stop="20260802141500 +0545" channel="nettv-577" catchup-id="2893446">
-                <title>Dastkari Ki Duniya</title>
-    </programme>
-    <programme start="20260802141500 +0545" stop="20260802141500 +0545" channel="nettv-577" catchup-id="300391">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20260802141500 +0545" stop="20260802144500 +0545" channel="nettv-577" catchup-id="1260525">
-                <title>Mujhe Sikkim Se Pyar Hai</title>
-    </programme>
-    <programme start="20260802144500 +0545" stop="20260802144500 +0545" channel="nettv-577" catchup-id="297763">
-                <title>Images - Aaina</title>
-    </programme>
-    <programme start="20260802144500 +0545" stop="20260802151500 +0545" channel="nettv-577" catchup-id="300391">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20260802151500 +0545" stop="20260802151500 +0545" channel="nettv-577" catchup-id="300148">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260802151500 +0545" stop="20260802154500 +0545" channel="nettv-577" catchup-id="4108955">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260802154500 +0545" stop="20260802154500 +0545" channel="nettv-577" catchup-id="298618">
-                <title>Chalo Saaf Karen</title>
-    </programme>
-    <programme start="20260802154500 +0545" stop="20260802161500 +0545" channel="nettv-577" catchup-id="327942">
-                <title>National Programme Of Music</title>
-    </programme>
-    <programme start="20260802161500 +0545" stop="20260802161500 +0545" channel="nettv-577" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802161500 +0545" stop="20260802164500 +0545" channel="nettv-577" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
-    </programme>
-    <programme start="20260802164500 +0545" stop="20260802164500 +0545" channel="nettv-577" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802164500 +0545" stop="20260802171500 +0545" channel="nettv-577" catchup-id="2514717">
-                <title>Navrang</title>
-    </programme>
-    <programme start="20260802171500 +0545" stop="20260802171500 +0545" channel="nettv-577" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802171500 +0545" stop="20260802174500 +0545" channel="nettv-577" catchup-id="4108910">
-                <title>Dhadkan Dilli Ki</title>
-    </programme>
-    <programme start="20260802174500 +0545" stop="20260802174500 +0545" channel="nettv-577" catchup-id="301570">
-                <title>Dhadkan Dilli Ki</title>
-    </programme>
-    <programme start="20260802174500 +0545" stop="20260802181500 +0545" channel="nettv-577" catchup-id="4108922">
-                <title>Awakening India</title>
-    </programme>
-    <programme start="20260802181500 +0545" stop="20260802181500 +0545" channel="nettv-577" catchup-id="297763">
-                <title>Images - Aaina</title>
-    </programme>
-    <programme start="20260802181500 +0545" stop="20260802184500 +0545" channel="nettv-577" catchup-id="4108943">
-                <title>Swaraj</title>
-    </programme>
-    <programme start="20260802184500 +0545" stop="20260802191500 +0545" channel="nettv-577" catchup-id="301978">
+    <programme start="20260817184500 +0545" stop="20260817191500 +0545" channel="nettv-567" catchup-id="301978">
                 <title>Maha Kumbh Aarti Live</title>
     </programme>
-    <programme start="20260802191500 +0545" stop="20260802191500 +0545" channel="nettv-577" catchup-id="301459">
-                <title>Panel Discussion On Upcoming Delhi Vidhan Sabha Election 2025</title>
+    <programme start="20260817191500 +0545" stop="20260817194500 +0545" channel="nettv-567" catchup-id="297031">
+                <title>Satyam-Shivam-Sundaram</title>
     </programme>
-    <programme start="20260802191500 +0545" stop="20260802194500 +0545" channel="nettv-577" catchup-id="4108958">
-                <title>Kakbhushandi Ramayan</title>
+    <programme start="20260817194500 +0545" stop="20260817201500 +0545" channel="nettv-567" catchup-id="298072">
+                <title>Raag Rang Shastra Ke Sang</title>
     </programme>
-    <programme start="20260802194500 +0545" stop="20260802201500 +0545" channel="nettv-577" catchup-id="1402038">
-                <title>Milestone Stories</title>
-    </programme>
-    <programme start="20260802201500 +0545" stop="20260802211500 +0545" channel="nettv-577" catchup-id="299050">
-                <title>Jhankar</title>
-    </programme>
-    <programme start="20260802211500 +0545" stop="20260802211500 +0545" channel="nettv-577" catchup-id="300670">
-                <title>Sahitiyiki</title>
-    </programme>
-    <programme start="20260802211500 +0545" stop="20260802214500 +0545" channel="nettv-577" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
-    </programme>
-    <programme start="20260802214500 +0545" stop="20260802214500 +0545" channel="nettv-577" catchup-id="299092">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20260802214500 +0545" stop="20260802224500 +0545" channel="nettv-577" catchup-id="4108949">
-                <title>Sookhti Nadiyan Aur Unka Bhavishya</title>
-    </programme>
-    <programme start="20260802224500 +0545" stop="20260802224500 +0545" channel="nettv-577" catchup-id="296014">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260802224500 +0545" stop="20260802231500 +0545" channel="nettv-577" catchup-id="4108919">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260802231500 +0545" stop="20260802231500 +0545" channel="nettv-577" catchup-id="301570">
-                <title>Dhadkan Dilli Ki</title>
-    </programme>
-    <programme start="20260802231500 +0545" stop="20260802234500 +0545" channel="nettv-577" catchup-id="4108943">
-                <title>Swaraj</title>
-    </programme>
-    <programme start="20260802234500 +0545" stop="2026-08-02 23:59:59.999999" channel="nettv-577" catchup-id="300952">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20260803001500 +0545" stop="20260803001500 +0545" channel="nettv-577" catchup-id="300391">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20260803001500 +0545" stop="20260803004500 +0545" channel="nettv-577" catchup-id="327906">
-                <title>National Programme Of Music</title>
-    </programme>
-    <programme start="20260803004500 +0545" stop="20260803004500 +0545" channel="nettv-577" catchup-id="296014">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260803004500 +0545" stop="20260803011500 +0545" channel="nettv-577" catchup-id="327942">
-                <title>National Programme Of Music</title>
-    </programme>
-    <programme start="20260803011500 +0545" stop="20260803011500 +0545" channel="nettv-577" catchup-id="297763">
-                <title>Images - Aaina</title>
-    </programme>
-    <programme start="20260803011500 +0545" stop="20260803014500 +0545" channel="nettv-577" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
-    </programme>
-    <programme start="20260803014500 +0545" stop="20260803014500 +0545" channel="nettv-577" catchup-id="300952">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20260803014500 +0545" stop="20260803021500 +0545" channel="nettv-577" catchup-id="300391">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20260803021500 +0545" stop="20260803021500 +0545" channel="nettv-577" catchup-id="301234">
-                <title>Ghazal</title>
-    </programme>
-    <programme start="20260803021500 +0545" stop="20260803024500 +0545" channel="nettv-577" catchup-id="4108955">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260803024500 +0545" stop="20260803024500 +0545" channel="nettv-577" catchup-id="299092">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20260803024500 +0545" stop="20260803031500 +0545" channel="nettv-577" catchup-id="2893446">
-                <title>Dastkari Ki Duniya</title>
-    </programme>
-    <programme start="20260803031500 +0545" stop="20260803034500 +0545" channel="nettv-577" catchup-id="1402038">
-                <title>Milestone Stories</title>
-    </programme>
-    <programme start="20260803034500 +0545" stop="20260803034500 +0545" channel="nettv-577" catchup-id="298618">
+    <programme start="20260817201500 +0545" stop="20260817204500 +0545" channel="nettv-567" catchup-id="298618">
                 <title>Chalo Saaf Karen</title>
     </programme>
-    <programme start="20260803034500 +0545" stop="20260803041500 +0545" channel="nettv-577" catchup-id="4108910">
-                <title>Dhadkan Dilli Ki</title>
+    <programme start="20260817204500 +0545" stop="20260817211500 +0545" channel="nettv-567" catchup-id="302350">
+                <title>Tejpur General Store</title>
     </programme>
-    <programme start="20260803041500 +0545" stop="20260803041500 +0545" channel="nettv-577" catchup-id="300148">
-                <title>Kashi Darshan</title>
+    <programme start="20260817211500 +0545" stop="20260817214500 +0545" channel="nettv-567" catchup-id="297688">
+                <title>Vilasini Natyam</title>
     </programme>
-    <programme start="20260803041500 +0545" stop="20260803044500 +0545" channel="nettv-577" catchup-id="4108919">
-                <title>Sanskriti Samvaad</title>
+    <programme start="20260817214500 +0545" stop="20260817224500 +0545" channel="nettv-567" catchup-id="299092">
+                <title>The Legends</title>
     </programme>
-    <programme start="20260803044500 +0545" stop="20260803044500 +0545" channel="nettv-577" catchup-id="300952">
+    <programme start="20260817224500 +0545" stop="20260817232500 +0545" channel="nettv-567" catchup-id="296404">
+                <title>Bundeli Geet</title>
+    </programme>
+    <programme start="20260817232500 +0545" stop="20260817234500 +0545" channel="nettv-567" catchup-id="298906">
+                <title>Karvat Badalti Zindagi</title>
+    </programme>
+    <programme start="20260817234500 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-567" catchup-id="300952">
                 <title>National Programme of Music</title>
     </programme>
-    <programme start="20260803044500 +0545" stop="20260803051500 +0545" channel="nettv-577" catchup-id="2514717">
-                <title>Navrang</title>
+    <programme start="20260818001500 +0545" stop="20260818004500 +0545" channel="nettv-567" catchup-id="300391">
+                <title>Carnatic Music</title>
     </programme>
-    <programme start="20260803051500 +0545" stop="20260803051500 +0545" channel="nettv-577" catchup-id="299434">
-                <title>Amrit Snan Mahakumbh</title>
+    <programme start="20260818004500 +0545" stop="20260818012500 +0545" channel="nettv-567" catchup-id="296404">
+                <title>Bundeli Geet</title>
     </programme>
-    <programme start="20260803051500 +0545" stop="20260803061500 +0545" channel="nettv-577" catchup-id="4108949">
-                <title>Sookhti Nadiyan Aur Unka Bhavishya</title>
+    <programme start="20260818012500 +0545" stop="20260818014500 +0545" channel="nettv-567" catchup-id="298906">
+                <title>Karvat Badalti Zindagi</title>
+    </programme>
+    <programme start="20260818014500 +0545" stop="20260818021500 +0545" channel="nettv-567" catchup-id="298072">
+                <title>Raag Rang Shastra Ke Sang</title>
+    </programme>
+    <programme start="20260818021500 +0545" stop="20260818024500 +0545" channel="nettv-567" catchup-id="301246">
+                <title>Ghar Sansar</title>
+    </programme>
+    <programme start="20260818024500 +0545" stop="20260818034500 +0545" channel="nettv-567" catchup-id="299092">
+                <title>The Legends</title>
+    </programme>
+    <programme start="20260818034500 +0545" stop="20260818041500 +0545" channel="nettv-567" catchup-id="298618">
+                <title>Chalo Saaf Karen</title>
+    </programme>
+    <programme start="20260818041500 +0545" stop="20260818044500 +0545" channel="nettv-567" catchup-id="300952">
+                <title>National Programme of Music</title>
+    </programme>
+    <programme start="20260818044500 +0545" stop="20260818051500 +0545" channel="nettv-567" catchup-id="300952">
+                <title>National Programme of Music</title>
+    </programme>
+    <programme start="20260818051500 +0545" stop="2026-08-18 23:59:59.999999" channel="nettv-567" catchup-id="300952">
+                <title>National Programme of Music</title>
     </programme>
     <programme start="20260803061500 +0545" stop="20260803061500 +0545" channel="nettv-577" catchup-id="299434">
                 <title>Amrit Snan Mahakumbh</title>
@@ -19558,254 +19240,92 @@
     <programme start="20260817044500 +0545" stop="20260817051500 +0545" channel="nettv-577" catchup-id="300952">
                 <title>National Programme of Music</title>
     </programme>
-    <programme start="20260817051500 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-577" catchup-id="299434">
+    <programme start="20260817051500 +0545" stop="20260817061500 +0545" channel="nettv-577" catchup-id="299434">
                 <title>Amrit Snan Mahakumbh</title>
     </programme>
-    <programme start="20260802054500 +0545" stop="20260802061500 +0545" channel="nettv-581" catchup-id="297688">
-                <title>Vilasini Natyam</title>
+    <programme start="20260817061500 +0545" stop="20260817121500 +0545" channel="nettv-577" catchup-id="299434">
+                <title>Amrit Snan Mahakumbh</title>
     </programme>
-    <programme start="20260802061500 +0545" stop="20260802061500 +0545" channel="nettv-581" catchup-id="296986">
-                <title>Shabad</title>
+    <programme start="20260817121500 +0545" stop="20260817131500 +0545" channel="nettv-577" catchup-id="300325">
+                <title>Question Hour Live</title>
     </programme>
-    <programme start="20260802061500 +0545" stop="20260802064500 +0545" channel="nettv-581" catchup-id="4108958">
-                <title>Kakbhushandi Ramayan</title>
+    <programme start="20260817131500 +0545" stop="20260817141500 +0545" channel="nettv-577" catchup-id="299434">
+                <title>Amrit Snan Mahakumbh</title>
     </programme>
-    <programme start="20260802064500 +0545" stop="20260802064500 +0545" channel="nettv-581" catchup-id="300952">
+    <programme start="20260817141500 +0545" stop="20260817164500 +0545" channel="nettv-577" catchup-id="299434">
+                <title>Amrit Snan Mahakumbh</title>
+    </programme>
+    <programme start="20260817164500 +0545" stop="20260817171500 +0545" channel="nettv-577" catchup-id="300952">
                 <title>National Programme of Music</title>
     </programme>
-    <programme start="20260802064500 +0545" stop="20260802071500 +0545" channel="nettv-581" catchup-id="327906">
-                <title>National Programme Of Music</title>
+    <programme start="20260817171500 +0545" stop="20260817175500 +0545" channel="nettv-577" catchup-id="296404">
+                <title>Bundeli Geet</title>
     </programme>
-    <programme start="20260802071500 +0545" stop="20260802071500 +0545" channel="nettv-581" catchup-id="296458">
-                <title>Party Political Telecast</title>
+    <programme start="20260817175500 +0545" stop="20260817181500 +0545" channel="nettv-577" catchup-id="298906">
+                <title>Karvat Badalti Zindagi</title>
     </programme>
-    <programme start="20260802071500 +0545" stop="20260802074500 +0545" channel="nettv-581" catchup-id="327942">
-                <title>National Programme Of Music</title>
+    <programme start="20260817181500 +0545" stop="20260817184500 +0545" channel="nettv-577" catchup-id="301246">
+                <title>Ghar Sansar</title>
     </programme>
-    <programme start="20260802074500 +0545" stop="20260802074500 +0545" channel="nettv-581" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802074500 +0545" stop="20260802081500 +0545" channel="nettv-581" catchup-id="4108943">
-                <title>Swaraj</title>
-    </programme>
-    <programme start="20260802081500 +0545" stop="20260802084500 +0545" channel="nettv-581" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802084500 +0545" stop="20260802084500 +0545" channel="nettv-581" catchup-id="300148">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260802084500 +0545" stop="20260802091500 +0545" channel="nettv-581" catchup-id="4108955">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260802091500 +0545" stop="20260802091500 +0545" channel="nettv-581" catchup-id="296962">
-                <title>Mahakumbha Darshan -2025 Live</title>
-    </programme>
-    <programme start="20260802091500 +0545" stop="20260802094500 +0545" channel="nettv-581" catchup-id="4108910">
-                <title>Dhadkan Dilli Ki</title>
-    </programme>
-    <programme start="20260802094500 +0545" stop="20260802101500 +0545" channel="nettv-581" catchup-id="2893446">
-                <title>Dastkari Ki Duniya</title>
-    </programme>
-    <programme start="20260802101500 +0545" stop="20260802101500 +0545" channel="nettv-581" catchup-id="300670">
-                <title>Sahitiyiki</title>
-    </programme>
-    <programme start="20260802101500 +0545" stop="20260802104500 +0545" channel="nettv-581" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
-    </programme>
-    <programme start="20260802104500 +0545" stop="20260802104500 +0545" channel="nettv-581" catchup-id="300952">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20260802104500 +0545" stop="20260802111500 +0545" channel="nettv-581" catchup-id="2514717">
-                <title>Navrang</title>
-    </programme>
-    <programme start="20260802111500 +0545" stop="20260802111500 +0545" channel="nettv-581" catchup-id="301234">
-                <title>Ghazal</title>
-    </programme>
-    <programme start="20260802111500 +0545" stop="20260802114500 +0545" channel="nettv-581" catchup-id="1402038">
-                <title>Milestone Stories</title>
-    </programme>
-    <programme start="20260802114500 +0545" stop="20260802114500 +0545" channel="nettv-581" catchup-id="303202">
-                <title>Jeewan Moalayoon Ki Pathshala</title>
-    </programme>
-    <programme start="20260802114500 +0545" stop="20260802121500 +0545" channel="nettv-581" catchup-id="4108916">
-                <title>Jeewan Moolyoan Kee Paathshala</title>
-    </programme>
-    <programme start="20260802121500 +0545" stop="20260802121500 +0545" channel="nettv-581" catchup-id="299092">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20260802121500 +0545" stop="20260802131500 +0545" channel="nettv-581" catchup-id="4108949">
-                <title>Sookhti Nadiyan Aur Unka Bhavishya</title>
-    </programme>
-    <programme start="20260802131500 +0545" stop="20260802131500 +0545" channel="nettv-581" catchup-id="296014">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260802131500 +0545" stop="20260802134500 +0545" channel="nettv-581" catchup-id="4108919">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260802134500 +0545" stop="20260802134500 +0545" channel="nettv-581" catchup-id="300952">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20260802134500 +0545" stop="20260802141500 +0545" channel="nettv-581" catchup-id="2893446">
-                <title>Dastkari Ki Duniya</title>
-    </programme>
-    <programme start="20260802141500 +0545" stop="20260802141500 +0545" channel="nettv-581" catchup-id="300391">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20260802141500 +0545" stop="20260802144500 +0545" channel="nettv-581" catchup-id="1260525">
-                <title>Mujhe Sikkim Se Pyar Hai</title>
-    </programme>
-    <programme start="20260802144500 +0545" stop="20260802144500 +0545" channel="nettv-581" catchup-id="297763">
-                <title>Images - Aaina</title>
-    </programme>
-    <programme start="20260802144500 +0545" stop="20260802151500 +0545" channel="nettv-581" catchup-id="300391">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20260802151500 +0545" stop="20260802151500 +0545" channel="nettv-581" catchup-id="300148">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260802151500 +0545" stop="20260802154500 +0545" channel="nettv-581" catchup-id="4108955">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260802154500 +0545" stop="20260802154500 +0545" channel="nettv-581" catchup-id="298618">
-                <title>Chalo Saaf Karen</title>
-    </programme>
-    <programme start="20260802154500 +0545" stop="20260802161500 +0545" channel="nettv-581" catchup-id="327942">
-                <title>National Programme Of Music</title>
-    </programme>
-    <programme start="20260802161500 +0545" stop="20260802161500 +0545" channel="nettv-581" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802161500 +0545" stop="20260802164500 +0545" channel="nettv-581" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
-    </programme>
-    <programme start="20260802164500 +0545" stop="20260802164500 +0545" channel="nettv-581" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802164500 +0545" stop="20260802171500 +0545" channel="nettv-581" catchup-id="2514717">
-                <title>Navrang</title>
-    </programme>
-    <programme start="20260802171500 +0545" stop="20260802171500 +0545" channel="nettv-581" catchup-id="296458">
-                <title>Party Political Telecast</title>
-    </programme>
-    <programme start="20260802171500 +0545" stop="20260802174500 +0545" channel="nettv-581" catchup-id="4108910">
-                <title>Dhadkan Dilli Ki</title>
-    </programme>
-    <programme start="20260802174500 +0545" stop="20260802174500 +0545" channel="nettv-581" catchup-id="301570">
-                <title>Dhadkan Dilli Ki</title>
-    </programme>
-    <programme start="20260802174500 +0545" stop="20260802181500 +0545" channel="nettv-581" catchup-id="4108922">
-                <title>Awakening India</title>
-    </programme>
-    <programme start="20260802181500 +0545" stop="20260802181500 +0545" channel="nettv-581" catchup-id="297763">
-                <title>Images - Aaina</title>
-    </programme>
-    <programme start="20260802181500 +0545" stop="20260802184500 +0545" channel="nettv-581" catchup-id="4108943">
-                <title>Swaraj</title>
-    </programme>
-    <programme start="20260802184500 +0545" stop="20260802191500 +0545" channel="nettv-581" catchup-id="301978">
+    <programme start="20260817184500 +0545" stop="20260817191500 +0545" channel="nettv-577" catchup-id="301978">
                 <title>Maha Kumbh Aarti Live</title>
     </programme>
-    <programme start="20260802191500 +0545" stop="20260802191500 +0545" channel="nettv-581" catchup-id="301459">
-                <title>Panel Discussion On Upcoming Delhi Vidhan Sabha Election 2025</title>
+    <programme start="20260817191500 +0545" stop="20260817194500 +0545" channel="nettv-577" catchup-id="297031">
+                <title>Satyam-Shivam-Sundaram</title>
     </programme>
-    <programme start="20260802191500 +0545" stop="20260802194500 +0545" channel="nettv-581" catchup-id="4108958">
-                <title>Kakbhushandi Ramayan</title>
+    <programme start="20260817194500 +0545" stop="20260817201500 +0545" channel="nettv-577" catchup-id="298072">
+                <title>Raag Rang Shastra Ke Sang</title>
     </programme>
-    <programme start="20260802194500 +0545" stop="20260802201500 +0545" channel="nettv-581" catchup-id="1402038">
-                <title>Milestone Stories</title>
-    </programme>
-    <programme start="20260802201500 +0545" stop="20260802211500 +0545" channel="nettv-581" catchup-id="299050">
-                <title>Jhankar</title>
-    </programme>
-    <programme start="20260802211500 +0545" stop="20260802211500 +0545" channel="nettv-581" catchup-id="300670">
-                <title>Sahitiyiki</title>
-    </programme>
-    <programme start="20260802211500 +0545" stop="20260802214500 +0545" channel="nettv-581" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
-    </programme>
-    <programme start="20260802214500 +0545" stop="20260802214500 +0545" channel="nettv-581" catchup-id="299092">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20260802214500 +0545" stop="20260802224500 +0545" channel="nettv-581" catchup-id="4108949">
-                <title>Sookhti Nadiyan Aur Unka Bhavishya</title>
-    </programme>
-    <programme start="20260802224500 +0545" stop="20260802224500 +0545" channel="nettv-581" catchup-id="296014">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260802224500 +0545" stop="20260802231500 +0545" channel="nettv-581" catchup-id="4108919">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260802231500 +0545" stop="20260802231500 +0545" channel="nettv-581" catchup-id="301570">
-                <title>Dhadkan Dilli Ki</title>
-    </programme>
-    <programme start="20260802231500 +0545" stop="20260802234500 +0545" channel="nettv-581" catchup-id="4108943">
-                <title>Swaraj</title>
-    </programme>
-    <programme start="20260802234500 +0545" stop="2026-08-02 23:59:59.999999" channel="nettv-581" catchup-id="300952">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20260803001500 +0545" stop="20260803001500 +0545" channel="nettv-581" catchup-id="300391">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20260803001500 +0545" stop="20260803004500 +0545" channel="nettv-581" catchup-id="327906">
-                <title>National Programme Of Music</title>
-    </programme>
-    <programme start="20260803004500 +0545" stop="20260803004500 +0545" channel="nettv-581" catchup-id="296014">
-                <title>Sanskriti Samvaad</title>
-    </programme>
-    <programme start="20260803004500 +0545" stop="20260803011500 +0545" channel="nettv-581" catchup-id="327942">
-                <title>National Programme Of Music</title>
-    </programme>
-    <programme start="20260803011500 +0545" stop="20260803011500 +0545" channel="nettv-581" catchup-id="297763">
-                <title>Images - Aaina</title>
-    </programme>
-    <programme start="20260803011500 +0545" stop="20260803014500 +0545" channel="nettv-581" catchup-id="4108913">
-                <title>Sahitya Samvaad</title>
-    </programme>
-    <programme start="20260803014500 +0545" stop="20260803014500 +0545" channel="nettv-581" catchup-id="300952">
-                <title>National Programme of Music</title>
-    </programme>
-    <programme start="20260803014500 +0545" stop="20260803021500 +0545" channel="nettv-581" catchup-id="300391">
-                <title>Carnatic Music</title>
-    </programme>
-    <programme start="20260803021500 +0545" stop="20260803021500 +0545" channel="nettv-581" catchup-id="301234">
-                <title>Ghazal</title>
-    </programme>
-    <programme start="20260803021500 +0545" stop="20260803024500 +0545" channel="nettv-581" catchup-id="4108955">
-                <title>Kashi Darshan</title>
-    </programme>
-    <programme start="20260803024500 +0545" stop="20260803024500 +0545" channel="nettv-581" catchup-id="299092">
-                <title>The Legends</title>
-    </programme>
-    <programme start="20260803024500 +0545" stop="20260803031500 +0545" channel="nettv-581" catchup-id="2893446">
-                <title>Dastkari Ki Duniya</title>
-    </programme>
-    <programme start="20260803031500 +0545" stop="20260803034500 +0545" channel="nettv-581" catchup-id="1402038">
-                <title>Milestone Stories</title>
-    </programme>
-    <programme start="20260803034500 +0545" stop="20260803034500 +0545" channel="nettv-581" catchup-id="298618">
+    <programme start="20260817201500 +0545" stop="20260817204500 +0545" channel="nettv-577" catchup-id="298618">
                 <title>Chalo Saaf Karen</title>
     </programme>
-    <programme start="20260803034500 +0545" stop="20260803041500 +0545" channel="nettv-581" catchup-id="4108910">
-                <title>Dhadkan Dilli Ki</title>
+    <programme start="20260817204500 +0545" stop="20260817211500 +0545" channel="nettv-577" catchup-id="302350">
+                <title>Tejpur General Store</title>
     </programme>
-    <programme start="20260803041500 +0545" stop="20260803041500 +0545" channel="nettv-581" catchup-id="300148">
-                <title>Kashi Darshan</title>
+    <programme start="20260817211500 +0545" stop="20260817214500 +0545" channel="nettv-577" catchup-id="297688">
+                <title>Vilasini Natyam</title>
     </programme>
-    <programme start="20260803041500 +0545" stop="20260803044500 +0545" channel="nettv-581" catchup-id="4108919">
-                <title>Sanskriti Samvaad</title>
+    <programme start="20260817214500 +0545" stop="20260817224500 +0545" channel="nettv-577" catchup-id="299092">
+                <title>The Legends</title>
     </programme>
-    <programme start="20260803044500 +0545" stop="20260803044500 +0545" channel="nettv-581" catchup-id="300952">
+    <programme start="20260817224500 +0545" stop="20260817232500 +0545" channel="nettv-577" catchup-id="296404">
+                <title>Bundeli Geet</title>
+    </programme>
+    <programme start="20260817232500 +0545" stop="20260817234500 +0545" channel="nettv-577" catchup-id="298906">
+                <title>Karvat Badalti Zindagi</title>
+    </programme>
+    <programme start="20260817234500 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-577" catchup-id="300952">
                 <title>National Programme of Music</title>
     </programme>
-    <programme start="20260803044500 +0545" stop="20260803051500 +0545" channel="nettv-581" catchup-id="2514717">
-                <title>Navrang</title>
+    <programme start="20260818001500 +0545" stop="20260818004500 +0545" channel="nettv-577" catchup-id="300391">
+                <title>Carnatic Music</title>
     </programme>
-    <programme start="20260803051500 +0545" stop="20260803051500 +0545" channel="nettv-581" catchup-id="299434">
-                <title>Amrit Snan Mahakumbh</title>
+    <programme start="20260818004500 +0545" stop="20260818012500 +0545" channel="nettv-577" catchup-id="296404">
+                <title>Bundeli Geet</title>
     </programme>
-    <programme start="20260803051500 +0545" stop="20260803061500 +0545" channel="nettv-581" catchup-id="4108949">
-                <title>Sookhti Nadiyan Aur Unka Bhavishya</title>
+    <programme start="20260818012500 +0545" stop="20260818014500 +0545" channel="nettv-577" catchup-id="298906">
+                <title>Karvat Badalti Zindagi</title>
+    </programme>
+    <programme start="20260818014500 +0545" stop="20260818021500 +0545" channel="nettv-577" catchup-id="298072">
+                <title>Raag Rang Shastra Ke Sang</title>
+    </programme>
+    <programme start="20260818021500 +0545" stop="20260818024500 +0545" channel="nettv-577" catchup-id="301246">
+                <title>Ghar Sansar</title>
+    </programme>
+    <programme start="20260818024500 +0545" stop="20260818034500 +0545" channel="nettv-577" catchup-id="299092">
+                <title>The Legends</title>
+    </programme>
+    <programme start="20260818034500 +0545" stop="20260818041500 +0545" channel="nettv-577" catchup-id="298618">
+                <title>Chalo Saaf Karen</title>
+    </programme>
+    <programme start="20260818041500 +0545" stop="20260818044500 +0545" channel="nettv-577" catchup-id="300952">
+                <title>National Programme of Music</title>
+    </programme>
+    <programme start="20260818044500 +0545" stop="20260818051500 +0545" channel="nettv-577" catchup-id="300952">
+                <title>National Programme of Music</title>
+    </programme>
+    <programme start="20260818051500 +0545" stop="2026-08-18 23:59:59.999999" channel="nettv-577" catchup-id="300952">
+                <title>National Programme of Music</title>
     </programme>
     <programme start="20260803061500 +0545" stop="20260803061500 +0545" channel="nettv-581" catchup-id="299434">
                 <title>Amrit Snan Mahakumbh</title>
@@ -22888,8 +22408,92 @@
     <programme start="20260817044500 +0545" stop="20260817051500 +0545" channel="nettv-581" catchup-id="300952">
                 <title>National Programme of Music</title>
     </programme>
-    <programme start="20260817051500 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-581" catchup-id="299434">
+    <programme start="20260817051500 +0545" stop="20260817061500 +0545" channel="nettv-581" catchup-id="299434">
                 <title>Amrit Snan Mahakumbh</title>
+    </programme>
+    <programme start="20260817061500 +0545" stop="20260817121500 +0545" channel="nettv-581" catchup-id="299434">
+                <title>Amrit Snan Mahakumbh</title>
+    </programme>
+    <programme start="20260817121500 +0545" stop="20260817131500 +0545" channel="nettv-581" catchup-id="300325">
+                <title>Question Hour Live</title>
+    </programme>
+    <programme start="20260817131500 +0545" stop="20260817141500 +0545" channel="nettv-581" catchup-id="299434">
+                <title>Amrit Snan Mahakumbh</title>
+    </programme>
+    <programme start="20260817141500 +0545" stop="20260817164500 +0545" channel="nettv-581" catchup-id="299434">
+                <title>Amrit Snan Mahakumbh</title>
+    </programme>
+    <programme start="20260817164500 +0545" stop="20260817171500 +0545" channel="nettv-581" catchup-id="300952">
+                <title>National Programme of Music</title>
+    </programme>
+    <programme start="20260817171500 +0545" stop="20260817175500 +0545" channel="nettv-581" catchup-id="296404">
+                <title>Bundeli Geet</title>
+    </programme>
+    <programme start="20260817175500 +0545" stop="20260817181500 +0545" channel="nettv-581" catchup-id="298906">
+                <title>Karvat Badalti Zindagi</title>
+    </programme>
+    <programme start="20260817181500 +0545" stop="20260817184500 +0545" channel="nettv-581" catchup-id="301246">
+                <title>Ghar Sansar</title>
+    </programme>
+    <programme start="20260817184500 +0545" stop="20260817191500 +0545" channel="nettv-581" catchup-id="301978">
+                <title>Maha Kumbh Aarti Live</title>
+    </programme>
+    <programme start="20260817191500 +0545" stop="20260817194500 +0545" channel="nettv-581" catchup-id="297031">
+                <title>Satyam-Shivam-Sundaram</title>
+    </programme>
+    <programme start="20260817194500 +0545" stop="20260817201500 +0545" channel="nettv-581" catchup-id="298072">
+                <title>Raag Rang Shastra Ke Sang</title>
+    </programme>
+    <programme start="20260817201500 +0545" stop="20260817204500 +0545" channel="nettv-581" catchup-id="298618">
+                <title>Chalo Saaf Karen</title>
+    </programme>
+    <programme start="20260817204500 +0545" stop="20260817211500 +0545" channel="nettv-581" catchup-id="302350">
+                <title>Tejpur General Store</title>
+    </programme>
+    <programme start="20260817211500 +0545" stop="20260817214500 +0545" channel="nettv-581" catchup-id="297688">
+                <title>Vilasini Natyam</title>
+    </programme>
+    <programme start="20260817214500 +0545" stop="20260817224500 +0545" channel="nettv-581" catchup-id="299092">
+                <title>The Legends</title>
+    </programme>
+    <programme start="20260817224500 +0545" stop="20260817232500 +0545" channel="nettv-581" catchup-id="296404">
+                <title>Bundeli Geet</title>
+    </programme>
+    <programme start="20260817232500 +0545" stop="20260817234500 +0545" channel="nettv-581" catchup-id="298906">
+                <title>Karvat Badalti Zindagi</title>
+    </programme>
+    <programme start="20260817234500 +0545" stop="2026-08-17 23:59:59.999999" channel="nettv-581" catchup-id="300952">
+                <title>National Programme of Music</title>
+    </programme>
+    <programme start="20260818001500 +0545" stop="20260818004500 +0545" channel="nettv-581" catchup-id="300391">
+                <title>Carnatic Music</title>
+    </programme>
+    <programme start="20260818004500 +0545" stop="20260818012500 +0545" channel="nettv-581" catchup-id="296404">
+                <title>Bundeli Geet</title>
+    </programme>
+    <programme start="20260818012500 +0545" stop="20260818014500 +0545" channel="nettv-581" catchup-id="298906">
+                <title>Karvat Badalti Zindagi</title>
+    </programme>
+    <programme start="20260818014500 +0545" stop="20260818021500 +0545" channel="nettv-581" catchup-id="298072">
+                <title>Raag Rang Shastra Ke Sang</title>
+    </programme>
+    <programme start="20260818021500 +0545" stop="20260818024500 +0545" channel="nettv-581" catchup-id="301246">
+                <title>Ghar Sansar</title>
+    </programme>
+    <programme start="20260818024500 +0545" stop="20260818034500 +0545" channel="nettv-581" catchup-id="299092">
+                <title>The Legends</title>
+    </programme>
+    <programme start="20260818034500 +0545" stop="20260818041500 +0545" channel="nettv-581" catchup-id="298618">
+                <title>Chalo Saaf Karen</title>
+    </programme>
+    <programme start="20260818041500 +0545" stop="20260818044500 +0545" channel="nettv-581" catchup-id="300952">
+                <title>National Programme of Music</title>
+    </programme>
+    <programme start="20260818044500 +0545" stop="20260818051500 +0545" channel="nettv-581" catchup-id="300952">
+                <title>National Programme of Music</title>
+    </programme>
+    <programme start="20260818051500 +0545" stop="2026-08-18 23:59:59.999999" channel="nettv-581" catchup-id="300952">
+                <title>National Programme of Music</title>
     </programme>
     <programme start="20260804010000 +0545" stop="2026-08-04 23:59:59.999999" channel="nettv-878" catchup-id="217053702">
                 <title>TBA246</title>
